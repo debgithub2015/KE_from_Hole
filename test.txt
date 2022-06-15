@@ -1,0 +1,641 @@
+Last login: Tue Jan 25 23:05:35 on ttys002
+You have mail.
+dhcp-8-21:~ ayers$ cd Documents/__Programming/KEfromHole
+dhcp-8-21:KEfromHole ayers$ ./kehole.x
+ smoothing iterations for Voronoi cells            3
+ number of angular points           74
+ radial factor   0.59999999999999998     
+ Constructing molecular grid of        5550  points...
+ Thomas-Fermi k.e.                50.354478483678371     
+ von Weizsacker k.e.              43.408717585923434     
+ grad. expansion (TF + 1/9 vW)    55.177669326558750     
+ TF + 1/5 vW                      59.036222000863056     
+ exact k.e. from wfn file         55.566108996577888     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:    1.0000000000000000     
+  
+  
+ For            1  point normalization.
+ Number of electrons,    5.0005075218685215     
+ Iteration info:
+           1  the maximum error:    76.049819594150804     
+                    total error:    1.9965454539337495     
+                      5550  of         5550  points improved.
+           2  the maximum error:    46.248332899219172     
+                    total error:   0.69651899720884547     
+                      4097  of         5550  points improved.
+           3  the maximum error:    6.6855107052045524     
+                    total error:   0.15494210566643152     
+                      4565  of         5550  points improved.
+           4  the maximum error:    1.1596253488220949     
+                    total error:   2.95320582820606733E-002
+                      4013  of         5550  points improved.
+           5  the maximum error:   4.81280949908113667E-002
+                    total error:   9.26512498863896368E-003
+                      3089  of         5550  points improved.
+           6  the maximum error:   8.60904547973620672E-005
+                    total error:   8.98969813334639378E-003
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    5.0005075218685215     
+ Iteration info:
+           1  the maximum error:    18.054567476726973     
+                    total error:    1.6313045255502130     
+                      5550  of         5550  points improved.
+           2  the maximum error:    2.5198031211386436     
+                    total error:    1.9063840036841122     
+                      2436  of         5550  points improved.
+           3  the maximum error:    2.9762505956014582     
+                    total error:   0.93676926877305255     
+                      3995  of         5550  points improved.
+           4  the maximum error:   0.93252253379855721     
+                    total error:   6.84686368068232187E-002
+                      4513  of         5550  points improved.
+           5  the maximum error:   0.33753529740854638     
+                    total error:   5.04595630745403104E-002
+                      2528  of         5550  points improved.
+           6  the maximum error:   0.16139241752875777     
+                    total error:   3.20822007217585886E-002
+                      2543  of         5550  points improved.
+           7  the maximum error:   0.11241311867199917     
+                    total error:   2.26126981390365675E-002
+                      2177  of         5550  points improved.
+           8  the maximum error:   8.01963375995292660E-002
+                    total error:   2.00612569923949192E-002
+                      2826  of         5550  points improved.
+           9  the maximum error:   5.72646138767487559E-002
+                    total error:   1.55789286497778155E-002
+                      2264  of         5550  points improved.
+          10  the maximum error:   4.17584706555389415E-002
+                    total error:   1.39868228506305325E-002
+                      3907  of         5550  points improved.
+          11  the maximum error:   3.16249275950996681E-002
+                    total error:   1.27148400413819203E-002
+                      2943  of         5550  points improved.
+          12  the maximum error:   2.43444520365870484E-002
+                    total error:   1.14382066830275297E-002
+                      4355  of         5550  points improved.
+          13  the maximum error:   1.91419251115757597E-002
+                    total error:   1.08104610486362482E-002
+                      3269  of         5550  points improved.
+          14  the maximum error:   1.52422657493351248E-002
+                    total error:   1.00600989245449041E-002
+                      4562  of         5550  points improved.
+          15  the maximum error:   1.21762491489328939E-002
+                    total error:   9.57593416375370626E-003
+                      3833  of         5550  points improved.
+          16  the maximum error:   9.67421530459034069E-003
+                    total error:   9.03568293667299932E-003
+                      4790  of         5550  points improved.
+          17  the maximum error:   7.44997061525110200E-003
+                    total error:   8.74026172915091590E-003
+                      3738  of         5550  points improved.
+          18  the maximum error:   5.57192831890790993E-003
+                    total error:   8.46293883839038114E-003
+                      4841  of         5550  points improved.
+          19  the maximum error:   4.09404071043191486E-003
+                    total error:   8.26902787252635149E-003
+                      3815  of         5550  points improved.
+          20  the maximum error:   2.75286624941090043E-003
+                    total error:   8.16132308412488572E-003
+                      4724  of         5550  points improved.
+          21  the maximum error:   1.53096225140705237E-003
+                    total error:   8.09386520619771906E-003
+                      3263  of         5550  points improved.
+          22  the maximum error:   4.73197929147358136E-004
+                    total error:   8.07385775009203041E-003
+           2 -point hole normalization converged.
+  
+ for g"(0) = -1/5
+ Thomas-Fermi-ish k.e.          16.784826161226214     
+ LDA-based k.e. from hole       60.193543747149647     
+ one-point normalization KE     48.303428635563044     
+ two-point normalization KE     49.099140999363605     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -2/5
+ Thomas-Fermi-ish k.e.          33.569652322452427     
+ LDA-based k.e. from hole       76.978369908375868     
+ one-point normalization KE     53.198139685202648     
+ two-point normalization KE     54.789564412803777     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          50.354478483678356     
+ LDA-based k.e. from hole       93.763196069601790     
+ one-point normalization KE     58.092850734842301     
+ two-point normalization KE     60.479987826243871     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:   -1.0000000000000000     
+  
+  
+ For            1  point normalization.
+ Number of electrons,    5.0005075218685215     
+ Iteration info:
+           1  the maximum error:    76.049819594150804     
+                    total error:    1.9965454539337495     
+                      5550  of         5550  points improved.
+           2  the maximum error:    46.248332899219172     
+                    total error:   0.69651899720884547     
+                      4097  of         5550  points improved.
+           3  the maximum error:    6.6855107052045524     
+                    total error:   0.15494210566643152     
+                      4565  of         5550  points improved.
+           4  the maximum error:    1.1596253488220949     
+                    total error:   2.95320582820606733E-002
+                      4013  of         5550  points improved.
+           5  the maximum error:   4.81280949908113667E-002
+                    total error:   9.26512498863896368E-003
+                      3089  of         5550  points improved.
+           6  the maximum error:   8.60904547973620672E-005
+                    total error:   8.98969813334639378E-003
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    5.0005075218685215     
+ Iteration info:
+           1  the maximum error:    32.432871520727240     
+                    total error:    1.5049437500761536     
+                      5550  of         5550  points improved.
+           2  the maximum error:    51.830416331925662     
+                    total error:    3.1047699626860199     
+                       197  of         5550  points improved.
+           3  the maximum error:    34.566045229614595     
+                    total error:   0.98304378813336990     
+                      3772  of         5550  points improved.
+           4  the maximum error:    29.183248736977141     
+                    total error:   0.25956190479271707     
+                      4903  of         5550  points improved.
+           5  the maximum error:    23.649202279806634     
+                    total error:   0.11023051620353526     
+                      4326  of         5550  points improved.
+           6  the maximum error:    16.409413300283070     
+                    total error:   0.10057790098343534     
+                      3728  of         5550  points improved.
+           7  the maximum error:    9.7285926753637941     
+                    total error:   3.54580444726198540E-002
+                      4369  of         5550  points improved.
+           8  the maximum error:    1.2794523208598703     
+                    total error:   2.38039991326884012E-002
+                      1212  of         5550  points improved.
+           9  the maximum error:   0.86340342207509357     
+                    total error:   2.99397747328819658E-002
+                      1135  of         5550  points improved.
+          10  the maximum error:   0.38557412181324319     
+                    total error:   1.95837963038001557E-002
+                      1799  of         5550  points improved.
+          11  the maximum error:   0.34736576736819119     
+                    total error:   1.81895917926533576E-002
+                      1530  of         5550  points improved.
+          12  the maximum error:   0.23533477087732457     
+                    total error:   1.46625962276890794E-002
+                      2033  of         5550  points improved.
+          13  the maximum error:   0.19513565703956381     
+                    total error:   1.37240605427533628E-002
+                      1761  of         5550  points improved.
+          14  the maximum error:   0.15609662522439693     
+                    total error:   1.25348895306338463E-002
+                      2252  of         5550  points improved.
+          15  the maximum error:   0.13040590756368806     
+                    total error:   1.17288647537765328E-002
+                      1903  of         5550  points improved.
+          16  the maximum error:   0.10460614896847747     
+                    total error:   1.10084204186852250E-002
+                      2383  of         5550  points improved.
+          17  the maximum error:   8.53169684303905773E-002
+                    total error:   1.04264394671047707E-002
+                      2056  of         5550  points improved.
+          18  the maximum error:   6.91756919362296191E-002
+                    total error:   9.99644150412034790E-003
+                      2536  of         5550  points improved.
+          19  the maximum error:   5.66485855216033868E-002
+                    total error:   9.63725159331780927E-003
+                      2228  of         5550  points improved.
+          20  the maximum error:   4.62470686386504334E-002
+                    total error:   9.36353147782214949E-003
+                      2736  of         5550  points improved.
+          21  the maximum error:   3.77011674327368540E-002
+                    total error:   9.13014500974178647E-003
+                      2738  of         5550  points improved.
+          22  the maximum error:   2.91398864203954479E-002
+                    total error:   8.86418577563051653E-003
+                      3800  of         5550  points improved.
+          23  the maximum error:   2.15498361606952654E-002
+                    total error:   8.70355612867459473E-003
+                      3587  of         5550  points improved.
+          24  the maximum error:   1.54229395516339660E-002
+                    total error:   8.55258378740839792E-003
+                      3659  of         5550  points improved.
+          25  the maximum error:   1.05763468278064245E-002
+                    total error:   8.45789561637695642E-003
+                      3299  of         5550  points improved.
+          26  the maximum error:   6.33121277000573378E-003
+                    total error:   8.36729193662159865E-003
+                      3518  of         5550  points improved.
+          27  the maximum error:   3.11780676530299490E-003
+                    total error:   8.32580488725065578E-003
+                      2936  of         5550  points improved.
+          28  the maximum error:   1.29012744787224891E-003
+                    total error:   8.30174044880149266E-003
+                      3278  of         5550  points improved.
+          29  the maximum error:   4.47251828894905314E-004
+                    total error:   8.29387050591782679E-003
+           2 -point hole normalization converged.
+  
+ for g"(0) = -1/5
+ Thomas-Fermi-ish k.e.          16.784826161226214     
+ LDA-based k.e. from hole       60.193543747149647     
+ one-point normalization KE     48.303428635563044     
+ two-point normalization KE     52.582332857071989     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -2/5
+ Thomas-Fermi-ish k.e.          33.569652322452427     
+ LDA-based k.e. from hole       76.978369908375868     
+ one-point normalization KE     53.198139685202648     
+ two-point normalization KE     61.755948128220538     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          50.354478483678356     
+ LDA-based k.e. from hole       93.763196069601790     
+ one-point normalization KE     58.092850734842301     
+ two-point normalization KE     70.929563399369115     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:    2.0000000000000000     
+  
+  
+ For            1  point normalization.
+ Number of electrons,    5.0005075218685215     
+ Iteration info:
+           1  the maximum error:    76.049819594150804     
+                    total error:    1.9965454539337495     
+                      5550  of         5550  points improved.
+           2  the maximum error:    46.248332899219172     
+                    total error:   0.69651899720884547     
+                      4097  of         5550  points improved.
+           3  the maximum error:    6.6855107052045524     
+                    total error:   0.15494210566643152     
+                      4565  of         5550  points improved.
+           4  the maximum error:    1.1596253488220949     
+                    total error:   2.95320582820606733E-002
+                      4013  of         5550  points improved.
+           5  the maximum error:   4.81280949908113667E-002
+                    total error:   9.26512498863896368E-003
+                      3089  of         5550  points improved.
+           6  the maximum error:   8.60904547973620672E-005
+                    total error:   8.98969813334639378E-003
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    5.0005075218685215     
+ Iteration info:
+           1  the maximum error:    14.310411289798235     
+                    total error:    1.6867013495675927     
+                      5550  of         5550  points improved.
+           2  the maximum error:    1.4574521101340305     
+                    total error:    1.8516322112891181     
+                      2514  of         5550  points improved.
+           3  the maximum error:    1.6913334742929054     
+                    total error:   0.78088560515497607     
+                      4169  of         5550  points improved.
+           4  the maximum error:   0.57468732310501491     
+                    total error:   0.13402682757955173     
+                      2502  of         5550  points improved.
+           5  the maximum error:   0.13378197428377819     
+                    total error:   8.54720798913786439E-002
+                      4898  of         5550  points improved.
+           6  the maximum error:   5.89962109242597385E-002
+                    total error:   5.89732289732153928E-002
+                      4235  of         5550  points improved.
+           7  the maximum error:   1.90758039537009642E-002
+                    total error:   4.85453423472982856E-002
+                      5085  of         5550  points improved.
+           8  the maximum error:   1.69468620900454906E-003
+                    total error:   4.47915969100494138E-002
+                      4276  of         5550  points improved.
+           9  the maximum error:   1.64294037540805475E-003
+                    total error:   4.05846663340250283E-002
+                      4949  of         5550  points improved.
+          10  the maximum error:   4.83188385145427984E-003
+                    total error:   3.90269073287234439E-002
+                      3493  of         5550  points improved.
+          11  the maximum error:   1.80209157925936727E-003
+                    total error:   3.65662348380746752E-002
+                      4517  of         5550  points improved.
+          12  the maximum error:   3.64912413221583432E-003
+                    total error:   3.56379199409710481E-002
+                      3960  of         5550  points improved.
+          13  the maximum error:   2.53701870398380684E-003
+                    total error:   3.46122883106636456E-002
+                      4605  of         5550  points improved.
+          14  the maximum error:   2.47500078260499273E-003
+                    total error:   3.39951157221282524E-002
+                      4035  of         5550  points improved.
+          15  the maximum error:   1.88703008404739908E-003
+                    total error:   3.33913732260176718E-002
+                      4645  of         5550  points improved.
+          16  the maximum error:   1.47426489008475230E-003
+                    total error:   3.29435194123403954E-002
+                      4066  of         5550  points improved.
+          17  the maximum error:   1.27201345658634253E-003
+                    total error:   3.25828302105809833E-002
+                      4662  of         5550  points improved.
+          18  the maximum error:   7.57309071962380888E-004
+                    total error:   3.23758662745524811E-002
+           2 -point hole normalization converged.
+  
+ for g"(0) = -1/5
+ Thomas-Fermi-ish k.e.          16.784826161226214     
+ LDA-based k.e. from hole       60.193543747149647     
+ one-point normalization KE     48.303428635563044     
+ two-point normalization KE     48.637509396569641     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -2/5
+ Thomas-Fermi-ish k.e.          33.569652322452427     
+ LDA-based k.e. from hole       76.978369908375868     
+ one-point normalization KE     53.198139685202648     
+ two-point normalization KE     53.866301207215855     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          50.354478483678356     
+ LDA-based k.e. from hole       93.763196069601790     
+ one-point normalization KE     58.092850734842301     
+ two-point normalization KE     59.095093017862062     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:   -2.0000000000000000     
+  
+  
+ For            1  point normalization.
+ Number of electrons,    5.0005075218685215     
+ Iteration info:
+           1  the maximum error:    76.049819594150804     
+                    total error:    1.9965454539337495     
+                      5550  of         5550  points improved.
+           2  the maximum error:    46.248332899219172     
+                    total error:   0.69651899720884547     
+                      4097  of         5550  points improved.
+           3  the maximum error:    6.6855107052045524     
+                    total error:   0.15494210566643152     
+                      4565  of         5550  points improved.
+           4  the maximum error:    1.1596253488220949     
+                    total error:   2.95320582820606733E-002
+                      4013  of         5550  points improved.
+           5  the maximum error:   4.81280949908113667E-002
+                    total error:   9.26512498863896368E-003
+                      3089  of         5550  points improved.
+           6  the maximum error:   8.60904547973620672E-005
+                    total error:   8.98969813334639378E-003
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    5.0005075218685215     
+ Iteration info:
+           1  the maximum error:    46.076963680507326     
+                    total error:    1.4639599825232570     
+                      5550  of         5550  points improved.
+           2  the maximum error:    65.276079579352398     
+                    total error:    2.3347894165970855     
+                       157  of         5550  points improved.
+           3  the maximum error:    62.295056101796519     
+                    total error:    1.4647349200953934     
+                      1821  of         5550  points improved.
+           4  the maximum error:    48.768595319709434     
+                    total error:   0.65495625027549564     
+                      4719  of         5550  points improved.
+           5  the maximum error:    46.361475120140469     
+                    total error:   0.48451270369698396     
+                      4035  of         5550  points improved.
+           6  the maximum error:    39.287842441565594     
+                    total error:   0.37229292313754442     
+                      3100  of         5550  points improved.
+           7  the maximum error:    37.200956100905842     
+                    total error:   0.27060680502316808     
+                      3749  of         5550  points improved.
+           8  the maximum error:    34.284426691312063     
+                    total error:   0.20694725638650027     
+                      3885  of         5550  points improved.
+           9  the maximum error:    31.839995386485711     
+                    total error:   0.15709594403529109     
+                      4291  of         5550  points improved.
+          10  the maximum error:    29.961866258414478     
+                    total error:   0.12608259035541924     
+                      3949  of         5550  points improved.
+          11  the maximum error:    27.392414477763520     
+                    total error:   0.10007345815414702     
+                      1277  of         5550  points improved.
+          12  the maximum error:    24.385916156275918     
+                    total error:   6.50994377854578615E-002
+                      4584  of         5550  points improved.
+          13  the maximum error:    21.228980991078210     
+                    total error:   5.09647063020406549E-002
+                      3243  of         5550  points improved.
+          14  the maximum error:    18.320150619932861     
+                    total error:   2.86742760014974916E-002
+                      3680  of         5550  points improved.
+          15  the maximum error:    15.272942480449894     
+                    total error:   2.53454887707223707E-002
+                      2132  of         5550  points improved.
+          16  the maximum error:    12.061852776035744     
+                    total error:   1.54138918579891111E-002
+                      2433  of         5550  points improved.
+          17  the maximum error:    9.1000151884682108     
+                    total error:   1.44907715995153136E-002
+                      3087  of         5550  points improved.
+          18  the maximum error:    6.0952265336466329     
+                    total error:   9.79989468952887667E-003
+                      3270  of         5550  points improved.
+          19  the maximum error:    2.7614934484206439     
+                    total error:   9.48893612886403913E-003
+                      3372  of         5550  points improved.
+          20  the maximum error:   0.54315725882403176     
+                    total error:   9.31292723856864610E-003
+                      2009  of         5550  points improved.
+          21  the maximum error:   2.73711370522018681E-002
+                    total error:   9.09340229949802577E-003
+                      3446  of         5550  points improved.
+          22  the maximum error:   2.47650024813302894E-002
+                    total error:   9.01873506116404079E-003
+                      2098  of         5550  points improved.
+          23  the maximum error:   1.80669458627015639E-002
+                    total error:   8.97368626056900195E-003
+                      3494  of         5550  points improved.
+          24  the maximum error:   1.34097313055758869E-002
+                    total error:   8.94617627815904974E-003
+                      2117  of         5550  points improved.
+          25  the maximum error:   9.91243272606277814E-003
+                    total error:   8.92275281182480264E-003
+                      3577  of         5550  points improved.
+          26  the maximum error:   7.52889155548695701E-003
+                    total error:   8.90898210991663587E-003
+                      2217  of         5550  points improved.
+          27  the maximum error:   5.48210541919150716E-003
+                    total error:   8.89361808658065828E-003
+                      3613  of         5550  points improved.
+          28  the maximum error:   3.94062717357045785E-003
+                    total error:   8.88686861257069124E-003
+                      2190  of         5550  points improved.
+          29  the maximum error:   2.87634454082379663E-003
+                    total error:   8.87913295738467639E-003
+                      3646  of         5550  points improved.
+          30  the maximum error:   2.12257976888023236E-003
+                    total error:   8.87595753327666964E-003
+                      2199  of         5550  points improved.
+          31  the maximum error:   1.43994943530958573E-003
+                    total error:   8.87068044105568214E-003
+                      3646  of         5550  points improved.
+          32  the maximum error:   9.67495289185565000E-004
+                    total error:   8.86934030966223148E-003
+           2 -point hole normalization converged.
+  
+ for g"(0) = -1/5
+ Thomas-Fermi-ish k.e.          16.784826161226214     
+ LDA-based k.e. from hole       60.193543747149647     
+ one-point normalization KE     48.303428635563044     
+ two-point normalization KE     62.576654493736669     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -2/5
+ Thomas-Fermi-ish k.e.          33.569652322452427     
+ LDA-based k.e. from hole       76.978369908375868     
+ one-point normalization KE     53.198139685202648     
+ two-point normalization KE     81.744591401549911     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          50.354478483678356     
+ LDA-based k.e. from hole       93.763196069601790     
+ one-point normalization KE     58.092850734842301     
+ two-point normalization KE     100.91252830936352     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:   5.00000000000000028E-002
+  
+  
+ For            1  point normalization.
+ Number of electrons,    5.0005075218685215     
+ Iteration info:
+           1  the maximum error:    76.049819594150804     
+                    total error:    1.9965454539337495     
+                      5550  of         5550  points improved.
+           2  the maximum error:    46.248332899219172     
+                    total error:   0.69651899720884547     
+                      4097  of         5550  points improved.
+           3  the maximum error:    6.6855107052045524     
+                    total error:   0.15494210566643152     
+                      4565  of         5550  points improved.
+           4  the maximum error:    1.1596253488220949     
+                    total error:   2.95320582820606733E-002
+                      4013  of         5550  points improved.
+           5  the maximum error:   4.81280949908113667E-002
+                    total error:   9.26512498863896368E-003
+                      3089  of         5550  points improved.
+           6  the maximum error:   8.60904547973620672E-005
+                    total error:   8.98969813334639378E-003
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    5.0005075218685215     
+ Iteration info:
+           1  the maximum error:    23.247802495131602     
+                    total error:    1.5683817561970401     
+                      5550  of         5550  points improved.
+           2  the maximum error:    7.6288895754177730     
+                    total error:    2.1584334684789312     
+                      1644  of         5550  points improved.
+           3  the maximum error:    3.0712701432221357     
+                    total error:   0.81001022368870601     
+                      2999  of         5550  points improved.
+           4  the maximum error:    1.1778237283254118     
+                    total error:   5.56068377188364826E-002
+                      4902  of         5550  points improved.
+           5  the maximum error:   0.44604724073635804     
+                    total error:   2.20595178506085808E-002
+                      4244  of         5550  points improved.
+           6  the maximum error:   0.23430213218703677     
+                    total error:   1.94671910007462694E-002
+                      1929  of         5550  points improved.
+           7  the maximum error:   0.13919062008216079     
+                    total error:   1.33697033355756004E-002
+                      1707  of         5550  points improved.
+           8  the maximum error:   9.67394414745004760E-002
+                    total error:   1.18504067014457218E-002
+                      2195  of         5550  points improved.
+           9  the maximum error:   7.05535732784171588E-002
+                    total error:   1.02304244039797595E-002
+                      2831  of         5550  points improved.
+          10  the maximum error:   5.23994456339494305E-002
+                    total error:   9.19667703198110385E-003
+                      3532  of         5550  points improved.
+          11  the maximum error:   4.03381670845479115E-002
+                    total error:   8.51329854071912126E-003
+                      3471  of         5550  points improved.
+          12  the maximum error:   3.10424441602599015E-002
+                    total error:   7.90520758622088350E-003
+                      3999  of         5550  points improved.
+          13  the maximum error:   2.39621058631206002E-002
+                    total error:   7.49044133120949692E-003
+                      3656  of         5550  points improved.
+          14  the maximum error:   1.83838226252525348E-002
+                    total error:   7.15730186495266291E-003
+                      4121  of         5550  points improved.
+          15  the maximum error:   1.39985438720286303E-002
+                    total error:   6.90881077352895057E-003
+                      3786  of         5550  points improved.
+          16  the maximum error:   1.04798122939042289E-002
+                    total error:   6.67822803584853988E-003
+                      4226  of         5550  points improved.
+          17  the maximum error:   7.32684798288061028E-003
+                    total error:   6.53667640530404288E-003
+                      4057  of         5550  points improved.
+          18  the maximum error:   4.82305197412487719E-003
+                    total error:   6.44221259651072894E-003
+                      4228  of         5550  points improved.
+          19  the maximum error:   2.63815696598355097E-003
+                    total error:   6.36876346633307409E-003
+                      2358  of         5550  points improved.
+          20  the maximum error:   1.05356590145962267E-003
+                    total error:   6.34028083196219814E-003
+                      4060  of         5550  points improved.
+          21  the maximum error:   2.46070351916282933E-004
+                    total error:   6.32872438557621764E-003
+           2 -point hole normalization converged.
+  
+ for g"(0) = -1/5
+ Thomas-Fermi-ish k.e.          16.784826161226214     
+ LDA-based k.e. from hole       60.193543747149647     
+ one-point normalization KE     48.303428635563044     
+ two-point normalization KE     49.772349017544890     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -2/5
+ Thomas-Fermi-ish k.e.          33.569652322452427     
+ LDA-based k.e. from hole       76.978369908375868     
+ one-point normalization KE     53.198139685202648     
+ two-point normalization KE     56.135980449166354     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          50.354478483678356     
+ LDA-based k.e. from hole       93.763196069601790     
+ one-point normalization KE     58.092850734842301     
+ two-point normalization KE     62.499611880787896     
+ exact k.e. from wfn file       55.566108996577888     
+  
+dhcp-8-21:KEfromHole ayers$ 

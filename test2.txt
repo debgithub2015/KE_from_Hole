@@ -1,0 +1,920 @@
+Last login: Thu Jan 27 19:30:02 on ttys000
+You have mail.
+dhcp-8-41:~ ayers$ cd Documents/__Programming/KEfromHole
+dhcp-8-41:KEfromHole ayers$ ./kehole.x
+ smoothing iterations for Voronoi cells            3
+ number of angular points           86
+ radial factor   0.69999999999999996     
+ Constructing molecular grid of        7482  points...
+ Thomas-Fermi k.e.                50.352753161165971     
+ von Weizsacker k.e.              43.411570797937863     
+ grad. expansion (TF + 1/9 vW)    55.176261027603509     
+ TF + 1/5 vW                      59.035067320753541     
+ exact k.e. from wfn file         55.566108996577888     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:    1.0000000000000000     
+  
+  
+ For            1  point normalization.
+ Number of electrons,    4.9996010497526413     
+ Iteration info:
+           1  the maximum error:    76.376615128593414     
+                    total error:    1.9966412861566525     
+                      7482  of         7482  points improved.
+                      7482  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           2  the maximum error:    55.629499642390769     
+                    total error:   0.72212149406389403     
+                      6212  of         7482  points improved.
+                      2270  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           3  the maximum error:    18.319521989636772     
+                    total error:   0.20206046604971639     
+                      6208  of         7482  points improved.
+                      5429  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           4  the maximum error:    7.0049688133388797     
+                    total error:   5.72833988422461332E-002
+                      5371  of         7482  points improved.
+                      5199  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           5  the maximum error:   0.58568956332585009     
+                    total error:   2.12809475417886709E-002
+                      2245  of         7482  points improved.
+                      2245  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           6  the maximum error:   4.54620117870644259E-003
+                    total error:   1.21791552726310485E-002
+                       858  of         7482  points improved.
+                       858  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           7  the maximum error:   9.92501894246724132E-006
+                    total error:   1.17121848999214156E-002
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    4.9996010497526413     
+ Iteration info:
+           1  the maximum error:    18.154122245450367     
+                    total error:    1.6293251088532328     
+                      7482  of         7482  points improved.
+                      7482  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           2  the maximum error:    2.5312413773374778     
+                    total error:    1.1913592401152544     
+                      6129  of         7482  points improved.
+                       863  of         7482 points had an good linear update.
+                      1966  of         7482 points had an bad linear update.
+           3  the maximum error:    2.1444264628020999     
+                    total error:   0.85353077230666508     
+                      2702  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1209  of         7482 points had an bad linear update.
+           4  the maximum error:   0.28631243900147818     
+                    total error:   0.31294233957183260     
+                      5152  of         7482  points improved.
+                      2425  of         7482 points had an good linear update.
+                       444  of         7482 points had an bad linear update.
+           5  the maximum error:    1.0538810875636619     
+                    total error:   0.37388342819205622     
+                      1912  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1212  of         7482 points had an bad linear update.
+           6  the maximum error:   0.37695920119156656     
+                    total error:   0.17599763888519671     
+                      3985  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1254  of         7482 points had an bad linear update.
+           7  the maximum error:   0.45150753371821711     
+                    total error:   0.14621077401488675     
+                      3420  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       357  of         7482 points had an bad linear update.
+           8  the maximum error:   0.32791693356953661     
+                    total error:   0.13613887792445722     
+                      3923  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1276  of         7482 points had an bad linear update.
+           9  the maximum error:   0.11882157534347318     
+                    total error:   2.48283501097507839E-002
+                      7074  of         7482  points improved.
+                      1604  of         7482 points had an good linear update.
+                      1399  of         7482 points had an bad linear update.
+          10  the maximum error:   5.62646919042517554E-002
+                    total error:   1.84635262025614304E-002
+                      5974  of         7482  points improved.
+                       207  of         7482 points had an good linear update.
+                       388  of         7482 points had an bad linear update.
+          11  the maximum error:   1.47437867279993553E-002
+                    total error:   1.42139863670798696E-002
+                      6941  of         7482  points improved.
+                       288  of         7482 points had an good linear update.
+                      1594  of         7482 points had an bad linear update.
+          12  the maximum error:   7.65367465417882381E-004
+                    total error:   1.25017308515553704E-002
+           2 -point hole normalization converged.
+  
+ for g"(0) = -1/5
+ Thomas-Fermi-ish k.e.          16.784251053722144     
+ LDA-based k.e. from hole       60.195821851660007     
+ one-point normalization KE     48.305212222531431     
+ two-point normalization KE     49.102559299097372     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -2/5
+ Thomas-Fermi-ish k.e.          33.568502107444289     
+ LDA-based k.e. from hole       76.980072905382144     
+ one-point normalization KE     53.198853647125006     
+ two-point normalization KE     54.793547800256881     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          50.352753161165964     
+ LDA-based k.e. from hole       93.764323959103820     
+ one-point normalization KE     58.092495071718474     
+ two-point normalization KE     60.484536301416483     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:   -1.0000000000000000     
+  
+  
+ For            1  point normalization.
+ Number of electrons,    4.9996010497526413     
+ Iteration info:
+           1  the maximum error:    76.376615128593414     
+                    total error:    1.9966412861566525     
+                      7482  of         7482  points improved.
+                      7482  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           2  the maximum error:    55.629499642390769     
+                    total error:   0.72212149406389403     
+                      6212  of         7482  points improved.
+                      2270  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           3  the maximum error:    18.319521989636772     
+                    total error:   0.20206046604971639     
+                      6208  of         7482  points improved.
+                      5429  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           4  the maximum error:    7.0049688133388797     
+                    total error:   5.72833988422461332E-002
+                      5371  of         7482  points improved.
+                      5199  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           5  the maximum error:   0.58568956332585009     
+                    total error:   2.12809475417886709E-002
+                      2245  of         7482  points improved.
+                      2245  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           6  the maximum error:   4.54620117870644259E-003
+                    total error:   1.21791552726310485E-002
+                       858  of         7482  points improved.
+                       858  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           7  the maximum error:   9.92501894246724132E-006
+                    total error:   1.17121848999214156E-002
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    4.9996010497526413     
+ Iteration info:
+           1  the maximum error:    32.583990638261440     
+                    total error:    1.5016582741873867     
+                      7482  of         7482  points improved.
+                      7482  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           2  the maximum error:    44.120578606769769     
+                    total error:    2.1729237100938592     
+                      1132  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       267  of         7482 points had an bad linear update.
+           3  the maximum error:    28.363297334118954     
+                    total error:   0.65505410556633881     
+                      6101  of         7482  points improved.
+                         6  of         7482 points had an good linear update.
+                       195  of         7482 points had an bad linear update.
+           4  the maximum error:    3.2393714166223160     
+                    total error:   0.38322468711393282     
+                      6262  of         7482  points improved.
+                      2655  of         7482 points had an good linear update.
+                       861  of         7482 points had an bad linear update.
+           5  the maximum error:    7.0365577070437393     
+                    total error:   0.23163237666886136     
+                      2618  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       267  of         7482 points had an bad linear update.
+           6  the maximum error:    1.3293602261927551     
+                    total error:   0.11878372570120047     
+                      4002  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       964  of         7482 points had an bad linear update.
+           7  the maximum error:    3.8011249593523813     
+                    total error:   0.13143361153214500     
+                      2184  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       363  of         7482 points had an bad linear update.
+           8  the maximum error:   5.79141740391925161E-002
+                    total error:   1.13262674057295204E-002
+                      6036  of         7482  points improved.
+                      5601  of         7482 points had an good linear update.
+                       391  of         7482 points had an bad linear update.
+           9  the maximum error:   1.87894944895580264E-002
+                    total error:   9.69492848441873625E-003
+                      6172  of         7482  points improved.
+                      1712  of         7482 points had an good linear update.
+                      1877  of         7482 points had an bad linear update.
+          10  the maximum error:   1.30686153123989422E-002
+                    total error:   9.58799616807567458E-003
+                      3070  of         7482  points improved.
+                         4  of         7482 points had an good linear update.
+                      1908  of         7482 points had an bad linear update.
+          11  the maximum error:   7.61084480452809201E-003
+                    total error:   9.44975160779594654E-003
+                      5106  of         7482  points improved.
+                        27  of         7482 points had an good linear update.
+                      1671  of         7482 points had an bad linear update.
+          12  the maximum error:   4.23971951798339779E-003
+                    total error:   9.39732881064564429E-003
+                      5441  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      4315  of         7482 points had an bad linear update.
+          13  the maximum error:   1.99280593285875753E-003
+                    total error:   9.36376370047664608E-003
+                      2762  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1726  of         7482 points had an bad linear update.
+          14  the maximum error:   8.20691690583852601E-004
+                    total error:   9.35086289333481036E-003
+           2 -point hole normalization converged.
+  
+ for g"(0) = -1/5
+ Thomas-Fermi-ish k.e.          16.784251053722144     
+ LDA-based k.e. from hole       60.195821851660007     
+ one-point normalization KE     48.305212222531431     
+ two-point normalization KE     52.585540483668709     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -2/5
+ Thomas-Fermi-ish k.e.          33.568502107444289     
+ LDA-based k.e. from hole       76.980072905382144     
+ one-point normalization KE     53.198853647125006     
+ two-point normalization KE     61.759510169399555     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          50.352753161165964     
+ LDA-based k.e. from hole       93.764323959103820     
+ one-point normalization KE     58.092495071718474     
+ two-point normalization KE     70.933479855130457     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:   1.00000000000000002E-002
+  
+  
+ For            1  point normalization.
+ Number of electrons,    4.9996010497526413     
+ Iteration info:
+           1  the maximum error:    76.376615128593414     
+                    total error:    1.9966412861566525     
+                      7482  of         7482  points improved.
+                      7482  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           2  the maximum error:    55.629499642390769     
+                    total error:   0.72212149406389403     
+                      6212  of         7482  points improved.
+                      2270  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           3  the maximum error:    18.319521989636772     
+                    total error:   0.20206046604971639     
+                      6208  of         7482  points improved.
+                      5429  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           4  the maximum error:    7.0049688133388797     
+                    total error:   5.72833988422461332E-002
+                      5371  of         7482  points improved.
+                      5199  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           5  the maximum error:   0.58568956332585009     
+                    total error:   2.12809475417886709E-002
+                      2245  of         7482  points improved.
+                      2245  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           6  the maximum error:   4.54620117870644259E-003
+                    total error:   1.21791552726310485E-002
+                       858  of         7482  points improved.
+                       858  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           7  the maximum error:   9.92501894246724132E-006
+                    total error:   1.17121848999214156E-002
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    4.9996010497526413     
+ Iteration info:
+           1  the maximum error:    23.633526759219542     
+                    total error:    1.5657704024774266     
+                      7482  of         7482  points improved.
+                      7482  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           2  the maximum error:    7.0387600944394517     
+                    total error:    1.4142654632853602     
+                      2953  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       445  of         7482 points had an bad linear update.
+           3  the maximum error:    1.5737820285557753     
+                    total error:   0.65546532127275425     
+                      4532  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       845  of         7482 points had an bad linear update.
+           4  the maximum error:    2.4867315839773179     
+                    total error:   0.32497145852033105     
+                      5654  of         7482  points improved.
+                       534  of         7482 points had an good linear update.
+                       851  of         7482 points had an bad linear update.
+           5  the maximum error:    2.3674005704050751     
+                    total error:   0.30691035370708458     
+                       779  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       218  of         7482 points had an bad linear update.
+           6  the maximum error:   0.11331211966230534     
+                    total error:   7.29269764013750210E-002
+                      5471  of         7482  points improved.
+                       172  of         7482 points had an good linear update.
+                       263  of         7482 points had an bad linear update.
+           7  the maximum error:   0.44798832284022244     
+                    total error:   6.81313566792325354E-002
+                      5694  of         7482  points improved.
+                        12  of         7482 points had an good linear update.
+                      1021  of         7482 points had an bad linear update.
+           8  the maximum error:   0.18618659043235974     
+                    total error:   4.65847222430545438E-002
+                      5102  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       330  of         7482 points had an bad linear update.
+           9  the maximum error:   0.31371758589863274     
+                    total error:   4.30862540384687950E-002
+                      5832  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1051  of         7482 points had an bad linear update.
+          10  the maximum error:   0.26281028416131758     
+                    total error:   3.76750512279068264E-002
+                      5193  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       357  of         7482 points had an bad linear update.
+          11  the maximum error:   0.20955409404050829     
+                    total error:   3.14664069240846930E-002
+                      5931  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1083  of         7482 points had an bad linear update.
+          12  the maximum error:   0.19092223891712010     
+                    total error:   2.80853154664302621E-002
+                      5170  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       404  of         7482 points had an bad linear update.
+          13  the maximum error:   0.14067796816344696     
+                    total error:   2.33667846968840312E-002
+                      5960  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1102  of         7482 points had an bad linear update.
+          14  the maximum error:   0.16020476448001858     
+                    total error:   2.23700140264237075E-002
+                      5107  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       423  of         7482 points had an bad linear update.
+          15  the maximum error:   2.33825091553792677E-002
+                    total error:   1.39440457362081070E-002
+                      6143  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1233  of         7482 points had an bad linear update.
+          16  the maximum error:   9.25766547221209823E-002
+                    total error:   1.46687185975808640E-002
+                      4963  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       505  of         7482 points had an bad linear update.
+          17  the maximum error:   2.84773563567392585E-002
+                    total error:   1.03236935484675874E-002
+                      5725  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1221  of         7482 points had an bad linear update.
+          18  the maximum error:   4.37453329496609519E-002
+                    total error:   1.02441559495707150E-002
+                      4932  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       587  of         7482 points had an bad linear update.
+          19  the maximum error:   1.43104360299814021E-002
+                    total error:   8.48586464057871775E-003
+                      5607  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1330  of         7482 points had an bad linear update.
+          20  the maximum error:   2.41603719926108754E-002
+                    total error:   8.25102111103464923E-003
+                      5106  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       716  of         7482 points had an bad linear update.
+          21  the maximum error:   1.60538187805248124E-002
+                    total error:   7.74546558964555633E-003
+                      5717  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1501  of         7482 points had an bad linear update.
+          22  the maximum error:   1.26271005239162685E-002
+                    total error:   7.44650728008203460E-003
+                      5234  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       920  of         7482 points had an bad linear update.
+          23  the maximum error:   9.19683604470005085E-003
+                    total error:   7.21280337620278707E-003
+                      6081  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1810  of         7482 points had an bad linear update.
+          24  the maximum error:   6.19262030750818235E-003
+                    total error:   7.08277005773526227E-003
+                      5207  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1540  of         7482 points had an bad linear update.
+          25  the maximum error:   3.48013271132039531E-003
+                    total error:   6.98113308670697281E-003
+                      5563  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      4326  of         7482 points had an bad linear update.
+          26  the maximum error:   1.49783647773054588E-003
+                    total error:   6.94344015035268814E-003
+                      2807  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1685  of         7482 points had an bad linear update.
+          27  the maximum error:   4.03712294299353198E-004
+                    total error:   6.92584341969911498E-003
+           2 -point hole normalization converged.
+  
+ for g"(0) = -1/5
+ Thomas-Fermi-ish k.e.          16.784251053722144     
+ LDA-based k.e. from hole       60.195821851660007     
+ one-point normalization KE     48.305212222531431     
+ two-point normalization KE     49.812515730233883     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -2/5
+ Thomas-Fermi-ish k.e.          33.568502107444289     
+ LDA-based k.e. from hole       76.980072905382144     
+ one-point normalization KE     53.198853647125006     
+ two-point normalization KE     56.213460662529897     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          50.352753161165964     
+ LDA-based k.e. from hole       93.764323959103820     
+ one-point normalization KE     58.092495071718474     
+ two-point normalization KE     62.614405594826103     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:    2.0000000000000000     
+  
+  
+ For            1  point normalization.
+ Number of electrons,    4.9996010497526413     
+ Iteration info:
+           1  the maximum error:    76.376615128593414     
+                    total error:    1.9966412861566525     
+                      7482  of         7482  points improved.
+                      7482  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           2  the maximum error:    55.629499642390769     
+                    total error:   0.72212149406389403     
+                      6212  of         7482  points improved.
+                      2270  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           3  the maximum error:    18.319521989636772     
+                    total error:   0.20206046604971639     
+                      6208  of         7482  points improved.
+                      5429  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           4  the maximum error:    7.0049688133388797     
+                    total error:   5.72833988422461332E-002
+                      5371  of         7482  points improved.
+                      5199  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           5  the maximum error:   0.58568956332585009     
+                    total error:   2.12809475417886709E-002
+                      2245  of         7482  points improved.
+                      2245  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           6  the maximum error:   4.54620117870644259E-003
+                    total error:   1.21791552726310485E-002
+                       858  of         7482  points improved.
+                       858  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           7  the maximum error:   9.92501894246724132E-006
+                    total error:   1.17121848999214156E-002
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    4.9996010497526413     
+ Iteration info:
+           1  the maximum error:    14.386291091650543     
+                    total error:    1.6896900265355350     
+                      7482  of         7482  points improved.
+                      7482  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           2  the maximum error:    1.4621959943828198     
+                    total error:    1.1482099598663653     
+                      6609  of         7482  points improved.
+                       952  of         7482 points had an good linear update.
+                      2343  of         7482 points had an bad linear update.
+           3  the maximum error:   0.59667843502364415     
+                    total error:   0.68539763920508101     
+                      3249  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1253  of         7482 points had an bad linear update.
+           4  the maximum error:   0.40078458229099112     
+                    total error:   0.50261742048963642     
+                      4709  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       688  of         7482 points had an bad linear update.
+           5  the maximum error:   0.45515384792401731     
+                    total error:   0.39196776640209863     
+                      3503  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1643  of         7482 points had an bad linear update.
+           6  the maximum error:   0.24383040133978404     
+                    total error:   0.17790511735714618     
+                      5365  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      2716  of         7482 points had an bad linear update.
+           7  the maximum error:   0.17993548824641836     
+                    total error:   0.17315567370569634     
+                      3575  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1691  of         7482 points had an bad linear update.
+           8  the maximum error:   0.10477338411497138     
+                    total error:   5.12291277091001251E-002
+                      7160  of         7482  points improved.
+                      3549  of         7482 points had an good linear update.
+                      1240  of         7482 points had an bad linear update.
+           9  the maximum error:   4.56009540273208044E-002
+                    total error:   4.40762687746102319E-002
+                      6186  of         7482  points improved.
+                        13  of         7482 points had an good linear update.
+                       705  of         7482 points had an bad linear update.
+          10  the maximum error:   1.82056411524651462E-002
+                    total error:   4.02890210947858610E-002
+                      7162  of         7482  points improved.
+                       111  of         7482 points had an good linear update.
+                      1246  of         7482 points had an bad linear update.
+          11  the maximum error:   6.14884734645722904E-003
+                    total error:   3.83494803124164660E-002
+                      6050  of         7482  points improved.
+                       245  of         7482 points had an good linear update.
+                       703  of         7482 points had an bad linear update.
+          12  the maximum error:   9.34808934975854848E-004
+                    total error:   3.70384215458796281E-002
+           2 -point hole normalization converged.
+  
+ for g"(0) = -1/5
+ Thomas-Fermi-ish k.e.          16.784251053722144     
+ LDA-based k.e. from hole       60.195821851660007     
+ one-point normalization KE     48.305212222531431     
+ two-point normalization KE     48.639350704965970     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -2/5
+ Thomas-Fermi-ish k.e.          33.568502107444289     
+ LDA-based k.e. from hole       76.980072905382144     
+ one-point normalization KE     53.198853647125006     
+ two-point normalization KE     53.867130611994071     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          50.352753161165964     
+ LDA-based k.e. from hole       93.764323959103820     
+ one-point normalization KE     58.092495071718474     
+ two-point normalization KE     59.094910519022314     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:   -2.0000000000000000     
+  
+  
+ For            1  point normalization.
+ Number of electrons,    4.9996010497526413     
+ Iteration info:
+           1  the maximum error:    76.376615128593414     
+                    total error:    1.9966412861566525     
+                      7482  of         7482  points improved.
+                      7482  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           2  the maximum error:    55.629499642390769     
+                    total error:   0.72212149406389403     
+                      6212  of         7482  points improved.
+                      2270  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           3  the maximum error:    18.319521989636772     
+                    total error:   0.20206046604971639     
+                      6208  of         7482  points improved.
+                      5429  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           4  the maximum error:    7.0049688133388797     
+                    total error:   5.72833988422461332E-002
+                      5371  of         7482  points improved.
+                      5199  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           5  the maximum error:   0.58568956332585009     
+                    total error:   2.12809475417886709E-002
+                      2245  of         7482  points improved.
+                      2245  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           6  the maximum error:   4.54620117870644259E-003
+                    total error:   1.21791552726310485E-002
+                       858  of         7482  points improved.
+                       858  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           7  the maximum error:   9.92501894246724132E-006
+                    total error:   1.17121848999214156E-002
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    4.9996010497526413     
+ Iteration info:
+           1  the maximum error:    46.305262768382164     
+                    total error:    1.4621112110038397     
+                      7482  of         7482  points improved.
+                      7482  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           2  the maximum error:    67.340960461436794     
+                    total error:    2.2273222714143071     
+                       241  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                       227  of         7482 points had an bad linear update.
+           3  the maximum error:    64.609341809182922     
+                    total error:    1.7102501980683795     
+                      1467  of         7482  points improved.
+                         8  of         7482 points had an good linear update.
+                       212  of         7482 points had an bad linear update.
+           4  the maximum error:    47.905867733359138     
+                    total error:   0.60017987478429491     
+                      6771  of         7482  points improved.
+                      2156  of         7482 points had an good linear update.
+                       756  of         7482 points had an bad linear update.
+           5  the maximum error:    33.238074639109279     
+                    total error:   0.36113832905392546     
+                      6181  of         7482  points improved.
+                      2605  of         7482 points had an good linear update.
+                      1095  of         7482 points had an bad linear update.
+           6  the maximum error:    30.539474721853008     
+                    total error:   0.23843690952655758     
+                      5890  of         7482  points improved.
+                        60  of         7482 points had an good linear update.
+                       249  of         7482 points had an bad linear update.
+           7  the maximum error:    22.115079694959867     
+                    total error:   0.16322367747073474     
+                      6378  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1170  of         7482 points had an bad linear update.
+           8  the maximum error:    19.432920299876944     
+                    total error:   8.65067085653587059E-002
+                      5771  of         7482  points improved.
+                      1286  of         7482 points had an good linear update.
+                       321  of         7482 points had an bad linear update.
+           9  the maximum error:    14.656765780925404     
+                    total error:   6.19593989630718989E-002
+                      5951  of         7482  points improved.
+                       307  of         7482 points had an good linear update.
+                      1319  of         7482 points had an bad linear update.
+          10  the maximum error:    11.826612351113456     
+                    total error:   3.66316420452194244E-002
+                      5469  of         7482  points improved.
+                       554  of         7482 points had an good linear update.
+                       471  of         7482 points had an bad linear update.
+          11  the maximum error:    8.3089852984581167     
+                    total error:   3.07359763289498308E-002
+                      5723  of         7482  points improved.
+                       467  of         7482 points had an good linear update.
+                      1464  of         7482 points had an bad linear update.
+          12  the maximum error:    6.2212069604208029     
+                    total error:   1.70080534443049283E-002
+                      5325  of         7482  points improved.
+                       608  of         7482 points had an good linear update.
+                       656  of         7482 points had an bad linear update.
+          13  the maximum error:    3.9112131283197082     
+                    total error:   1.58252156938338932E-002
+                      5398  of         7482  points improved.
+                       479  of         7482 points had an good linear update.
+                      1805  of         7482 points had an bad linear update.
+          14  the maximum error:    2.2382044173799125     
+                    total error:   1.07161146283464501E-002
+                      4874  of         7482  points improved.
+                       919  of         7482 points had an good linear update.
+                      1236  of         7482 points had an bad linear update.
+          15  the maximum error:   0.47101033265887304     
+                    total error:   1.06057460276850930E-002
+                      4989  of         7482  points improved.
+                       344  of         7482 points had an good linear update.
+                      4381  of         7482 points had an bad linear update.
+          16  the maximum error:   7.90371135015786319E-002
+                    total error:   1.02323362456762743E-002
+                      2092  of         7482  points improved.
+                       172  of         7482 points had an good linear update.
+                      1261  of         7482 points had an bad linear update.
+          17  the maximum error:   3.35345659887543029E-002
+                    total error:   1.00978584782373242E-002
+                      5395  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      4445  of         7482 points had an bad linear update.
+          18  the maximum error:   2.65412918777995846E-002
+                    total error:   1.00549367780425145E-002
+                      2294  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1268  of         7482 points had an bad linear update.
+          19  the maximum error:   2.04267140747860163E-002
+                    total error:   9.99952029013613519E-003
+                      5469  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      4515  of         7482 points had an bad linear update.
+          20  the maximum error:   1.51261752337201513E-002
+                    total error:   9.97454050886334431E-003
+                      2224  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1271  of         7482 points had an bad linear update.
+          21  the maximum error:   1.16731704206967796E-002
+                    total error:   9.94310963979549815E-003
+                      5538  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      4557  of         7482 points had an bad linear update.
+          22  the maximum error:   8.98630414114175852E-003
+                    total error:   9.93289792661175043E-003
+                      2258  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1306  of         7482 points had an bad linear update.
+          23  the maximum error:   6.85304796694111758E-003
+                    total error:   9.91487549637964406E-003
+                      5503  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      4551  of         7482 points had an bad linear update.
+          24  the maximum error:   5.24714357199212739E-003
+                    total error:   9.90890630821726973E-003
+                      2251  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1299  of         7482 points had an bad linear update.
+          25  the maximum error:   3.83186323066998964E-003
+                    total error:   9.89646022354566217E-003
+                      5506  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      4642  of         7482 points had an bad linear update.
+          26  the maximum error:   2.77676377524407967E-003
+                    total error:   9.89348802723498920E-003
+                      2157  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1296  of         7482 points had an bad linear update.
+          27  the maximum error:   2.00941460694300904E-003
+                    total error:   9.88697074907699154E-003
+                      5497  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      4636  of         7482 points had an bad linear update.
+          28  the maximum error:   1.45598176070785377E-003
+                    total error:   9.88541404714743735E-003
+                      2160  of         7482  points improved.
+                         0  of         7482 points had an good linear update.
+                      1299  of         7482 points had an bad linear update.
+          29  the maximum error:   9.66590249925404726E-004
+                    total error:   9.88133492147152091E-003
+           2 -point hole normalization converged.
+  
+ for g"(0) = -1/5
+ Thomas-Fermi-ish k.e.          16.784251053722144     
+ LDA-based k.e. from hole       60.195821851660007     
+ one-point normalization KE     48.305212222531431     
+ two-point normalization KE     62.591238710449474     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -2/5
+ Thomas-Fermi-ish k.e.          33.568502107444289     
+ LDA-based k.e. from hole       76.980072905382144     
+ one-point normalization KE     53.198853647125006     
+ two-point normalization KE     81.770906622961078     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          50.352753161165964     
+ LDA-based k.e. from hole       93.764323959103820     
+ one-point normalization KE     58.092495071718474     
+ two-point normalization KE     100.95057453547236     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:    10.000000000000000     
+  
+  
+ For            1  point normalization.
+ Number of electrons,    4.9996010497526413     
+ Iteration info:
+           1  the maximum error:    76.376615128593414     
+                    total error:    1.9966412861566525     
+                      7482  of         7482  points improved.
+                      7482  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           2  the maximum error:    55.629499642390769     
+                    total error:   0.72212149406389403     
+                      6212  of         7482  points improved.
+                      2270  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           3  the maximum error:    18.319521989636772     
+                    total error:   0.20206046604971639     
+                      6208  of         7482  points improved.
+                      5429  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           4  the maximum error:    7.0049688133388797     
+                    total error:   5.72833988422461332E-002
+                      5371  of         7482  points improved.
+                      5199  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           5  the maximum error:   0.58568956332585009     
+                    total error:   2.12809475417886709E-002
+                      2245  of         7482  points improved.
+                      2245  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           6  the maximum error:   4.54620117870644259E-003
+                    total error:   1.21791552726310485E-002
+                       858  of         7482  points improved.
+                       858  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           7  the maximum error:   9.92501894246724132E-006
+                    total error:   1.17121848999214156E-002
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    4.9996010497526413     
+ Iteration info:
+           1  the maximum error:    4.7637547554030641     
+                    total error:    1.9302149751252258     
+                      7482  of         7482  points improved.
+                      7482  of         7482 points had an good linear update.
+                         0  of         7482 points had an bad linear update.
+           2  the maximum error:   0.13403935267490885     
+                    total error:    1.2592757139998478     
+                      6972  of         7482  points improved.
+                      1118  of         7482 points had an good linear update.
+                      5303  of         7482 points had an bad linear update.
+           3  the maximum error:   4.09253186301607660E-002
+                    total error:   0.59002519972496148     
+                      3527  of         7482  points improved.
+                       520  of         7482 points had an good linear update.
+                      1534  of         7482 points had an bad linear update.
+           4  the maximum error:   2.76067247007749789E-002
+                    total error:   0.44707832900650712     
+                      5514  of         7482  points improved.
+                      1531  of         7482 points had an good linear update.
+                       833  of         7482 points had an bad linear update.
+           5  the maximum error:   2.13021529779175711E-002
+                    total error:   0.26763273697543155     
+                      6467  of         7482  points improved.
+                      1296  of         7482 points had an good linear update.
+                      1556  of         7482 points had an bad linear update.
+           6  the maximum error:   6.90675421532911150E-003
+                    total error:   0.15314323405571167     
+                      5523  of         7482  points improved.
+                      1210  of         7482 points had an good linear update.
+                       485  of         7482 points had an bad linear update.
+           7  the maximum error:   3.62586319163060028E-003
+                    total error:   9.78954553865304666E-002
+                      6970  of         7482  points improved.
+                      1119  of         7482 points had an good linear update.
+                      1620  of         7482 points had an bad linear update.
+           8  the maximum error:   1.38032870431699156E-003
+                    total error:   8.21367812102057615E-002
+                      5914  of         7482  points improved.
+                       258  of         7482 points had an good linear update.
+                       471  of         7482 points had an bad linear update.
+           9  the maximum error:   6.68487077598690763E-004
+                    total error:   6.11820340291789194E-002
+           2 -point hole normalization converged.
+  
+ for g"(0) = -1/5
+ Thomas-Fermi-ish k.e.          16.784251053722144     
+ LDA-based k.e. from hole       60.195821851660007     
+ one-point normalization KE     48.305212222531431     
+ two-point normalization KE     47.611516761178848     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -2/5
+ Thomas-Fermi-ish k.e.          33.568502107444289     
+ LDA-based k.e. from hole       76.980072905382144     
+ one-point normalization KE     53.198853647125006     
+ two-point normalization KE     51.811462724419826     
+ exact k.e. from wfn file       55.566108996577888     
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          50.352753161165964     
+ LDA-based k.e. from hole       93.764323959103820     
+ one-point normalization KE     58.092495071718474     
+ two-point normalization KE     56.011408687660932     
+ exact k.e. from wfn file       55.566108996577888     
+  
+dhcp-8-41:KEfromHole ayers$ 

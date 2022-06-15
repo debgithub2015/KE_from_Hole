@@ -1,0 +1,1193 @@
+dhcp-8-22:KEfromHole ayers$ ./KeEx.x LiH
+ Reading wfn file: LiH.wfn                                                                         
+  
+ smoothing iterations for Voronoi cells            3
+ number of angular points           86
+ radial factor   0.75000000000000000     
+ Constructing molecular grid of        4128  points...
+ in density subroutine
+ end density subroutine.
+ Thomas-Fermi k.e.                6.9201279016257171     
+ von Weizsacker k.e.              7.4134790088459921     
+ grad. expansion (TF + 1/9 vW)    7.7438477914974939     
+ TF + 1/5 vW                      8.4028237033949154     
+ exact k.e. from wfn file         7.7029920471438142     
+  
+ -------------------------------------------------------------------
+ Uniform Electron Gas normalization and 1-pt. normalization gives   
+ kinetic energies and effective Fermi momenta that are invariant to 
+ the value of p that is used in the generalize p-mean.              
+  
+  
+ For 1 point normalization.
+ Number of electrons of this spin,    2.0000057871515384     
+ Iteration info:
+           1  the maximum error:   3.16320053011103072E-003
+                    total error:   0.94211606426065297     
+            normalization error:   0.73508983068154077     
+                      4128  of         4128 points improved.
+                      4128  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           2  the maximum error:   1.16735982368056188E-003
+                    total error:   0.30049087905292077     
+            normalization error:   9.81310704511021981E-002
+                      4024  of         4128 points improved.
+                      1427  of         4128 points had an good linear update.
+                       255  of         4128 points had an bad linear update.
+           3  the maximum error:   2.63151834905409553E-004
+                    total error:   5.91042338610104773E-002
+            normalization error:   3.17125474046159039E-002
+                      4024  of         4128 points improved.
+                      2392  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           4  the maximum error:   3.91500358367283022E-005
+                    total error:   8.59013678743050096E-003
+            normalization error:   8.55252255848517814E-003
+                      4024  of         4128 points improved.
+                      3573  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           5  the maximum error:   5.79982415751117443E-006
+                    total error:   8.76711177594529214E-004
+            normalization error:   8.70903427413938355E-004
+                      4023  of         4128 points improved.
+                      3994  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           6  the maximum error:   2.47274539301270960E-006
+                    total error:   1.84207963660600705E-004
+            normalization error:   1.79996961486871839E-004
+                      3936  of         4128 points improved.
+                      3730  of         4128 points had an good linear update.
+                         2  of         4128 points had an bad linear update.
+           7  the maximum error:   5.71426304107534818E-007
+                    total error:   3.04345999216366503E-005
+            normalization error:   2.49844219126021387E-005
+                      3579  of         4128 points improved.
+                      3117  of         4128 points had an good linear update.
+                         6  of         4128 points had an bad linear update.
+           8  the maximum error:   1.69584217707779789E-007
+                    total error:   8.70804544156765721E-006
+            normalization error:   8.19419531309805643E-006
+                      2841  of         4128 points improved.
+                      2072  of         4128 points had an good linear update.
+                         8  of         4128 points had an bad linear update.
+           9  the maximum error:   3.86590455174336671E-008
+                    total error:   1.41463493327198139E-006
+            normalization error:   1.20878110289443929E-006
+                      1875  of         4128 points improved.
+                      1350  of         4128 points had an good linear update.
+                        13  of         4128 points had an bad linear update.
+          10  the maximum error:   1.45909178634078161E-008
+                    total error:   8.46343488828075338E-007
+            normalization error:   8.46343488221617112E-007
+                      1146  of         4128 points improved.
+                       815  of         4128 points had an good linear update.
+                         4  of         4128 points had an bad linear update.
+          11  the maximum error:   8.06487638427995033E-009
+                    total error:   4.60420718207715243E-007
+            normalization error:   4.59516616307493005E-007
+                       773  of         4128 points improved.
+                       607  of         4128 points had an good linear update.
+                         3  of         4128 points had an bad linear update.
+          12  the maximum error:   2.83522209881233108E-009
+                    total error:   9.77980636546014779E-008
+            normalization error:   9.23307232940228004E-008
+                       604  of         4128 points improved.
+                       540  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+          13  the maximum error:   4.43382432849529927E-010
+                    total error:   7.29728322921824356E-009
+            normalization error:   6.39497425324598205E-009
+                       500  of         4128 points improved.
+                       465  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+          14  the maximum error:   2.25968172065250231E-011
+                    total error:   1.78907501532624625E-010
+            normalization error:   1.57735153134287450E-010
+ 1-point hole normalization converged.
+  
+  
+ For 2 point normalization.
+ Number of electrons of this spin,    2.0000057871515384     
+ Iteration info:
+             Updated Jacobian's Diagonal
+   1    In this step the normalization improved(?) by  1.34078+154
+              maximum absolute error:  9.66163E-04
+                total absolute error:  3.43644E-01
+          predicted total abs. error:  0.00000E+00
+                 normalization error:  1.11492E-01
+                           step size:  4.15333E+05
+                 global trust radius:  8.44377E+02
+             new global trust radius:  8.44377E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                 100         0         0         0         0        81       100       100
+  
+  
+           Diagonal step.
+             Updated Jacobian's Diagonal
+   2    In this step the normalization improved(?) by  2.03174E-01
+              maximum absolute error:  4.47812E-04
+                total absolute error:  1.40470E-01
+          predicted total abs. error:  9.90662E-02
+                 normalization error:  5.47031E-02
+                           step size:  5.87542E+02
+                 global trust radius:  8.44377E+02
+             new global trust radius:  8.44377E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  98        89         5        26         3        34         0         0
+  
+  
+             Updated Jacobian's Diagonal
+   3    In this step the normalization improved(?) by  9.70532E-02
+              maximum absolute error:  1.67639E-04
+                total absolute error:  4.34171E-02
+          predicted total abs. error:  5.86424E-02
+                 normalization error:  7.11444E-03
+                           step size:  3.43927E+02
+                 global trust radius:  8.44377E+02
+             new global trust radius:  8.44377E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  94        53        39        20        10        26         1         0
+  
+  
+             Updated Jacobian's Diagonal
+   4    In this step the normalization improved(?) by  2.68790E-02
+              maximum absolute error:  7.94848E-05
+                total absolute error:  1.65382E-02
+          predicted total abs. error:  7.43371E-03
+                 normalization error:  1.61125E-02
+                           step size:  7.74043E+01
+                 global trust radius:  8.44377E+02
+             new global trust radius:  2.11094E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  97        23        72        19        23        22         0         0
+  
+  
+             Updated Jacobian's Diagonal
+   5    In this step the normalization improved(?) by  1.85214E-03
+              maximum absolute error:  5.10324E-05
+                total absolute error:  1.46860E-02
+          predicted total abs. error:  4.52241E-03
+                 normalization error:  1.02458E-02
+                           step size:  3.12991E+01
+                 global trust radius:  2.11094E+02
+             new global trust radius:  5.27735E+01
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  53        20        77        19        75        20         0         0
+  
+  
+             Updated Jacobian's Diagonal
+   6    In this step the normalization improved(?) by  1.23494E-02
+              maximum absolute error:  2.15861E-05
+                total absolute error:  2.33663E-03
+          predicted total abs. error:  6.62764E-03
+                 normalization error:  2.30792E-03
+                           step size:  1.79043E+01
+                 global trust radius:  5.27735E+01
+             new global trust radius:  5.27735E+01
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                 100        19        28        18         0        19         0         0
+  
+  
+             Updated Jacobian's Diagonal
+   7    In this step the normalization improved(?) by  1.23108E-03
+              maximum absolute error:  1.58526E-05
+                total absolute error:  1.10555E-03
+          predicted total abs. error:  1.89113E-03
+                 normalization error:  8.89625E-04
+                           step size:  4.30213E+00
+                 global trust radius:  5.27735E+01
+             new global trust radius:  5.27735E+01
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  68        45        11        17        35        19        38        36
+  
+  
+             Updated Jacobian's Diagonal
+   8    In this step the normalization improved(?) by  6.23379E-04
+              maximum absolute error:  1.19644E-05
+                total absolute error:  4.82168E-04
+          predicted total abs. error:  7.18516E-04
+                 normalization error:  4.24117E-04
+                           step size:  1.10207E+00
+                 global trust radius:  5.27735E+01
+             new global trust radius:  5.27735E+01
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                 100        34        21        17         0        18        26       100
+  
+  
+ SUCCESS!!!  2-point hole normalization converged.
+  
+  
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          6.9201279016257153     
+ Thomas-Fermi + Weizsacker      14.333606910471708     
+ LDA-based k.e. from hole       14.333606910471708     
+ one-point normalization KE     8.2249845686614798     
+ two-point normalization KE     8.7262172706396832     
+ exact k.e. from wfn file       7.7029920471438142     
+  
+  
+ For normalization using the following number of points:           0
+ The normalization test gives:    1.8311968574567550     
+ The exchange energy is:   -1.1226560962659955     
+  
+  
+ For normalization using the following number of points:           1
+ The normalization test gives:    3.7770269333339352     
+ The exchange energy is:   -1.9720396730224363     
+  
+  
+ For normalization using the following number of points:           2
+ The normalization test gives:    3.9991633402894435     
+ The exchange energy is:   -1.8976245686822508     
+  
+ -------------------------------------------------------------------
+ Bad-Broyden with 5 vectors and Diagonal updates; Local Trust-Radius Pruning.
+ p value for generalized p-mean:   0.55329796374227058     
+  
+ For 2 point normalization.
+ Number of electrons of this spin,    2.0000057871515384     
+ Iteration info:
+             Updated Jacobian's Diagonal
+   1    In this step the normalization improved(?) by  1.34078+154
+              maximum absolute error:  4.79008E-05
+                total absolute error:  2.48252E-02
+          predicted total abs. error:  0.00000E+00
+                 normalization error:  2.48252E-02
+                           step size:  4.15390E+05
+                 global trust radius:  8.63471E+02
+             new global trust radius:  8.63471E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                 100         0         0         0         0        18       100       100
+  
+  
+           Diagonal step.
+             Updated Jacobian's Diagonal
+   2    In this step the normalization improved(?) by -4.70933E-04
+              maximum absolute error:  9.21392E-05
+                total absolute error:  2.52962E-02
+          predicted total abs. error:  1.50005E-03
+                 normalization error:  2.30184E-02
+                           step size:  4.66244E+01
+                 global trust radius:  8.63471E+02
+             new global trust radius:  2.15868E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  51        20        77        19        74        21         0         0
+  
+  
+             1    The error went ***UP*** by   4.70933E-04
+             Updated Jacobian's Diagonal
+             new global trust radius:  2.33122E+01
+             Updated Jacobian's Diagonal
+   3    In this step the normalization improved(?) by  4.25258E-03
+              maximum absolute error:  1.82107E-05
+                total absolute error:  1.78096E-03
+          predicted total abs. error:  1.09098E-03
+                 normalization error:  7.88031E-04
+                           step size:  1.02967E+01
+                 global trust radius:  2.33122E+01
+             new global trust radius:  2.33122E+01
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  98        78         4        19         3        19         0         0
+  
+  
+             Updated Jacobian's Diagonal
+   4    In this step the normalization improved(?) by  8.04375E-04
+              maximum absolute error:  1.69743E-05
+                total absolute error:  9.76590E-04
+          predicted total abs. error:  1.02544E-03
+                 normalization error:  7.80567E-04
+                           step size:  2.02155E+00
+                 global trust radius:  2.33122E+01
+             new global trust radius:  2.33122E+01
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  98        37        19        19         3        19         2        39
+  
+  
+ SUCCESS!!!  2-point hole normalization converged.
+  
+  
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          6.9201279016257153     
+ Thomas-Fermi + Weizsacker      14.333606910471708     
+ LDA-based k.e. from hole       14.333606910471708     
+ one-point normalization KE     8.2249845686614798     
+ two-point normalization KE     8.7046254920004955     
+ exact k.e. from wfn file       7.7029920471438142     
+  
+  
+ For normalization using the following number of points:           0
+ The normalization test gives:    1.8158425512534400     
+ The exchange energy is:   -1.1182486460577521     
+  
+  
+ For normalization using the following number of points:           1
+ The normalization test gives:    3.7703779133756274     
+ The exchange energy is:   -1.9710937554675498     
+  
+  
+ For normalization using the following number of points:           2
+ The normalization test gives:    3.9984504409182220     
+ The exchange energy is:   -1.9004273258227646     
+  
+ Previous Calculation: Bad-Broyden with 5 vectors and Diagonal updates; Local Trust-Radius Pruning.
+ -------------------------------------------------------------------
+ -------------------------------------------------------------------
+ Bad-Broyden with 5 vectors and Diagonal updates; Local Trust-Radius Pruning.
+ p value for generalized p-mean:   0.55658241544302345     
+  
+ For 2 point normalization.
+ Number of electrons of this spin,    2.0000057871515384     
+ Iteration info:
+             Updated Jacobian's Diagonal
+   1    In this step the normalization improved(?) by  1.34078+154
+              maximum absolute error:  1.75781E-05
+                total absolute error:  2.34211E-03
+          predicted total abs. error:  0.00000E+00
+                 normalization error:  2.34211E-03
+                           step size:  4.15369E+05
+                 global trust radius:  8.56438E+02
+             new global trust radius:  8.56438E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                 100         0         0         0         0        19       100       100
+  
+  
+           Diagonal step.
+             Updated Jacobian's Diagonal
+   2    In this step the normalization improved(?) by  1.50930E-05
+              maximum absolute error:  1.69519E-05
+                total absolute error:  2.32702E-03
+          predicted total abs. error:  8.70607E-04
+                 normalization error:  6.18869E-04
+                           step size:  2.73205E+00
+                 global trust radius:  8.56438E+02
+             new global trust radius:  2.14110E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  50        19        78        19        73        19         0         0
+  
+  
+             Updated Jacobian's Diagonal
+   3    In this step the normalization improved(?) by  1.41267E-03
+              maximum absolute error:  1.63303E-05
+                total absolute error:  9.14355E-04
+          predicted total abs. error:  1.40502E-03
+                 normalization error:  9.11853E-04
+                           step size:  1.88060E+00
+                 global trust radius:  2.14110E+02
+             new global trust radius:  2.14110E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                 100        19        31        19         0        19         0         0
+  
+  
+ SUCCESS!!!  2-point hole normalization converged.
+  
+  
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          6.9201279016257153     
+ Thomas-Fermi + Weizsacker      14.333606910471708     
+ LDA-based k.e. from hole       14.333606910471708     
+ one-point normalization KE     8.2249845686614798     
+ two-point normalization KE     8.7037119494296995     
+ exact k.e. from wfn file       7.7029920471438142     
+  
+  
+ For normalization using the following number of points:           0
+ The normalization test gives:    1.8149193185472166     
+ The exchange energy is:   -1.1179815474278523     
+  
+  
+ For normalization using the following number of points:           1
+ The normalization test gives:    3.7699710633367358     
+ The exchange energy is:   -1.9710357560165150     
+  
+  
+ For normalization using the following number of points:           2
+ The normalization test gives:    3.9981878683730949     
+ The exchange energy is:   -1.9004716012312921     
+  
+ Previous Calculation: Bad-Broyden with 5 vectors and Diagonal updates; Local Trust-Radius Pruning.
+ -------------------------------------------------------------------
+ -------------------------------------------------------------------
+ Bad-Broyden with 5 vectors and Diagonal updates; Local Trust-Radius Pruning.
+ p value for generalized p-mean:   0.55985322771834156     
+  
+ For 2 point normalization.
+ Number of electrons of this spin,    2.0000057871515384     
+ Iteration info:
+             Updated Jacobian's Diagonal
+   1    In this step the normalization improved(?) by  1.34078+154
+              maximum absolute error:  1.69583E-05
+                total absolute error:  2.47342E-03
+          predicted total abs. error:  0.00000E+00
+                 normalization error:  2.47342E-03
+                           step size:  4.15368E+05
+                 global trust radius:  8.56114E+02
+             new global trust radius:  8.56114E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                 100         0         0         0         0        19       100       100
+  
+  
+           Diagonal step.
+             Updated Jacobian's Diagonal
+   2    In this step the normalization improved(?) by  1.26970E-05
+              maximum absolute error:  1.65729E-05
+                total absolute error:  2.46072E-03
+          predicted total abs. error:  8.11020E-04
+                 normalization error:  8.64999E-04
+                           step size:  3.14777E+00
+                 global trust radius:  8.56114E+02
+             new global trust radius:  2.14028E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  51        19        79        19        73        19         0         0
+  
+  
+             Updated Jacobian's Diagonal
+   3    In this step the normalization improved(?) by  1.61500E-03
+              maximum absolute error:  1.62818E-05
+                total absolute error:  8.45728E-04
+          predicted total abs. error:  1.53900E-03
+                 normalization error:  8.28647E-04
+                           step size:  1.91207E+00
+                 global trust radius:  2.14028E+02
+             new global trust radius:  2.14028E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                 100        19        10        19         0        19         0         0
+  
+  
+ SUCCESS!!!  2-point hole normalization converged.
+  
+  
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          6.9201279016257153     
+ Thomas-Fermi + Weizsacker      14.333606910471708     
+ LDA-based k.e. from hole       14.333606910471708     
+ one-point normalization KE     8.2249845686614798     
+ two-point normalization KE     8.7024414657912121     
+ exact k.e. from wfn file       7.7029920471438142     
+  
+  
+ For normalization using the following number of points:           0
+ The normalization test gives:    1.8140025020835777     
+ The exchange energy is:   -1.1177160700409996     
+  
+  
+ For normalization using the following number of points:           1
+ The normalization test gives:    3.7695662369048057     
+ The exchange energy is:   -1.9709780313146898     
+  
+  
+ For normalization using the following number of points:           2
+ The normalization test gives:    3.9983542807027614     
+ The exchange energy is:   -1.9006509268092231     
+  
+ Previous Calculation: Bad-Broyden with 5 vectors and Diagonal updates; Local Trust-Radius Pruning.
+ -------------------------------------------------------------------
+ -------------------------------------------------------------------
+ Bad-Broyden with 5 vectors and Diagonal updates; Local Trust-Radius Pruning.
+ p value for generalized p-mean:   0.56311026539851960     
+  
+ For 2 point normalization.
+ Number of electrons of this spin,    2.0000057871515384     
+ Iteration info:
+             Updated Jacobian's Diagonal
+   1    In this step the normalization improved(?) by  1.34078+154
+              maximum absolute error:  1.69167E-05
+                total absolute error:  2.38701E-03
+          predicted total abs. error:  0.00000E+00
+                 normalization error:  2.38701E-03
+                           step size:  4.15367E+05
+                 global trust radius:  8.55689E+02
+             new global trust radius:  8.55689E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                 100         0         0         0         0        19       100       100
+  
+  
+           Diagonal step.
+             Updated Jacobian's Diagonal
+   2    In this step the normalization improved(?) by  1.50066E-05
+              maximum absolute error:  1.66743E-05
+                total absolute error:  2.37200E-03
+          predicted total abs. error:  8.15191E-04
+                 normalization error:  7.67040E-04
+                           step size:  2.97913E+00
+                 global trust radius:  8.55689E+02
+             new global trust radius:  2.13922E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  51        19        79        19        73        19         0         0
+  
+  
+             Updated Jacobian's Diagonal
+   3    In this step the normalization improved(?) by  1.51714E-03
+              maximum absolute error:  1.65530E-05
+                total absolute error:  8.54864E-04
+          predicted total abs. error:  1.52623E-03
+                 normalization error:  8.40569E-04
+                           step size:  1.77048E+00
+                 global trust radius:  2.13922E+02
+             new global trust radius:  2.13922E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  94        13         8        13         6        19         0         0
+  
+  
+ SUCCESS!!!  2-point hole normalization converged.
+  
+  
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          6.9201279016257153     
+ Thomas-Fermi + Weizsacker      14.333606910471708     
+ LDA-based k.e. from hole       14.333606910471708     
+ one-point normalization KE     8.2249845686614798     
+ two-point normalization KE     8.7011829386141244     
+ exact k.e. from wfn file       7.7029920471438142     
+  
+  
+ For normalization using the following number of points:           0
+ The normalization test gives:    1.8130920966297770     
+ The exchange energy is:   -1.1174522171489414     
+  
+  
+ For normalization using the following number of points:           1
+ The normalization test gives:    3.7691634467024877     
+ The exchange energy is:   -1.9709205833570318     
+  
+  
+ For normalization using the following number of points:           2
+ The normalization test gives:    3.9983304365379100     
+ The exchange energy is:   -1.9008143930411854     
+  
+ Previous Calculation: Bad-Broyden with 5 vectors and Diagonal updates; Local Trust-Radius Pruning.
+ -------------------------------------------------------------------
+ -------------------------------------------------------------------
+ Bad-Broyden with 5 vectors and Diagonal updates; Local Trust-Radius Pruning.
+ p value for generalized p-mean:   0.56635339741183210     
+  
+ For 2 point normalization.
+ Number of electrons of this spin,    2.0000057871515384     
+ Iteration info:
+             Updated Jacobian's Diagonal
+   1    In this step the normalization improved(?) by  1.34078+154
+              maximum absolute error:  1.71845E-05
+                total absolute error:  2.39357E-03
+          predicted total abs. error:  0.00000E+00
+                 normalization error:  2.39357E-03
+                           step size:  4.15366E+05
+                 global trust radius:  8.55281E+02
+             new global trust radius:  8.55281E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                 100         0         0         0         0        19       100       100
+  
+  
+           Diagonal step.
+             Updated Jacobian's Diagonal
+   2    In this step the normalization improved(?) by  1.64010E-05
+              maximum absolute error:  1.70160E-05
+                total absolute error:  2.37717E-03
+          predicted total abs. error:  8.46465E-04
+                 normalization error:  7.09254E-04
+                           step size:  2.94356E+00
+                 global trust radius:  8.55281E+02
+             new global trust radius:  2.13820E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  52        19        78        19        73        19         0         0
+  
+  
+             Updated Jacobian's Diagonal
+   3    In this step the normalization improved(?) by  1.48948E-03
+              maximum absolute error:  1.69848E-05
+                total absolute error:  8.87683E-04
+          predicted total abs. error:  1.55916E-03
+                 normalization error:  8.74513E-04
+                           step size:  1.72263E+00
+                 global trust radius:  2.13820E+02
+             new global trust radius:  2.13820E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  90         9         5         8        10        19         0         0
+  
+  
+ SUCCESS!!!  2-point hole normalization converged.
+  
+  
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          6.9201279016257153     
+ Thomas-Fermi + Weizsacker      14.333606910471708     
+ LDA-based k.e. from hole       14.333606910471708     
+ one-point normalization KE     8.2249845686614798     
+ two-point normalization KE     8.6999102627260569     
+ exact k.e. from wfn file       7.7029920471438142     
+  
+  
+ For normalization using the following number of points:           0
+ The normalization test gives:    1.8121880958421790     
+ The exchange energy is:   -1.1171899916509074     
+  
+  
+ For normalization using the following number of points:           1
+ The normalization test gives:    3.7687627047793497     
+ The exchange energy is:   -1.9708634140520618     
+  
+  
+ For normalization using the following number of points:           2
+ The normalization test gives:    3.9982625477232960     
+ The exchange energy is:   -1.9009809805136109     
+  
+ Previous Calculation: Bad-Broyden with 5 vectors and Diagonal updates; Local Trust-Radius Pruning.
+ -------------------------------------------------------------------
+ -------------------------------------------------------------------
+ Bad-Broyden with 5 vectors and Diagonal updates; Local Trust-Radius Pruning.
+ p value for generalized p-mean:   0.56958249674662076     
+  
+ For 2 point normalization.
+ Number of electrons of this spin,    2.0000057871515384     
+ Iteration info:
+             Updated Jacobian's Diagonal
+   1    In this step the normalization improved(?) by  1.34078+154
+              maximum absolute error:  1.76070E-05
+                total absolute error:  2.42089E-03
+          predicted total abs. error:  0.00000E+00
+                 normalization error:  2.42089E-03
+                           step size:  4.15365E+05
+                 global trust radius:  8.54873E+02
+             new global trust radius:  8.54873E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                 100         0         0         0         0        19       100       100
+  
+  
+           Diagonal step.
+             Updated Jacobian's Diagonal
+   2    In this step the normalization improved(?) by  1.61817E-05
+              maximum absolute error:  1.74778E-05
+                total absolute error:  2.40471E-03
+          predicted total abs. error:  8.91809E-04
+                 normalization error:  6.44790E-04
+                           step size:  2.91574E+00
+                 global trust radius:  8.54873E+02
+             new global trust radius:  2.13718E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  52        19        78        19        73        19         0         0
+  
+  
+             Updated Jacobian's Diagonal
+   3    In this step the normalization improved(?) by  1.47003E-03
+              maximum absolute error:  1.74933E-05
+                total absolute error:  9.34678E-04
+          predicted total abs. error:  1.60276E-03
+                 normalization error:  9.23306E-04
+                           step size:  1.69443E+00
+                 global trust radius:  2.13718E+02
+             new global trust radius:  5.34295E+01
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  82         1         5         0        18        19         0         0
+  
+  
+ SUCCESS!!!  2-point hole normalization converged.
+  
+  
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          6.9201279016257153     
+ Thomas-Fermi + Weizsacker      14.333606910471708     
+ LDA-based k.e. from hole       14.333606910471708     
+ one-point normalization KE     8.2249845686614798     
+ two-point normalization KE     8.6986363631250132     
+ exact k.e. from wfn file       7.7029920471438142     
+  
+  
+ For normalization using the following number of points:           0
+ The normalization test gives:    1.8112904922960049     
+ The exchange energy is:   -1.1169293960922739     
+  
+  
+ For normalization using the following number of points:           1
+ The normalization test gives:    3.7683640226462298     
+ The exchange energy is:   -1.9708065252410123     
+  
+  
+ For normalization using the following number of points:           2
+ The normalization test gives:    3.9981649622225239     
+ The exchange energy is:   -1.9011477280438631     
+  
+ Previous Calculation: Bad-Broyden with 5 vectors and Diagonal updates; Local Trust-Radius Pruning.
+ -------------------------------------------------------------------
+ -------------------------------------------------------------------
+ Bad-Broyden with 5 vectors and Diagonal updates; Local Trust-Radius Pruning.
+ p value for generalized p-mean:   0.57279744041266878     
+  
+ For 2 point normalization.
+ Number of electrons of this spin,    2.0000057871515384     
+ Iteration info:
+             Updated Jacobian's Diagonal
+   1    In this step the normalization improved(?) by  1.34078+154
+              maximum absolute error:  1.81030E-05
+                total absolute error:  2.46226E-03
+          predicted total abs. error:  0.00000E+00
+                 normalization error:  2.46226E-03
+                           step size:  4.15363E+05
+                 global trust radius:  8.54465E+02
+             new global trust radius:  8.54465E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                 100         0         0         0         0        19       100       100
+  
+  
+           Diagonal step.
+             Updated Jacobian's Diagonal
+   2    In this step the normalization improved(?) by  1.59730E-05
+              maximum absolute error:  1.79839E-05
+                total absolute error:  2.44629E-03
+          predicted total abs. error:  9.44567E-04
+                 normalization error:  5.80192E-04
+                           step size:  2.89676E+00
+                 global trust radius:  8.54465E+02
+             new global trust radius:  2.13616E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  52        19        78        19        73        19         0         0
+  
+  
+             Updated Jacobian's Diagonal
+   3    In this step the normalization improved(?) by  1.45600E-03
+              maximum absolute error:  1.80269E-05
+                total absolute error:  9.90283E-04
+          predicted total abs. error:  1.65200E-03
+                 normalization error:  9.81791E-04
+                           step size:  1.68061E+00
+                 global trust radius:  2.13616E+02
+             new global trust radius:  5.34041E+01
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  81         0         5         0        19        19         0         0
+  
+  
+ SUCCESS!!!  2-point hole normalization converged.
+  
+  
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          6.9201279016257153     
+ Thomas-Fermi + Weizsacker      14.333606910471708     
+ LDA-based k.e. from hole       14.333606910471708     
+ one-point normalization KE     8.2249845686614798     
+ two-point normalization KE     8.6973678397965575     
+ exact k.e. from wfn file       7.7029920471438142     
+  
+  
+ For normalization using the following number of points:           0
+ The normalization test gives:    1.8103992775281894     
+ The exchange energy is:   -1.1166704326858610     
+  
+  
+ For normalization using the following number of points:           1
+ The normalization test gives:    3.7679674112921999     
+ The exchange energy is:   -1.9707499186820294     
+  
+  
+ For normalization using the following number of points:           2
+ The normalization test gives:    3.9980479928894050     
+ The exchange energy is:   -1.9013132918042073     
+  
+ Previous Calculation: Bad-Broyden with 5 vectors and Diagonal updates; Local Trust-Radius Pruning.
+ -------------------------------------------------------------------
+ -------------------------------------------------------------------
+ Bad-Broyden with 5 vectors and Diagonal updates; Local Trust-Radius Pruning.
+ p value for generalized p-mean:   0.57599810940190199     
+  
+ For 2 point normalization.
+ Number of electrons of this spin,    2.0000057871515384     
+ Iteration info:
+             Updated Jacobian's Diagonal
+   1    In this step the normalization improved(?) by  1.34078+154
+              maximum absolute error:  1.86230E-05
+                total absolute error:  2.51286E-03
+          predicted total abs. error:  0.00000E+00
+                 normalization error:  2.51286E-03
+                           step size:  4.15362E+05
+                 global trust radius:  8.54059E+02
+             new global trust radius:  8.54059E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                 100         0         0         0         0        19       100       100
+  
+  
+           Diagonal step.
+             Updated Jacobian's Diagonal
+   2    In this step the normalization improved(?) by  1.58022E-05
+              maximum absolute error:  1.85222E-05
+                total absolute error:  2.49705E-03
+          predicted total abs. error:  1.00179E-03
+                 normalization error:  5.15970E-04
+                           step size:  2.88584E+00
+                 global trust radius:  8.54059E+02
+             new global trust radius:  2.13515E+02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  52        19        78        19        73        19         0         0
+  
+  
+             Updated Jacobian's Diagonal
+   3    In this step the normalization improved(?) by  1.44529E-03
+              maximum absolute error:  1.85772E-05
+                total absolute error:  1.05176E-03
+          predicted total abs. error:  1.70942E-03
+                 normalization error:  1.04612E-03
+                           step size:  1.67187E+00
+                 global trust radius:  2.13515E+02
+             new global trust radius:  5.33787E+01
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  81         0         5         0        19        19         0         0
+  
+  
+             Updated Jacobian's Diagonal
+   4    In this step the normalization improved(?) by  5.45708E-06
+              maximum absolute error:  1.85738E-05
+                total absolute error:  1.04631E-03
+          predicted total abs. error:  1.04649E-03
+                 normalization error:  1.04631E-03
+                           step size:  8.77908E-02
+                 global trust radius:  5.33787E+01
+             new global trust radius:  5.33787E+01
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  54        51        10        19        46        19        36         1
+  
+  
+             Updated Jacobian's Diagonal
+   5    In this step the normalization improved(?) by  2.42540E-05
+              maximum absolute error:  1.85698E-05
+                total absolute error:  1.02205E-03
+          predicted total abs. error:  1.03477E-03
+                 normalization error:  1.02176E-03
+                           step size:  3.81512E-02
+                 global trust radius:  5.33787E+01
+             new global trust radius:  5.33787E+01
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  92        84         1        19         8        19        18        56
+  
+  
+             Updated Jacobian's Diagonal
+   6    In this step the normalization improved(?) by -3.96249E-06
+              maximum absolute error:  1.85669E-05
+                total absolute error:  1.02602E-03
+          predicted total abs. error:  1.03579E-03
+                 normalization error:  1.01178E-03
+                           step size:  6.82566E-02
+                 global trust radius:  5.33787E+01
+             new global trust radius:  5.33787E+01
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  60        30        19        19        43        19        35         5
+  
+  
+             1    The error went ***UP*** by   3.96249E-06
+             Updated Jacobian's Diagonal
+             new global trust radius:  3.41283E-02
+             Scaling back whole step by factor of  3.8547    
+             Updated Jacobian's Diagonal
+   7    In this step the normalization improved(?) by -3.65393E-06
+              maximum absolute error:  1.85678E-05
+                total absolute error:  1.02529E-03
+          predicted total abs. error:  1.02911E-03
+                 normalization error:  1.01365E-03
+                           step size:  3.41283E-02
+                 global trust radius:  3.41283E-02
+             new global trust radius:  3.41283E-02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  57        33        20        19        45        19        41         5
+  
+  
+             1    The error went ***UP*** by   3.65393E-06
+             Updated Jacobian's Diagonal
+             new global trust radius:  3.41283E-02
+             2    The error went ***UP*** by   1.47459E-06
+                        maximum absolute error:  1.85681E-05
+                          total absolute error:  1.02311E-03
+                    predicted total abs. error:  1.02911E-03
+                           normalization error:  1.01525E-03
+                                     step size:  1.70641E-02
+                           global trust radius:  3.41283E-02
+                      improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                            59        54         4        19        42        19        41         5
+             Updated Jacobian's Diagonal
+             new global trust radius:  1.70641E-02
+             Scaling back whole step by factor of  7.8439    
+             Updated Jacobian's Diagonal
+   8    In this step the normalization improved(?) by -3.05578E-06
+              maximum absolute error:  1.85681E-05
+                total absolute error:  1.02532E-03
+          predicted total abs. error:  1.02649E-03
+                 normalization error:  1.01689E-03
+                           step size:  1.70641E-02
+                 global trust radius:  1.70641E-02
+             new global trust radius:  3.41283E-02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  53        48         3        19        48        19        44         0
+  
+  
+             1    The error went ***UP*** by   3.05578E-06
+             Updated Jacobian's Diagonal
+             new global trust radius:  1.70641E-02
+             2    The error went ***UP*** by   1.49263E-06
+                        maximum absolute error:  1.85682E-05
+                          total absolute error:  1.02376E-03
+                    predicted total abs. error:  1.02649E-03
+                           normalization error:  1.01647E-03
+                                     step size:  8.53207E-03
+                           global trust radius:  1.70641E-02
+                      improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                            54        50         1        19        47        19        44         0
+             Updated Jacobian's Diagonal
+             new global trust radius:  8.53207E-03
+             Scaling back whole step by factor of  16.290    
+             Updated Jacobian's Diagonal
+   9    In this step the normalization improved(?) by -2.02806E-06
+              maximum absolute error:  1.85682E-05
+                total absolute error:  1.02503E-03
+          predicted total abs. error:  1.02528E-03
+                 normalization error:  1.01770E-03
+                           step size:  8.53187E-03
+                 global trust radius:  8.53207E-03
+             new global trust radius:  1.70641E-02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  52        49         0        19        48        19        46         4
+  
+  
+             1    The error went ***UP*** by   2.02806E-06
+             Updated Jacobian's Diagonal
+             new global trust radius:  8.53187E-03
+             2    The error went ***UP*** by   1.01269E-06
+                        maximum absolute error:  1.85682E-05
+                          total absolute error:  1.02402E-03
+                    predicted total abs. error:  1.02528E-03
+                           normalization error:  1.01698E-03
+                                     step size:  4.26594E-03
+                           global trust radius:  8.53187E-03
+                      improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                            53        50         0        19        48        19        46         4
+             Updated Jacobian's Diagonal
+             new global trust radius:  4.26594E-03
+ ===Very Slow Convergence===
+             Scaling back whole step by factor of  29.559    
+             Updated Jacobian's Diagonal
+  10    In this step the normalization improved(?) by -7.78840E-07
+              maximum absolute error:  1.85682E-05
+                total absolute error:  1.02429E-03
+          predicted total abs. error:  1.02448E-03
+                 normalization error:  1.01702E-03
+                           step size:  4.26566E-03
+                 global trust radius:  4.26594E-03
+             new global trust radius:  8.53187E-03
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  54        51         0        19        46        19        46         3
+  
+  
+ ===Very Slow Convergence===
+             Scaling back whole step by factor of  9.1555    
+             Updated Jacobian's Diagonal
+  11    In this step the normalization improved(?) by  1.72781E-06
+              maximum absolute error:  1.85677E-05
+                total absolute error:  1.02256E-03
+          predicted total abs. error:  1.02410E-03
+                 normalization error:  1.01243E-03
+                           step size:  8.44329E-03
+                 global trust radius:  8.53187E-03
+             new global trust radius:  1.70637E-02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  85        66        12        19        16        23        33        66
+  
+  
+ ===Very Slow Convergence===
+             Scaling back whole step by factor of  2.7265    
+             Updated Jacobian's Diagonal
+  12    In this step the normalization improved(?) by -5.30845E-06
+              maximum absolute error:  1.85672E-05
+                total absolute error:  1.02787E-03
+          predicted total abs. error:  1.02526E-03
+                 normalization error:  1.02117E-03
+                           step size:  1.50565E-02
+                 global trust radius:  1.70637E-02
+             new global trust radius:  1.70637E-02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  22        18        20        16        79        29        44         0
+  
+  
+             1    The error went ***UP*** by   5.30845E-06
+             Updated Jacobian's Diagonal
+             new global trust radius:  7.52823E-03
+             2    The error went ***UP*** by   2.31626E-06
+                        maximum absolute error:  1.85675E-05
+                          total absolute error:  1.02488E-03
+                    predicted total abs. error:  1.02526E-03
+                           normalization error:  1.01680E-03
+                                     step size:  7.52823E-03
+                           global trust radius:  7.52823E-03
+                      improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                            27        19        19        18        76        29        44         0
+             Updated Jacobian's Diagonal
+             new global trust radius:  3.76412E-03
+             3    The error went ***UP*** by   1.01518E-06
+                        maximum absolute error:  1.85676E-05
+                          total absolute error:  1.02358E-03
+                    predicted total abs. error:  1.02526E-03
+                           normalization error:  1.01462E-03
+                                     step size:  3.76412E-03
+                           global trust radius:  3.76412E-03
+                      improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                            30        23        14        19        71        29        44         0
+             Updated Jacobian's Diagonal
+             new global trust radius:  2.28820E-03
+ ===Very Slow Convergence===
+             Scaling back whole step by factor of  18.890    
+             Updated Jacobian's Diagonal
+  13    In this step the normalization improved(?) by -3.76443E-07
+              maximum absolute error:  1.85676E-05
+                total absolute error:  1.02342E-03
+          predicted total abs. error:  1.02301E-03
+                 normalization error:  1.01506E-03
+                           step size:  1.75834E-03
+                 global trust radius:  2.28820E-03
+             new global trust radius:  4.57639E-03
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  29        25         2         9        71        40        40         6
+  
+  
+ ===Very Slow Convergence===
+             Scaling back whole step by factor of  16.084    
+             Updated Jacobian's Diagonal
+  14    In this step the normalization improved(?) by  7.50884E-07
+              maximum absolute error:  1.85674E-05
+                total absolute error:  1.02267E-03
+          predicted total abs. error:  1.02292E-03
+                 normalization error:  1.01424E-03
+                           step size:  2.93131E-03
+                 global trust radius:  4.57639E-03
+             new global trust radius:  9.15279E-03
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  71        58        13        35        36        48        32        45
+  
+  
+ ===Very Slow Convergence===
+             Scaling back whole step by factor of  6.8215    
+             Updated Jacobian's Diagonal
+  15    In this step the normalization improved(?) by  2.53306E-06
+              maximum absolute error:  1.85668E-05
+                total absolute error:  1.02014E-03
+          predicted total abs. error:  1.02058E-03
+                 normalization error:  1.01179E-03
+                           step size:  5.97392E-03
+                 global trust radius:  9.15279E-03
+             new global trust radius:  1.83056E-02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  65        60         7        45        35        51        37        39
+  
+  
+ ===Very Slow Convergence===
+             Scaling back whole step by factor of  2.2167    
+             Updated Jacobian's Diagonal
+  16    In this step the normalization improved(?) by -7.54511E-07
+              maximum absolute error:  1.85661E-05
+                total absolute error:  1.02089E-03
+          predicted total abs. error:  1.01888E-03
+                 normalization error:  1.01670E-03
+                           step size:  9.24847E-03
+                 global trust radius:  1.83056E-02
+             new global trust radius:  1.83056E-02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  45        20        27        16        70        62        23         0
+  
+  
+ ===Very Slow Convergence===
+             Scaling back whole step by factor of  10.001    
+             Updated Jacobian's Diagonal
+  17    In this step the normalization improved(?) by  3.08508E-06
+              maximum absolute error:  1.85657E-05
+                total absolute error:  1.01781E-03
+          predicted total abs. error:  1.01903E-03
+                 normalization error:  1.01268E-03
+                           step size:  4.07523E-03
+                 global trust radius:  1.83056E-02
+             new global trust radius:  2.57260E-02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  91        63        23        55         9        56         6         0
+  
+  
+             Scaling back whole step by factor of  2.7026    
+             Updated Jacobian's Diagonal
+  18    In this step the normalization improved(?) by -5.66999E-07
+              maximum absolute error:  1.85652E-05
+                total absolute error:  1.01837E-03
+          predicted total abs. error:  1.01730E-03
+                 normalization error:  1.01499E-03
+                           step size:  8.81982E-03
+                 global trust radius:  2.57260E-02
+             new global trust radius:  2.57260E-02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  25        23        24        18        75        63         9         0
+  
+  
+ ===Very Slow Convergence===
+             Scaling back whole step by factor of  5.7679    
+             Updated Jacobian's Diagonal
+  19    In this step the normalization improved(?) by  1.60739E-06
+              maximum absolute error:  1.85648E-05
+                total absolute error:  1.01677E-03
+          predicted total abs. error:  1.01659E-03
+                 normalization error:  1.01481E-03
+                           step size:  5.16604E-03
+                 global trust radius:  2.57260E-02
+             new global trust radius:  5.14519E-02
+           Percentage of        4128  points that: 
+            improved  tooshort   toolong  in-trust  de-trust    pruned  backward  goodbwrd
+                  50        45         1        38        50        62        27         0
+  
+  
+ ===Very Slow Convergence===
+  
+ *** TOTAL FAILURE TO CONVERGE TO DESIRED ACCURACY ***.
+ *** :-( :-( :-( :-( :-( :-( :-( :-( :-( :-( :-(   ***.
+  
+dhcp-8-22:KEfromHole ayers$ 

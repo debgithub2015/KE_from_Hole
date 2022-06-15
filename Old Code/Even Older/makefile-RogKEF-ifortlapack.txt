@@ -1,0 +1,36 @@
+CPP = f90 -intel -llapack
+LIBS = -llapack
+FFLAGS = -c -implicitnone
+
+OBJS = NRTypeVar.o Density_Function.o \
+       Read_InputFile.o Module_Grids.o \
+       Check_Norm.o Integrals_Module.o \
+       MatrixCalc.o \
+       DRIVER.o 	
+       
+Auxiliary_KEF.x: $(OBJS)
+	$(CPP) -o Auxiliary_KEF.x $(OBJS) $(LIBS)
+
+NRTypeVar.o: NRTypeVar.f90
+	$(CPP) $(FFLAGS) NRTypeVar.f90
+Density_Function.o: Density_Function.f90
+	$(CPP) $(FFLAGS) Density_Function.f90
+Read_InputFile.o: Read_InputFile.f90
+	$(CPP) $(FFLAGS) Read_InputFile.f90
+Module_Grids.o: Module_Grids.f90
+	$(CPP) $(FFLAGS) Module_Grids.f90
+Check_Norm.o: Check_Norm.f90
+	$(CPP) $(FFLAGS) Check_Norm.f90
+Integrals_Module.o: Integrals_Module.f90
+	$(CPP) $(FFLAGS) Integrals_Module.f90
+MatrixCalc.o: MatrixCalc.f90
+	$(CPP) $(FFLAGS) MatrixCalc.f90
+MatrixHxc.o: MatrixHxc.f90
+	$(CPP) $(FFLAGS) MatrixHxc.f90
+DRIVER.o: DRIVER.F90
+	$(CPP) $(FFLAGS) DRIVER.F90
+
+clean:
+	rm -f *.mod *.o
+realclean:
+	rm -f *.mod *.o *.x 

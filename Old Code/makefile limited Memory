@@ -1,0 +1,120 @@
+#Variables are defined by just stating them followed by = signs
+
+#Define which compiler to use - as well as special flags
+COMP = gfortran
+
+#Can also use f95 here, or f77.  Some useful flags follow:
+# -c compile
+# -o linkfile://localhost/Users/ayers/Documents/__Programming/KEfromHole/makefile
+#
+# -C preserve comments in output
+# -CC preserve comments including macros.
+#
+# -O0 no optimization.
+# -O1 (or -O) optimize some
+# -O2 optimize even more
+# -O3 optimize a lot
+#
+# -g get debug info in native format.
+# -ggdb get the most expensive form of debug info possible.
+#
+# -static do not link with shared libraries
+#
+FLAGS = -O3
+
+#Now all make does is offer an if-then rule system based on file modification 
+#
+#Variable values are retrieved with $(VARNAME), so to compile something 
+# I would write  $(COMP) $(FLAGS) file
+#
+#Now all make does is offer an if-then rule system based on file modification.  
+#Start by defining a variable (the "target") which lists all the object and 
+#Module files that are linked to create the program 
+# \ links two lines.
+
+KeEx = kinds.o variables_wfn.o grid_vars.o KE_vars.o        \
+          utilities_wfn.o process_wfn.o gridmaker.o         \
+          inout_module.o holesubroutinesUEG.o               \
+		  normalize_module_LimitedMemory.o					\
+          KE_module_with_Ex.o main.o
+  
+#What follows next is makes syntax for the if-then test.  
+#Write down a key word on the left, followed by "space : space",
+#followed by a list of files to be date tested.  If the dates are 'new' 
+#(by make's definition), then it will perform the operations on the next line.  
+#The operations MUST be preceded by a tab (*NOT* spaces!!).  Here is an example
+#
+#prog1 : [list of all .o and .mod files]
+#	f90 -02 -static -o [list of all .o and .mod files]
+#
+#Now of course we could have used the above defined
+#variables instead of writing all this
+
+KeEx : $(KeEx)
+	$(COMP) $(FLAGS) -o KeEx.x $(KeEx)
+
+#Now all you have to do is have this makefile in the directory and type
+#
+#   make -f makefile.make prog
+#
+#and it will look for the instruction labeled prog, check the dates of 
+#$(target), and if necessary, perform the compilation.  keywords on the 
+#left are used as command line arguments
+#
+#Note that we could have issued any shell commands we wanted to in the 
+#instructions such as changing to a different directory, then compiling, 
+#then coming back, etc.
+#
+#Now all that is left to do is leave instructions for what to do when the 
+#object files themselves need to be updated.  The keywords are just the
+#object files themselves, with the files themselves also being date 
+#tested.  The compilation instructions are for just creating objects, no 
+#linking.
+
+kinds.o     : kinds.f90
+	$(COMP) -c $(FLAGS) kinds.f90
+
+variables_wfn.o : variables_wfn.f90
+	$(COMP) -c $(FLAGS) variables_wfn.f90
+    
+grid_vars.o  : grid_vars.f90
+	$(COMP) -c $(FLAGS) grid_vars.f90
+    
+KE_vars.o  : KE_vars.f90
+	$(COMP) -c $(FLAGS) KE_vars.f90
+    
+utilities_wfn.o   : utilities_wfn.f90
+	$(COMP) -c $(FLAGS) utilities_wfn.f90
+
+process_wfn.o     : process_wfn.f90
+	$(COMP) -c $(FLAGS) process_wfn.f90
+
+gridmaker.o         : gridmaker.f90
+	$(COMP) -c $(FLAGS) gridmaker.f90
+
+inout_module.o : inout_module.f90
+	$(COMP) -c $(FLAGS) inout_module.f90
+	
+#Just changing holesubroutinesUEG to some other filename will let you use a
+#different hole.
+
+holesubroutinesUEG.o : holesubroutinesUEG.f90
+	$(COMP) -c $(FLAGS) holesubroutinesUEG.f90
+
+normalize_module_LimitedMemory.o : normalize_module_LimitedMemory.f90
+	$(COMP) -c $(FLAGS) normalize_module_LimitedMemory.f90
+
+KE_module_with_Ex.o : KE_module_with_Ex.f90
+	$(COMP) -c $(FLAGS) KE_module_with_Ex.f90
+
+main.o : main.f90
+	$(COMP) -c $(FLAGS) main.f90
+
+#Clean and purge are used when you have modified the code substantially 
+#and need a fresh (clean) or very fresh (purge) start.
+    
+clean:
+	rm *.o *.mod
+
+purge:
+	rm -f *.mod *.o *.x

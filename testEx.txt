@@ -1,0 +1,2438 @@
+Last login: Fri Feb 11 18:22:24 on ttys001
+You have mail.
+dhcp-8-22:~ ayers$ cd Documents/__Programming/KE*
+dhcp-8-22:KEfromHole ayers$ ./KeExhole.x LiH
+ Reading wfn file: LiH.wfn                                                                         
+  
+ smoothing iterations for Voronoi cells            3
+ number of angular points           86
+ radial factor   0.75000000000000000     
+ Constructing molecular grid of        4128  points...
+ in density subroutine
+ end density subroutine.
+ Thomas-Fermi k.e.                6.9201279016257171     
+ von Weizsacker k.e.              7.4134790088459921     
+ grad. expansion (TF + 1/9 vW)    7.7438477914974939     
+ TF + 1/5 vW                      8.4028237033949154     
+ exact k.e. from wfn file         7.7029920471438142     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:   1.00000000000000002E-002
+  
+  
+ For            1  point normalization.
+ Number of electrons,    2.0000057871515384     
+ Iteration info:
+           1  the maximum error:    5.0677684697672820     
+                    total error:   0.94211606426065275     
+            normalization error:   0.73508983068154077     
+                      4128  of         4128 points improved.
+                      4128  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           2  the maximum error:    3.9506051830995781     
+                    total error:   0.41731601255771111     
+            normalization error:   0.30336565882590882     
+                      3837  of         4128 points improved.
+                      1659  of         4128 points had an good linear update.
+                         8  of         4128 points had an bad linear update.
+           3  the maximum error:    1.8855770849446640     
+                    total error:   0.11457290586664355     
+            normalization error:   2.30575261632928151E-002
+                      3812  of         4128 points improved.
+                      1900  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           4  the maximum error:   0.38846707902908345     
+                    total error:   2.65765358989102328E-002
+            normalization error:   2.65704516646206208E-002
+                      3809  of         4128 points improved.
+                      3189  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           5  the maximum error:   5.88996878719607875E-002
+                    total error:   4.34139564148103545E-003
+            normalization error:   4.34139564148022621E-003
+                      3806  of         4128 points improved.
+                      3773  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           6  the maximum error:   1.94602079166273311E-003
+                    total error:   1.37245889274424009E-003
+            normalization error:   1.37245889274335278E-003
+                      3731  of         4128 points improved.
+                      3539  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           7  the maximum error:   2.26957334178505852E-006
+                    total error:   8.56839625008537303E-004
+            normalization error:   8.56839625007272689E-004
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    2.0000057871515384     
+ Iteration info:
+           1  the maximum error:   0.92353180447137562     
+                    total error:   0.33963715660835198     
+            normalization error:   7.80888806363720378E-002
+                      4128  of         4128 points improved.
+                      4128  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           2  the maximum error:   0.50863865453567358     
+                    total error:   0.12378850610500096     
+            normalization error:   2.12548334615782035E-002
+                      3742  of         4128 points improved.
+                       852  of         4128 points had an good linear update.
+                        50  of         4128 points had an bad linear update.
+           3  the maximum error:   0.12341242036180460     
+                    total error:   3.70575795008467254E-002
+            normalization error:   3.23894254774452928E-003
+                      3226  of         4128 points improved.
+                       962  of         4128 points had an good linear update.
+                       922  of         4128 points had an bad linear update.
+           4  the maximum error:   6.05747853731995883E-002
+                    total error:   1.09630449203022198E-002
+            normalization error:   9.68935583512301780E-003
+                      3524  of         4128 points improved.
+                      2301  of         4128 points had an good linear update.
+                        95  of         4128 points had an bad linear update.
+           5  the maximum error:   1.91451602071348037E-002
+                    total error:   1.16035256645725601E-002
+            normalization error:   1.16035186014008113E-002
+                      1354  of         4128 points improved.
+                       146  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           6  the maximum error:   2.76559713889694136E-002
+                    total error:   9.62773703289368163E-003
+            normalization error:   9.62773703289368163E-003
+                      1908  of         4128 points improved.
+                       103  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           7  the maximum error:   4.43639729210739721E-003
+                    total error:   1.31614192508995825E-003
+            normalization error:   1.31614109662652693E-003
+                      2683  of         4128 points improved.
+                       349  of         4128 points had an good linear update.
+                        61  of         4128 points had an bad linear update.
+           8  the maximum error:   2.98312593297638375E-003
+                    total error:   1.17350523735708628E-003
+            normalization error:   1.17350523735708628E-003
+                       866  of         4128 points improved.
+                        95  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           9  the maximum error:   6.02788774654703275E-004
+                    total error:   2.45828324289034772E-004
+            normalization error:   2.45828324257171208E-004
+           2 -point hole normalization converged.
+  
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          6.9201279016257153     
+ LDA-based k.e. from hole       14.333606910471708     
+ one-point normalization KE     8.2249651011382774     
+ two-point normalization KE     8.9653282786747255     
+ exact k.e. from wfn file       7.7029920471438142     
+  
+  
+ For normalization using the following number of points:           0
+ The normalization test gives:    2.0143907352461574     
+ The exchange energy is:   -1.1704759244975487     
+  
+  
+ For normalization using the following number of points:           1
+ The normalization test gives:    3.8438338130104461     
+ The exchange energy is:   -1.9812055822095036     
+  
+  
+ For normalization using the following number of points:           2
+ The normalization test gives:    3.9995199176474809     
+ The exchange energy is:   -1.8699403701055852     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:    1.0000000000000000     
+  
+  
+ For            1  point normalization.
+ Number of electrons,    2.0000057871515384     
+ Iteration info:
+           1  the maximum error:    5.0677684697672820     
+                    total error:   0.94211606426065275     
+            normalization error:   0.73508983068154077     
+                      4128  of         4128 points improved.
+                      4128  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           2  the maximum error:    3.9506051830995781     
+                    total error:   0.41731601255771111     
+            normalization error:   0.30336565882590882     
+                      3837  of         4128 points improved.
+                      1659  of         4128 points had an good linear update.
+                         8  of         4128 points had an bad linear update.
+           3  the maximum error:    1.8855770849446640     
+                    total error:   0.11457290586664355     
+            normalization error:   2.30575261632928151E-002
+                      3812  of         4128 points improved.
+                      1900  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           4  the maximum error:   0.38846707902908345     
+                    total error:   2.65765358989102328E-002
+            normalization error:   2.65704516646206208E-002
+                      3809  of         4128 points improved.
+                      3189  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           5  the maximum error:   5.88996878719607875E-002
+                    total error:   4.34139564148103545E-003
+            normalization error:   4.34139564148022621E-003
+                      3806  of         4128 points improved.
+                      3773  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           6  the maximum error:   1.94602079166273311E-003
+                    total error:   1.37245889274424009E-003
+            normalization error:   1.37245889274335278E-003
+                      3731  of         4128 points improved.
+                      3539  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           7  the maximum error:   2.26957334178505852E-006
+                    total error:   8.56839625008537303E-004
+            normalization error:   8.56839625007272689E-004
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    2.0000057871515384     
+ Iteration info:
+           1  the maximum error:   0.72595294296899870     
+                    total error:   0.34720871924089169     
+            normalization error:   0.14083504907577718     
+                      4128  of         4128 points improved.
+                      4128  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           2  the maximum error:   0.22260196899533408     
+                    total error:   0.14160823216473928     
+            normalization error:   7.65308185598562452E-002
+                      3962  of         4128 points improved.
+                       587  of         4128 points had an good linear update.
+                       736  of         4128 points had an bad linear update.
+           3  the maximum error:   5.79702602949401929E-002
+                    total error:   5.88762661351287520E-002
+            normalization error:   1.70583499117785697E-002
+                      3783  of         4128 points improved.
+                      1510  of         4128 points had an good linear update.
+                       695  of         4128 points had an bad linear update.
+           4  the maximum error:   2.12200151927052147E-002
+                    total error:   3.42975550881473579E-002
+            normalization error:   3.41832146076905263E-002
+                      2759  of         4128 points improved.
+                      1024  of         4128 points had an good linear update.
+                       468  of         4128 points had an bad linear update.
+           5  the maximum error:   1.37750622631469880E-002
+                    total error:   3.04252761953001521E-002
+            normalization error:   9.96149845839798369E-003
+                      1977  of         4128 points improved.
+                       230  of         4128 points had an good linear update.
+                       499  of         4128 points had an bad linear update.
+           6  the maximum error:   5.82674645320426041E-003
+                    total error:   2.10576018570227987E-002
+            normalization error:   2.10576018570227987E-002
+                      3272  of         4128 points improved.
+                       753  of         4128 points had an good linear update.
+                       355  of         4128 points had an bad linear update.
+           7  the maximum error:   3.24957334433869944E-003
+                    total error:   2.07896142025567089E-002
+            normalization error:   1.56017169134796997E-002
+                      1972  of         4128 points improved.
+                       297  of         4128 points had an good linear update.
+                       467  of         4128 points had an bad linear update.
+           8  the maximum error:   1.15038819882627751E-003
+                    total error:   1.82861189583790745E-002
+            normalization error:   1.82861189583790745E-002
+                      3578  of         4128 points improved.
+                      1621  of         4128 points had an good linear update.
+                       237  of         4128 points had an bad linear update.
+           9  the maximum error:   5.79541595956151005E-004
+                    total error:   1.82555870237738303E-002
+            normalization error:   1.72299083898393851E-002
+                      1999  of         4128 points improved.
+                       360  of         4128 points had an good linear update.
+                       430  of         4128 points had an bad linear update.
+          10  the maximum error:   3.82178589251252663E-004
+                    total error:   1.78011588053927153E-002
+            normalization error:   1.78011588053927153E-002
+                      2910  of         4128 points improved.
+                      1439  of         4128 points had an good linear update.
+                       223  of         4128 points had an bad linear update.
+          11  the maximum error:   1.69993904457265387E-004
+                    total error:   1.77642670315446248E-002
+            normalization error:   1.74833552020870232E-002
+                      1578  of         4128 points improved.
+                       336  of         4128 points had an good linear update.
+                       393  of         4128 points had an bad linear update.
+          12  the maximum error:   1.40603210909655323E-004
+                    total error:   1.76478820307846528E-002
+            normalization error:   1.76478820307846528E-002
+                      2839  of         4128 points improved.
+                      1003  of         4128 points had an good linear update.
+                        42  of         4128 points had an bad linear update.
+          13  the maximum error:   1.40436178476582602E-004
+                    total error:   1.76370057217780929E-002
+            normalization error:   1.75515367283915168E-002
+                      1718  of         4128 points improved.
+                       265  of         4128 points had an good linear update.
+                       360  of         4128 points had an bad linear update.
+          14  the maximum error:   1.40394455941961579E-004
+                    total error:   1.75977727157914689E-002
+            normalization error:   1.75977727157914689E-002
+                      3198  of         4128 points improved.
+                      1347  of         4128 points had an good linear update.
+                        80  of         4128 points had an bad linear update.
+          15  the maximum error:   1.40354236993516613E-004
+                    total error:   1.75969610034652432E-002
+            normalization error:   1.75775838114611317E-002
+                      2002  of         4128 points improved.
+                       367  of         4128 points had an good linear update.
+                       275  of         4128 points had an bad linear update.
+          16  the maximum error:   1.40343475177446512E-004
+                    total error:   1.75882528786103637E-002
+            normalization error:   1.75882528786103637E-002
+                      3436  of         4128 points improved.
+                      1394  of         4128 points had an good linear update.
+                       100  of         4128 points had an bad linear update.
+          17  the maximum error:   1.40333307750831600E-004
+                    total error:   1.75879915329132247E-002
+            normalization error:   1.75829457858247204E-002
+                      2108  of         4128 points improved.
+                       472  of         4128 points had an good linear update.
+                       258  of         4128 points had an bad linear update.
+          18  the maximum error:   1.40331348269963889E-004
+                    total error:   1.75859096015488492E-002
+            normalization error:   1.75859096015488492E-002
+                      3479  of         4128 points improved.
+                       370  of         4128 points had an good linear update.
+                        41  of         4128 points had an bad linear update.
+          19  the maximum error:   1.40326377382189759E-004
+                    total error:   1.75857359465225217E-002
+            normalization error:   1.75842810686019681E-002
+                      2015  of         4128 points improved.
+                       294  of         4128 points had an good linear update.
+                       258  of         4128 points had an bad linear update.
+ ......resetting trust radii.......
+          20  the maximum error:   1.40321844422724832E-004
+                    total error:   1.75850598586524166E-002
+            normalization error:   1.75850598586524166E-002
+                      3468  of         4128 points improved.
+                       879  of         4128 points had an good linear update.
+                        45  of         4128 points had an bad linear update.
+          21  the maximum error:   1.40331820854616750E-004
+                    total error:   1.75851114355365518E-002
+            normalization error:   1.75848391375999884E-002
+                      2055  of         4128 points improved.
+                       249  of         4128 points had an good linear update.
+                       368  of         4128 points had an bad linear update.
+          22  the maximum error:   1.40331377322149242E-004
+                    total error:   1.75850158065814499E-002
+            normalization error:   1.75850158065814499E-002
+                      3022  of         4128 points improved.
+                       647  of         4128 points had an good linear update.
+                       157  of         4128 points had an bad linear update.
+          23  the maximum error:   1.40322986069059267E-004
+                    total error:   1.75850181642783210E-002
+            normalization error:   1.75849504399627037E-002
+                       754  of         4128 points improved.
+                       212  of         4128 points had an good linear update.
+                       354  of         4128 points had an bad linear update.
+          24  the maximum error:   1.40323532973367864E-004
+                    total error:   1.75849412027435370E-002
+            normalization error:   1.75848884137008270E-002
+                       725  of         4128 points improved.
+                       191  of         4128 points had an good linear update.
+                       346  of         4128 points had an bad linear update.
+          25  the maximum error:   1.40324058626992848E-004
+                    total error:   1.75849382275824091E-002
+            normalization error:   1.75848974802537625E-002
+                       809  of         4128 points improved.
+                       190  of         4128 points had an good linear update.
+                       321  of         4128 points had an bad linear update.
+          26  the maximum error:   1.40320787432550084E-004
+                    total error:   1.75850136598057691E-002
+            normalization error:   1.75849893277793198E-002
+                      1543  of         4128 points improved.
+                       182  of         4128 points had an good linear update.
+                       323  of         4128 points had an bad linear update.
+          27  the maximum error:   1.40323639508615881E-004
+                    total error:   1.75849746446553809E-002
+            normalization error:   1.75849713138655286E-002
+                      2617  of         4128 points improved.
+                      1257  of         4128 points had an good linear update.
+                       360  of         4128 points had an bad linear update.
+          28  the maximum error:   1.40320081113029689E-004
+                    total error:   1.75849599521319261E-002
+            normalization error:   1.75849518993557198E-002
+                       578  of         4128 points improved.
+                       149  of         4128 points had an good linear update.
+                       353  of         4128 points had an bad linear update.
+          29  the maximum error:   1.40324102947078427E-004
+                    total error:   1.75849512607175427E-002
+            normalization error:   1.75849461500682432E-002
+                      1086  of         4128 points improved.
+                       111  of         4128 points had an good linear update.
+                       337  of         4128 points had an bad linear update.
+          30  the maximum error:   1.40328796051048270E-004
+                    total error:   1.75849681793530457E-002
+            normalization error:   1.75849654896115988E-002
+                      2058  of         4128 points improved.
+                       501  of         4128 points had an good linear update.
+                       434  of         4128 points had an bad linear update.
+          31  the maximum error:   1.40333752343739282E-004
+                    total error:   1.75849919335054512E-002
+            normalization error:   1.75849904548029540E-002
+                      1512  of         4128 points improved.
+                        63  of         4128 points had an good linear update.
+                       871  of         4128 points had an bad linear update.
+          32  the maximum error:   1.40329329022878161E-004
+                    total error:   1.75849681064516351E-002
+            normalization error:   1.75849659099683100E-002
+                      1041  of         4128 points improved.
+                        11  of         4128 points had an good linear update.
+                       365  of         4128 points had an bad linear update.
+          33  the maximum error:   1.40328404521246255E-004
+                    total error:   1.75849932220626219E-002
+            normalization error:   1.75849921627026853E-002
+                      2168  of         4128 points improved.
+                       440  of         4128 points had an good linear update.
+                      1178  of         4128 points had an bad linear update.
+          34  the maximum error:   1.40323988893219432E-004
+                    total error:   1.75849774258307785E-002
+            normalization error:   1.75849767463140440E-002
+                       756  of         4128 points improved.
+                        52  of         4128 points had an good linear update.
+                       466  of         4128 points had an bad linear update.
+          35  the maximum error:   1.40317321159886193E-004
+                    total error:   1.75849522028392186E-002
+            normalization error:   1.75849517642413106E-002
+                      1372  of         4128 points improved.
+                        19  of         4128 points had an good linear update.
+                       637  of         4128 points had an bad linear update.
+          36  the maximum error:   1.40319298718892961E-004
+                    total error:   1.75849489265893118E-002
+            normalization error:   1.75849482822394952E-002
+                      1193  of         4128 points improved.
+                         8  of         4128 points had an good linear update.
+                       428  of         4128 points had an bad linear update.
+          37  the maximum error:   1.40323584620270303E-004
+                    total error:   1.75849565205590322E-002
+            normalization error:   1.75849562190383280E-002
+                      2057  of         4128 points improved.
+                       137  of         4128 points had an good linear update.
+                       449  of         4128 points had an bad linear update.
+          38  the maximum error:   1.40329190750645576E-004
+                    total error:   1.75849571733681376E-002
+            normalization error:   1.75849569538849594E-002
+                      1461  of         4128 points improved.
+                        69  of         4128 points had an good linear update.
+                       972  of         4128 points had an bad linear update.
+          39  the maximum error:   1.40338151662836583E-004
+                    total error:   1.75849863494031526E-002
+            normalization error:   1.75849862184049230E-002
+                      1152  of         4128 points improved.
+                        48  of         4128 points had an good linear update.
+                       433  of         4128 points had an bad linear update.
+ ......resetting trust radii.......
+          40  the maximum error:   1.40328364554472414E-004
+                    total error:   1.75850234576243811E-002
+            normalization error:   1.75850232468637638E-002
+                      1178  of         4128 points improved.
+                         7  of         4128 points had an good linear update.
+                       391  of         4128 points had an bad linear update.
+          41  the maximum error:   1.40327239728637074E-004
+                    total error:   1.75850021293362559E-002
+            normalization error:   1.75849894732041552E-002
+                       401  of         4128 points improved.
+                         7  of         4128 points had an good linear update.
+                       351  of         4128 points had an bad linear update.
+          42  the maximum error:   1.40328082300949180E-004
+                    total error:   1.75849787991887996E-002
+            normalization error:   1.75849720380140545E-002
+                       933  of         4128 points improved.
+                        23  of         4128 points had an good linear update.
+                       412  of         4128 points had an bad linear update.
+          43  the maximum error:   1.40330077378731033E-004
+                    total error:   1.75850123803951881E-002
+            normalization error:   1.75850085956803723E-002
+                      2075  of         4128 points improved.
+                       159  of         4128 points had an good linear update.
+                      1436  of         4128 points had an bad linear update.
+          44  the maximum error:   1.40328134794700062E-004
+                    total error:   1.75849900610576503E-002
+            normalization error:   1.75849865347434131E-002
+                      1817  of         4128 points improved.
+                       104  of         4128 points had an good linear update.
+                      1305  of         4128 points had an bad linear update.
+          45  the maximum error:   1.40326678053836600E-004
+                    total error:   1.75849907833288792E-002
+            normalization error:   1.75849864153733333E-002
+                       970  of         4128 points improved.
+                        41  of         4128 points had an good linear update.
+                       403  of         4128 points had an bad linear update.
+          46  the maximum error:   1.40331386612768596E-004
+                    total error:   1.75849985175728814E-002
+            normalization error:   1.75849963831859989E-002
+                      1132  of         4128 points improved.
+                       148  of         4128 points had an good linear update.
+                       350  of         4128 points had an bad linear update.
+          47  the maximum error:   1.40330866571539549E-004
+                    total error:   1.75849869133331838E-002
+            normalization error:   1.75849861084382483E-002
+                      2432  of         4128 points improved.
+                       282  of         4128 points had an good linear update.
+                       373  of         4128 points had an bad linear update.
+          48  the maximum error:   1.40329377093170076E-004
+                    total error:   1.75849973857018192E-002
+            normalization error:   1.75849943508438293E-002
+                       863  of         4128 points improved.
+                         3  of         4128 points had an good linear update.
+                       364  of         4128 points had an bad linear update.
+          49  the maximum error:   1.40329038497559488E-004
+                    total error:   1.75850017770790290E-002
+            normalization error:   1.75849998030822817E-002
+                       636  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       368  of         4128 points had an bad linear update.
+          50  the maximum error:   1.40330402612645323E-004
+                    total error:   1.75850485549784129E-002
+            normalization error:   1.75850475305112247E-002
+                      1053  of         4128 points improved.
+                        29  of         4128 points had an good linear update.
+                       368  of         4128 points had an bad linear update.
+ WARNING:  Failure to converge the normalization constraint.
+ This is usually because your integration grid is not accurate
+ enough. The program will continue but you should be careful 
+ about interpreting the results.
+ Program failed in solving full-grid Newton method.
+ Consider printing debug info.
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          6.9201279016257153     
+ LDA-based k.e. from hole       14.333606910471708     
+ one-point normalization KE     8.2249651011382774     
+ two-point normalization KE     8.5528215705950483     
+ exact k.e. from wfn file       7.7029920471438142     
+  
+  
+ For normalization using the following number of points:           0
+ The normalization test gives:    1.7102863787382985     
+ The exchange energy is:   -1.0861390613392576     
+  
+  
+ For normalization using the following number of points:           1
+ The normalization test gives:    3.7183414761256093     
+ The exchange energy is:   -1.9635390571534230     
+  
+  
+ For normalization using the following number of points:           2
+ The normalization test gives:    3.9648416199202354     
+ The exchange energy is:   -1.9201792775821653     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:    2.0000000000000000     
+  
+  
+ For            1  point normalization.
+ Number of electrons,    2.0000057871515384     
+ Iteration info:
+           1  the maximum error:    5.0677684697672820     
+                    total error:   0.94211606426065275     
+            normalization error:   0.73508983068154077     
+                      4128  of         4128 points improved.
+                      4128  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           2  the maximum error:    3.9506051830995781     
+                    total error:   0.41731601255771111     
+            normalization error:   0.30336565882590882     
+                      3837  of         4128 points improved.
+                      1659  of         4128 points had an good linear update.
+                         8  of         4128 points had an bad linear update.
+           3  the maximum error:    1.8855770849446640     
+                    total error:   0.11457290586664355     
+            normalization error:   2.30575261632928151E-002
+                      3812  of         4128 points improved.
+                      1900  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           4  the maximum error:   0.38846707902908345     
+                    total error:   2.65765358989102328E-002
+            normalization error:   2.65704516646206208E-002
+                      3809  of         4128 points improved.
+                      3189  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           5  the maximum error:   5.88996878719607875E-002
+                    total error:   4.34139564148103545E-003
+            normalization error:   4.34139564148022621E-003
+                      3806  of         4128 points improved.
+                      3773  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           6  the maximum error:   1.94602079166273311E-003
+                    total error:   1.37245889274424009E-003
+            normalization error:   1.37245889274335278E-003
+                      3731  of         4128 points improved.
+                      3539  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           7  the maximum error:   2.26957334178505852E-006
+                    total error:   8.56839625008537303E-004
+            normalization error:   8.56839625007272689E-004
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    2.0000057871515384     
+ Iteration info:
+           1  the maximum error:   0.58380174773569316     
+                    total error:   0.35430198561418902     
+            normalization error:   0.18897657216075064     
+                      4128  of         4128 points improved.
+                      4128  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           2  the maximum error:   0.11292530797581304     
+                    total error:   0.15617774875544901     
+            normalization error:   0.12589218634007912     
+                      3974  of         4128 points improved.
+                      1382  of         4128 points had an good linear update.
+                       847  of         4128 points had an bad linear update.
+           3  the maximum error:   2.25235251510155603E-002
+                    total error:   7.72476271750321825E-002
+            normalization error:   4.93720257036206131E-002
+                      3747  of         4128 points improved.
+                      1626  of         4128 points had an good linear update.
+                       815  of         4128 points had an bad linear update.
+           4  the maximum error:   1.22278727299668811E-002
+                    total error:   6.18844299345268425E-002
+            normalization error:   6.18844299345268425E-002
+                      3271  of         4128 points improved.
+                       530  of         4128 points had an good linear update.
+                       684  of         4128 points had an bad linear update.
+           5  the maximum error:   5.13666241794699663E-003
+                    total error:   5.55211528987540615E-002
+            normalization error:   4.61539987832965612E-002
+                      2974  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       709  of         4128 points had an bad linear update.
+           6  the maximum error:   2.88655250547183813E-003
+                    total error:   5.33091547499895332E-002
+            normalization error:   5.33091547499895332E-002
+                      3084  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       516  of         4128 points had an bad linear update.
+           7  the maximum error:   1.95993360970669796E-003
+                    total error:   5.26587128047744102E-002
+            normalization error:   4.96041731342241471E-002
+                      3956  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       897  of         4128 points had an bad linear update.
+           8  the maximum error:   1.37810672869488810E-003
+                    total error:   5.22449718090477674E-002
+            normalization error:   5.22449718090477674E-002
+                      3198  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       483  of         4128 points had an bad linear update.
+           9  the maximum error:   9.53022985309774293E-004
+                    total error:   5.18300441464930595E-002
+            normalization error:   5.03472043270100644E-002
+                      3989  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       897  of         4128 points had an bad linear update.
+          10  the maximum error:   9.54587810852945782E-004
+                    total error:   5.16103843708600671E-002
+            normalization error:   5.16103843708600671E-002
+                      3255  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       500  of         4128 points had an bad linear update.
+          11  the maximum error:   9.51618577997964806E-004
+                    total error:   5.14253894946881118E-002
+            normalization error:   5.06772377452998773E-002
+                      4005  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       897  of         4128 points had an bad linear update.
+          12  the maximum error:   9.52075340701803176E-004
+                    total error:   5.13003678264434271E-002
+            normalization error:   5.13003678264434271E-002
+                      3287  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       524  of         4128 points had an bad linear update.
+          13  the maximum error:   9.50670186715536292E-004
+                    total error:   5.12167850433982372E-002
+            normalization error:   5.08327919303562803E-002
+                      4009  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       897  of         4128 points had an bad linear update.
+          14  the maximum error:   9.50692071557746325E-004
+                    total error:   5.11432445124522586E-002
+            normalization error:   5.11432445124522586E-002
+                      3403  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       631  of         4128 points had an bad linear update.
+          15  the maximum error:   9.50038731248979934E-004
+                    total error:   5.10905211200569434E-002
+            normalization error:   5.08973948810366103E-002
+                      4021  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       897  of         4128 points had an bad linear update.
+          16  the maximum error:   9.49888475278585554E-004
+                    total error:   5.10493635219299163E-002
+            normalization error:   5.10493635219299163E-002
+                      3597  of         4128 points improved.
+                         4  of         4128 points had an good linear update.
+                       760  of         4128 points had an bad linear update.
+          17  the maximum error:   9.48820758108249855E-004
+                    total error:   5.10160029157013875E-002
+            normalization error:   5.09212363942270832E-002
+                      4000  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       893  of         4128 points had an bad linear update.
+          18  the maximum error:   9.48710858607301646E-004
+                    total error:   5.09940599509716083E-002
+            normalization error:   5.09940599509716083E-002
+                      3769  of         4128 points improved.
+                        13  of         4128 points had an good linear update.
+                       817  of         4128 points had an bad linear update.
+          19  the maximum error:   9.48138156217931123E-004
+                    total error:   5.09730006597863897E-002
+            normalization error:   5.09288268761680998E-002
+                      3932  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       807  of         4128 points had an bad linear update.
+ ......resetting trust radii.......
+          20  the maximum error:   9.48093841819202892E-004
+                    total error:   5.09613977792306994E-002
+            normalization error:   5.09613977792306994E-002
+                      3777  of         4128 points improved.
+                        24  of         4128 points had an good linear update.
+                       682  of         4128 points had an bad linear update.
+          21  the maximum error:   9.47947077755710598E-004
+                    total error:   5.09533020265186057E-002
+            normalization error:   5.09350046158158071E-002
+                      3558  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       889  of         4128 points had an bad linear update.
+          22  the maximum error:   9.47968537035893174E-004
+                    total error:   5.09465372711332132E-002
+            normalization error:   5.09465372711332132E-002
+                      3431  of         4128 points improved.
+                       266  of         4128 points had an good linear update.
+                       611  of         4128 points had an bad linear update.
+          23  the maximum error:   9.47917842463340569E-004
+                    total error:   5.09429396703710152E-002
+            normalization error:   5.09362276013690246E-002
+                      2533  of         4128 points improved.
+                       155  of         4128 points had an good linear update.
+                       836  of         4128 points had an bad linear update.
+          24  the maximum error:   9.47905347298396285E-004
+                    total error:   5.09382184856139314E-002
+            normalization error:   5.09375556661508452E-002
+                      2780  of         4128 points improved.
+                       528  of         4128 points had an good linear update.
+                       669  of         4128 points had an bad linear update.
+          25  the maximum error:   9.47878341546856749E-004
+                    total error:   5.09360116945571581E-002
+            normalization error:   5.09347404761344505E-002
+                      2518  of         4128 points improved.
+                       585  of         4128 points had an good linear update.
+                       714  of         4128 points had an bad linear update.
+          26  the maximum error:   9.47861345227400307E-004
+                    total error:   5.09341109428284797E-002
+            normalization error:   5.09336276638976682E-002
+                      2897  of         4128 points improved.
+                       495  of         4128 points had an good linear update.
+                       596  of         4128 points had an bad linear update.
+          27  the maximum error:   9.47845890631745440E-004
+                    total error:   5.09327832929183308E-002
+            normalization error:   5.09319785679331685E-002
+                      2399  of         4128 points improved.
+                      1305  of         4128 points had an good linear update.
+                       624  of         4128 points had an bad linear update.
+          28  the maximum error:   9.47841893598462201E-004
+                    total error:   5.09320930962853316E-002
+            normalization error:   5.09320881097846886E-002
+                      2797  of         4128 points improved.
+                      1696  of         4128 points had an good linear update.
+                       622  of         4128 points had an bad linear update.
+          29  the maximum error:   9.47835678913919394E-004
+                    total error:   5.09316240521600488E-002
+            normalization error:   5.09311806204133868E-002
+                      2396  of         4128 points improved.
+                        74  of         4128 points had an good linear update.
+                       643  of         4128 points had an bad linear update.
+          30  the maximum error:   9.47836070531672377E-004
+                    total error:   5.09313722603723928E-002
+            normalization error:   5.09313722603723928E-002
+                      2864  of         4128 points improved.
+                      1570  of         4128 points had an good linear update.
+                       573  of         4128 points had an bad linear update.
+          31  the maximum error:   9.47835370631914002E-004
+                    total error:   5.09312415016571415E-002
+            normalization error:   5.09311310562035602E-002
+                      1995  of         4128 points improved.
+                       170  of         4128 points had an good linear update.
+                       864  of         4128 points had an bad linear update.
+          32  the maximum error:   9.47835238192688292E-004
+                    total error:   5.09311242799358535E-002
+            normalization error:   5.09310981603676854E-002
+                      3789  of         4128 points improved.
+                      1384  of         4128 points had an good linear update.
+                       991  of         4128 points had an bad linear update.
+          33  the maximum error:   9.47835080011153147E-004
+                    total error:   5.09310518500767292E-002
+            normalization error:   5.09310070265524759E-002
+                      1961  of         4128 points improved.
+                       604  of         4128 points had an good linear update.
+                      1018  of         4128 points had an bad linear update.
+          34  the maximum error:   9.47835043518489655E-004
+                    total error:   5.09309671332005137E-002
+            normalization error:   5.09309555483670948E-002
+                      3322  of         4128 points improved.
+                      1043  of         4128 points had an good linear update.
+                      1020  of         4128 points had an bad linear update.
+          35  the maximum error:   9.47834838477821183E-004
+                    total error:   5.09309079840265314E-002
+            normalization error:   5.09308579151967131E-002
+                      1729  of         4128 points improved.
+                        87  of         4128 points had an good linear update.
+                      1097  of         4128 points had an bad linear update.
+          36  the maximum error:   9.47834898168372080E-004
+                    total error:   5.09308288309527693E-002
+            normalization error:   5.09308153597805291E-002
+                      3372  of         4128 points improved.
+                       646  of         4128 points had an good linear update.
+                      1065  of         4128 points had an bad linear update.
+          37  the maximum error:   9.47834795178437357E-004
+                    total error:   5.09307765570913840E-002
+            normalization error:   5.09307401380479641E-002
+                      1741  of         4128 points improved.
+                        83  of         4128 points had an good linear update.
+                      1060  of         4128 points had an bad linear update.
+          38  the maximum error:   9.47834833268448970E-004
+                    total error:   5.09307297953639493E-002
+            normalization error:   5.09307251224791063E-002
+                      3181  of         4128 points improved.
+                       699  of         4128 points had an good linear update.
+                       952  of         4128 points had an bad linear update.
+          39  the maximum error:   9.47834841258650244E-004
+                    total error:   5.09307080303075879E-002
+            normalization error:   5.09306914825094423E-002
+                      2893  of         4128 points improved.
+                        16  of         4128 points had an good linear update.
+                       997  of         4128 points had an bad linear update.
+ ......resetting trust radii.......
+          40  the maximum error:   9.47834732608050551E-004
+                    total error:   5.09307084347041111E-002
+            normalization error:   5.09307084347041111E-002
+                      2707  of         4128 points improved.
+                       414  of         4128 points had an good linear update.
+                       802  of         4128 points had an bad linear update.
+          41  the maximum error:   9.47834629788056604E-004
+                    total error:   5.09306911460683798E-002
+            normalization error:   5.09306867799004317E-002
+                      3013  of         4128 points improved.
+                        70  of         4128 points had an good linear update.
+                       719  of         4128 points had an bad linear update.
+          42  the maximum error:   9.47834662844052045E-004
+                    total error:   5.09307177556451163E-002
+            normalization error:   5.09307177556451163E-002
+                      3296  of         4128 points improved.
+                        66  of         4128 points had an good linear update.
+                       635  of         4128 points had an bad linear update.
+          43  the maximum error:   9.47834890502834496E-004
+                    total error:   5.09306917958918526E-002
+            normalization error:   5.09306903373750175E-002
+                      3332  of         4128 points improved.
+                        60  of         4128 points had an good linear update.
+                       698  of         4128 points had an bad linear update.
+          44  the maximum error:   9.47834703709145689E-004
+                    total error:   5.09307050469424497E-002
+            normalization error:   5.09307050469424497E-002
+                      3310  of         4128 points improved.
+                        62  of         4128 points had an good linear update.
+                       619  of         4128 points had an bad linear update.
+          45  the maximum error:   9.47834797436290333E-004
+                    total error:   5.09307047110273345E-002
+            normalization error:   5.09307041249762102E-002
+                      3320  of         4128 points improved.
+                        53  of         4128 points had an good linear update.
+                       661  of         4128 points had an bad linear update.
+          46  the maximum error:   9.47834700780723102E-004
+                    total error:   5.09307006790621075E-002
+            normalization error:   5.09307006790621075E-002
+                      3366  of         4128 points improved.
+                        37  of         4128 points had an good linear update.
+                       642  of         4128 points had an bad linear update.
+          47  the maximum error:   9.47834812248884951E-004
+                    total error:   5.09307043690466477E-002
+            normalization error:   5.09307041666405350E-002
+                      3120  of         4128 points improved.
+                        24  of         4128 points had an good linear update.
+                       639  of         4128 points had an bad linear update.
+          48  the maximum error:   9.47834779404838350E-004
+                    total error:   5.09306849334245498E-002
+            normalization error:   5.09306849334166395E-002
+                      3356  of         4128 points improved.
+                        90  of         4128 points had an good linear update.
+                       735  of         4128 points had an bad linear update.
+          49  the maximum error:   9.47834725856314770E-004
+                    total error:   5.09306923504906361E-002
+            normalization error:   5.09306922823973204E-002
+                      2312  of         4128 points improved.
+                        13  of         4128 points had an good linear update.
+                       642  of         4128 points had an bad linear update.
+          50  the maximum error:   9.47834779947615870E-004
+                    total error:   5.09307095399182605E-002
+            normalization error:   5.09307095126462772E-002
+                      2278  of         4128 points improved.
+                         9  of         4128 points had an good linear update.
+                       643  of         4128 points had an bad linear update.
+ WARNING:  Failure to converge the normalization constraint.
+ This is usually because your integration grid is not accurate
+ enough. The program will continue but you should be careful 
+ about interpreting the results.
+ Program failed in solving full-grid Newton method.
+ Consider printing debug info.
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          6.9201279016257153     
+ LDA-based k.e. from hole       14.333606910471708     
+ one-point normalization KE     8.2249651011382774     
+ two-point normalization KE     8.3692254438158340     
+ exact k.e. from wfn file       7.7029920471438142     
+  
+  
+ For normalization using the following number of points:           0
+ The normalization test gives:    1.5631098314014289     
+ The exchange energy is:   -1.0358510869026456     
+  
+  
+ For normalization using the following number of points:           1
+ The normalization test gives:    3.6220584299541820     
+ The exchange energy is:   -1.9489490283663968     
+  
+  
+ For normalization using the following number of points:           2
+ The normalization test gives:    3.8981501789792619     
+ The exchange energy is:   -1.9400977669099739     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:    4.0000000000000000     
+  
+  
+ For            1  point normalization.
+ Number of electrons,    2.0000057871515384     
+ Iteration info:
+           1  the maximum error:    5.0677684697672820     
+                    total error:   0.94211606426065275     
+            normalization error:   0.73508983068154077     
+                      4128  of         4128 points improved.
+                      4128  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           2  the maximum error:    3.9506051830995781     
+                    total error:   0.41731601255771111     
+            normalization error:   0.30336565882590882     
+                      3837  of         4128 points improved.
+                      1659  of         4128 points had an good linear update.
+                         8  of         4128 points had an bad linear update.
+           3  the maximum error:    1.8855770849446640     
+                    total error:   0.11457290586664355     
+            normalization error:   2.30575261632928151E-002
+                      3812  of         4128 points improved.
+                      1900  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           4  the maximum error:   0.38846707902908345     
+                    total error:   2.65765358989102328E-002
+            normalization error:   2.65704516646206208E-002
+                      3809  of         4128 points improved.
+                      3189  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           5  the maximum error:   5.88996878719607875E-002
+                    total error:   4.34139564148103545E-003
+            normalization error:   4.34139564148022621E-003
+                      3806  of         4128 points improved.
+                      3773  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           6  the maximum error:   1.94602079166273311E-003
+                    total error:   1.37245889274424009E-003
+            normalization error:   1.37245889274335278E-003
+                      3731  of         4128 points improved.
+                      3539  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           7  the maximum error:   2.26957334178505852E-006
+                    total error:   8.56839625008537303E-004
+            normalization error:   8.56839625007272689E-004
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    2.0000057871515384     
+ Iteration info:
+           1  the maximum error:   0.40652507281544792     
+                    total error:   0.36614731001123529     
+            normalization error:   0.25358638339757611     
+                      4128  of         4128 points improved.
+                      4128  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           2  the maximum error:   3.97868327910876202E-002
+                    total error:   0.17147497688446281     
+            normalization error:   0.16322187389475959     
+                      3995  of         4128 points improved.
+                      1502  of         4128 points had an good linear update.
+                       998  of         4128 points had an bad linear update.
+           3  the maximum error:   6.09793821624784408E-003
+                    total error:   8.39515051407948021E-002
+            normalization error:   6.96799075944266599E-002
+                      3772  of         4128 points improved.
+                      1647  of         4128 points had an good linear update.
+                       943  of         4128 points had an bad linear update.
+           4  the maximum error:   1.88332351229601844E-003
+                    total error:   6.88580911263336898E-002
+            normalization error:   6.88432738791004001E-002
+                      3889  of         4128 points improved.
+                       412  of         4128 points had an good linear update.
+                       779  of         4128 points had an bad linear update.
+           5  the maximum error:   1.71782736571886741E-003
+                    total error:   6.28931687839720394E-002
+            normalization error:   6.09116647963526339E-002
+                      3948  of         4128 points improved.
+                       102  of         4128 points had an good linear update.
+                       864  of         4128 points had an bad linear update.
+           6  the maximum error:   1.70610087305286882E-003
+                    total error:   6.20257911282561733E-002
+            normalization error:   6.20257911282561733E-002
+                      4013  of         4128 points improved.
+                        90  of         4128 points had an good linear update.
+                       726  of         4128 points had an bad linear update.
+           7  the maximum error:   1.69100376880052428E-003
+                    total error:   6.13516493775187743E-002
+            normalization error:   6.10219408871662955E-002
+                      4033  of         4128 points improved.
+                         4  of         4128 points had an good linear update.
+                       974  of         4128 points had an bad linear update.
+           8  the maximum error:   1.69220516397050711E-003
+                    total error:   6.12982833993727591E-002
+            normalization error:   6.12982833993727591E-002
+                      3334  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       651  of         4128 points had an bad linear update.
+           9  the maximum error:   1.69173851269209768E-003
+                    total error:   6.12412710725748557E-002
+            normalization error:   6.11829447076820895E-002
+                      4042  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                      1065  of         4128 points had an bad linear update.
+          10  the maximum error:   1.69151711513478606E-003
+                    total error:   6.12201303136674091E-002
+            normalization error:   6.12201303136674091E-002
+                      3974  of         4128 points improved.
+                       109  of         4128 points had an good linear update.
+                       782  of         4128 points had an bad linear update.
+          11  the maximum error:   1.69081593191204821E-003
+                    total error:   6.11945108402459359E-002
+            normalization error:   6.11841589165137215E-002
+                      4042  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       893  of         4128 points had an bad linear update.
+          12  the maximum error:   1.69074674394081577E-003
+                    total error:   6.11890593084227843E-002
+            normalization error:   6.11890593084227843E-002
+                      4042  of         4128 points improved.
+                       117  of         4128 points had an good linear update.
+                       725  of         4128 points had an bad linear update.
+          13  the maximum error:   1.69065730764083179E-003
+                    total error:   6.11844951856427427E-002
+            normalization error:   6.11826584075241264E-002
+                      4042  of         4128 points improved.
+                        38  of         4128 points had an good linear update.
+                       984  of         4128 points had an bad linear update.
+          14  the maximum error:   1.69065882489930993E-003
+                    total error:   6.11836145453479724E-002
+            normalization error:   6.11836145453479724E-002
+                      3932  of         4128 points improved.
+                        60  of         4128 points had an good linear update.
+                       790  of         4128 points had an bad linear update.
+          15  the maximum error:   1.69065268348889911E-003
+                    total error:   6.11829629755209770E-002
+            normalization error:   6.11826370589741778E-002
+                      4042  of         4128 points improved.
+                        68  of         4128 points had an good linear update.
+                      1186  of         4128 points had an bad linear update.
+          16  the maximum error:   1.69065193053137162E-003
+                    total error:   6.11828675543818062E-002
+            normalization error:   6.11828675543818062E-002
+                      3671  of         4128 points improved.
+                        12  of         4128 points had an good linear update.
+                       821  of         4128 points had an bad linear update.
+          17  the maximum error:   1.69064868906482571E-003
+                    total error:   6.11827599973090788E-002
+            normalization error:   6.11827021655929129E-002
+                      4042  of         4128 points improved.
+                         9  of         4128 points had an good linear update.
+                      1182  of         4128 points had an bad linear update.
+          18  the maximum error:   1.69064836375205463E-003
+                    total error:   6.11827440864785577E-002
+            normalization error:   6.11827440864785577E-002
+                      3615  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                       815  of         4128 points had an bad linear update.
+          19  the maximum error:   1.69064792799113010E-003
+                    total error:   6.11827300196142940E-002
+            normalization error:   6.11827197577619331E-002
+                      4038  of         4128 points improved.
+                         0  of         4128 points had an good linear update.
+                      1014  of         4128 points had an bad linear update.
+ ......resetting trust radii.......
+          20  the maximum error:   1.69064753781276371E-003
+                    total error:   6.11827257539896072E-002
+            normalization error:   6.11827257539896072E-002
+                      3979  of         4128 points improved.
+                        50  of         4128 points had an good linear update.
+                       869  of         4128 points had an bad linear update.
+          21  the maximum error:   1.69064817647409543E-003
+                    total error:   6.11827223968011841E-002
+            normalization error:   6.11827205759031822E-002
+                      4018  of         4128 points improved.
+                        22  of         4128 points had an good linear update.
+                       962  of         4128 points had an bad linear update.
+          22  the maximum error:   1.69064791566579751E-003
+                    total error:   6.11827218384987867E-002
+            normalization error:   6.11827218384987867E-002
+                      3942  of         4128 points improved.
+                       137  of         4128 points had an good linear update.
+                       877  of         4128 points had an bad linear update.
+          23  the maximum error:   1.69064724977864783E-003
+                    total error:   6.11827201779472640E-002
+            normalization error:   6.11827198548413817E-002
+                      3938  of         4128 points improved.
+                        14  of         4128 points had an good linear update.
+                       911  of         4128 points had an bad linear update.
+          24  the maximum error:   1.69064789252058195E-003
+                    total error:   6.11827197690001864E-002
+            normalization error:   6.11827197690001864E-002
+                      3882  of         4128 points improved.
+                        47  of         4128 points had an good linear update.
+                       901  of         4128 points had an bad linear update.
+          25  the maximum error:   1.69064730370428913E-003
+                    total error:   6.11827194372892499E-002
+            normalization error:   6.11827193799552235E-002
+                      3856  of         4128 points improved.
+                        28  of         4128 points had an good linear update.
+                       915  of         4128 points had an bad linear update.
+          26  the maximum error:   1.69064657969617092E-003
+                    total error:   6.11827192324658903E-002
+            normalization error:   6.11827192324658903E-002
+                      3762  of         4128 points improved.
+                        16  of         4128 points had an good linear update.
+                       927  of         4128 points had an bad linear update.
+          27  the maximum error:   1.69064814122021293E-003
+                    total error:   6.11827189170733587E-002
+            normalization error:   6.11827189068993860E-002
+                      3724  of         4128 points improved.
+                        16  of         4128 points had an good linear update.
+                       928  of         4128 points had an bad linear update.
+          28  the maximum error:   1.69064815831759699E-003
+                    total error:   6.11827189451588718E-002
+            normalization error:   6.11827189451588718E-002
+                      3646  of         4128 points improved.
+                         8  of         4128 points had an good linear update.
+                       887  of         4128 points had an bad linear update.
+          29  the maximum error:   1.69064787842881426E-003
+                    total error:   6.11827187696926261E-002
+            normalization error:   6.11827187678882292E-002
+                      3602  of         4128 points improved.
+                        11  of         4128 points had an good linear update.
+                       857  of         4128 points had an bad linear update.
+          30  the maximum error:   1.69064786071967499E-003
+                    total error:   6.11827190649390229E-002
+            normalization error:   6.11827190649390229E-002
+                      3556  of         4128 points improved.
+                         8  of         4128 points had an good linear update.
+                       823  of         4128 points had an bad linear update.
+          31  the maximum error:   1.69064805804455560E-003
+                    total error:   6.11827190984070776E-002
+            normalization error:   6.11827190980868060E-002
+                      3540  of         4128 points improved.
+                         4  of         4128 points had an good linear update.
+                       816  of         4128 points had an bad linear update.
+          32  the maximum error:   1.69064856250947140E-003
+                    total error:   6.11827188638692579E-002
+            normalization error:   6.11827188638692579E-002
+                      3482  of         4128 points improved.
+                         2  of         4128 points had an good linear update.
+                       766  of         4128 points had an bad linear update.
+          33  the maximum error:   1.69064771819272186E-003
+                    total error:   6.11827195704508012E-002
+            normalization error:   6.11827195703950125E-002
+                      3444  of         4128 points improved.
+                        34  of         4128 points had an good linear update.
+                       728  of         4128 points had an bad linear update.
+          34  the maximum error:   1.69064813511424607E-003
+                    total error:   6.11827188524511623E-002
+            normalization error:   6.11827188524511623E-002
+                      3422  of         4128 points improved.
+                       110  of         4128 points had an good linear update.
+                       723  of         4128 points had an bad linear update.
+          35  the maximum error:   1.69064804173216297E-003
+                    total error:   6.11827190380972233E-002
+            normalization error:   6.11827190380879946E-002
+                      3318  of         4128 points improved.
+                       220  of         4128 points had an good linear update.
+                       732  of         4128 points had an bad linear update.
+          36  the maximum error:   1.69064779062128912E-003
+                    total error:   6.11827196106054655E-002
+            normalization error:   6.11827196106054239E-002
+                      3109  of         4128 points improved.
+                       346  of         4128 points had an good linear update.
+                       721  of         4128 points had an bad linear update.
+          37  the maximum error:   1.69064860636366967E-003
+                    total error:   6.11827192181265134E-002
+            normalization error:   6.11827192181256668E-002
+                      2802  of         4128 points improved.
+                       521  of         4128 points had an good linear update.
+                       696  of         4128 points had an bad linear update.
+          38  the maximum error:   1.69064802604671090E-003
+                    total error:   6.11827195157436943E-002
+            normalization error:   6.11827195157436318E-002
+                      2158  of         4128 points improved.
+                       401  of         4128 points had an good linear update.
+                       663  of         4128 points had an bad linear update.
+          39  the maximum error:   1.69064753332052206E-003
+                    total error:   6.11827191111106936E-002
+            normalization error:   6.11827191111103466E-002
+                      1780  of         4128 points improved.
+                       357  of         4128 points had an good linear update.
+                       697  of         4128 points had an bad linear update.
+ ......resetting trust radii.......
+          40  the maximum error:   1.69064802980191408E-003
+                    total error:   6.11827192896695904E-002
+            normalization error:   6.11827192896693475E-002
+                      1538  of         4128 points improved.
+                       313  of         4128 points had an good linear update.
+                       656  of         4128 points had an bad linear update.
+          41  the maximum error:   1.69064796679923462E-003
+                    total error:   6.11827195033832483E-002
+            normalization error:   6.11827195033830956E-002
+                      1543  of         4128 points improved.
+                       291  of         4128 points had an good linear update.
+                       792  of         4128 points had an bad linear update.
+          42  the maximum error:   1.69064792303581660E-003
+                    total error:   6.11827190113722955E-002
+            normalization error:   6.11827190113721012E-002
+                      1575  of         4128 points improved.
+                       300  of         4128 points had an good linear update.
+                       826  of         4128 points had an bad linear update.
+          43  the maximum error:   1.69064817879299245E-003
+                    total error:   6.11827192998791111E-002
+            normalization error:   6.11827192998790001E-002
+                      1483  of         4128 points improved.
+                       284  of         4128 points had an good linear update.
+                       803  of         4128 points had an bad linear update.
+          44  the maximum error:   1.69064821384320670E-003
+                    total error:   6.11827191852658062E-002
+            normalization error:   6.11827191852656327E-002
+                      1437  of         4128 points improved.
+                       264  of         4128 points had an good linear update.
+                       792  of         4128 points had an bad linear update.
+          45  the maximum error:   1.69064787504274680E-003
+                    total error:   6.11827190354509859E-002
+            normalization error:   6.11827190354507777E-002
+                      1338  of         4128 points improved.
+                       251  of         4128 points had an good linear update.
+                       770  of         4128 points had an bad linear update.
+          46  the maximum error:   1.69064809177749912E-003
+                    total error:   6.11827190800681361E-002
+            normalization error:   6.11827190800679696E-002
+                      1321  of         4128 points improved.
+                       254  of         4128 points had an good linear update.
+                       767  of         4128 points had an bad linear update.
+          47  the maximum error:   1.69064801209888016E-003
+                    total error:   6.11827194812725600E-002
+            normalization error:   6.11827194812724351E-002
+                      1277  of         4128 points improved.
+                       218  of         4128 points had an good linear update.
+                       764  of         4128 points had an bad linear update.
+          48  the maximum error:   1.69064792859631961E-003
+                    total error:   6.11827190117361988E-002
+            normalization error:   6.11827190117359768E-002
+                      1319  of         4128 points improved.
+                       229  of         4128 points had an good linear update.
+                       794  of         4128 points had an bad linear update.
+          49  the maximum error:   1.69064770144502184E-003
+                    total error:   6.11827190065916543E-002
+            normalization error:   6.11827190065914878E-002
+                      1291  of         4128 points improved.
+                       252  of         4128 points had an good linear update.
+                       749  of         4128 points had an bad linear update.
+          50  the maximum error:   1.69064772508232685E-003
+                    total error:   6.11827192843821185E-002
+            normalization error:   6.11827192843819520E-002
+                      1280  of         4128 points improved.
+                       212  of         4128 points had an good linear update.
+                       751  of         4128 points had an bad linear update.
+ WARNING:  Failure to converge the normalization constraint.
+ This is usually because your integration grid is not accurate
+ enough. The program will continue but you should be careful 
+ about interpreting the results.
+ Program failed in solving full-grid Newton method.
+ Consider printing debug info.
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          6.9201279016257153     
+ LDA-based k.e. from hole       14.333606910471708     
+ one-point normalization KE     8.2249651011382774     
+ two-point normalization KE     8.2286028492391665     
+ exact k.e. from wfn file       7.7029920471438142     
+  
+  
+ For normalization using the following number of points:           0
+ The normalization test gives:    1.4178830085830043     
+ The exchange energy is:  -0.97946237857821949     
+  
+  
+ For normalization using the following number of points:           1
+ The normalization test gives:    3.4928388074890533     
+ The exchange energy is:   -1.9278399171919613     
+  
+  
+ For normalization using the following number of points:           2
+ The normalization test gives:    3.8776461357123679     
+ The exchange energy is:   -1.9544429650336534     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:    8.0000000000000000     
+  
+  
+ For            1  point normalization.
+ Number of electrons,    2.0000057871515384     
+ Iteration info:
+           1  the maximum error:    5.0677684697672820     
+                    total error:   0.94211606426065275     
+            normalization error:   0.73508983068154077     
+                      4128  of         4128 points improved.
+                      4128  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           2  the maximum error:    3.9506051830995781     
+                    total error:   0.41731601255771111     
+            normalization error:   0.30336565882590882     
+                      3837  of         4128 points improved.
+                      1659  of         4128 points had an good linear update.
+                         8  of         4128 points had an bad linear update.
+           3  the maximum error:    1.8855770849446640     
+                    total error:   0.11457290586664355     
+            normalization error:   2.30575261632928151E-002
+                      3812  of         4128 points improved.
+                      1900  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           4  the maximum error:   0.38846707902908345     
+                    total error:   2.65765358989102328E-002
+            normalization error:   2.65704516646206208E-002
+                      3809  of         4128 points improved.
+                      3189  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           5  the maximum error:   5.88996878719607875E-002
+                    total error:   4.34139564148103545E-003
+            normalization error:   4.34139564148022621E-003
+                      3806  of         4128 points improved.
+                      3773  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           6  the maximum error:   1.94602079166273311E-003
+                    total error:   1.37245889274424009E-003
+            normalization error:   1.37245889274335278E-003
+                      3731  of         4128 points improved.
+                      3539  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           7  the maximum error:   2.26957334178505852E-006
+                    total error:   8.56839625008537303E-004
+            normalization error:   8.56839625007272689E-004
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    2.0000057871515384     
+ Iteration info:
+           1  the maximum error:   0.24170909771447588     
+                    total error:   0.38273158946945657     
+            normalization error:   0.31950206681820192     
+                      4128  of         4128 points improved.
+                      4128  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           2  the maximum error:   1.11240068055311371E-002
+                    total error:   0.18252274787453807     
+            normalization error:   0.17695370688243148     
+                      3972  of         4128 points improved.
+                      2164  of         4128 points had an good linear update.
+                      1123  of         4128 points had an bad linear update.
+           3  the maximum error:   2.92810421257380833E-003
+                    total error:   8.72870830665539305E-002
+            normalization error:   7.83003711068872288E-002
+                      3891  of         4128 points improved.
+                      1993  of         4128 points had an good linear update.
+                      1027  of         4128 points had an bad linear update.
+           4  the maximum error:   2.21215419732865085E-003
+                    total error:   6.94472641026067095E-002
+            normalization error:   6.94055093048718125E-002
+                      3492  of         4128 points improved.
+                      1273  of         4128 points had an good linear update.
+                       934  of         4128 points had an bad linear update.
+           5  the maximum error:   1.93853262563187093E-003
+                    total error:   6.31658242912152418E-002
+            normalization error:   6.23353912427623766E-002
+                      3731  of         4128 points improved.
+                      1041  of         4128 points had an good linear update.
+                       962  of         4128 points had an bad linear update.
+           6  the maximum error:   1.89575497094810873E-003
+                    total error:   6.22405050902828869E-002
+            normalization error:   6.22405050902828869E-002
+                      4018  of         4128 points improved.
+                      2306  of         4128 points had an good linear update.
+                       887  of         4128 points had an bad linear update.
+           7  the maximum error:   1.88359815446633772E-003
+                    total error:   6.18355474415030887E-002
+            normalization error:   6.17853174952841949E-002
+                      4030  of         4128 points improved.
+                      2762  of         4128 points had an good linear update.
+                       962  of         4128 points had an bad linear update.
+           8  the maximum error:   1.88207673355381437E-003
+                    total error:   6.17770187822465830E-002
+            normalization error:   6.17770187822465830E-002
+                      4042  of         4128 points improved.
+                      2468  of         4128 points had an good linear update.
+                       887  of         4128 points had an bad linear update.
+           9  the maximum error:   1.88142728684175756E-003
+                    total error:   6.17528406098124261E-002
+            normalization error:   6.17497365501361029E-002
+                      4042  of         4128 points improved.
+                      2794  of         4128 points had an good linear update.
+                       962  of         4128 points had an bad linear update.
+          10  the maximum error:   1.88133192714154927E-003
+                    total error:   6.17491812789814701E-002
+            normalization error:   6.17491812789814701E-002
+                      4042  of         4128 points improved.
+                      2787  of         4128 points had an good linear update.
+                       887  of         4128 points had an bad linear update.
+          11  the maximum error:   1.88129164872323246E-003
+                    total error:   6.17476916508014131E-002
+            normalization error:   6.17475058173346386E-002
+                      4042  of         4128 points improved.
+                      2811  of         4128 points had an good linear update.
+                       958  of         4128 points had an bad linear update.
+          12  the maximum error:   1.88128559138060498E-003
+                    total error:   6.17474629286657584E-002
+            normalization error:   6.17474629286657584E-002
+                      4042  of         4128 points improved.
+                      2795  of         4128 points had an good linear update.
+                       887  of         4128 points had an bad linear update.
+          13  the maximum error:   1.88128311618062879E-003
+                    total error:   6.17473714587772893E-002
+            normalization error:   6.17473603777890234E-002
+                      4042  of         4128 points improved.
+                      2806  of         4128 points had an good linear update.
+                       958  of         4128 points had an bad linear update.
+          14  the maximum error:   1.88128292417630229E-003
+                    total error:   6.17473571638290572E-002
+            normalization error:   6.17473571638290572E-002
+                      4042  of         4128 points improved.
+                      2808  of         4128 points had an good linear update.
+                       889  of         4128 points had an bad linear update.
+          15  the maximum error:   1.88128312089859136E-003
+                    total error:   6.17473512960433901E-002
+            normalization error:   6.17473506356288060E-002
+                      4031  of         4128 points improved.
+                      2710  of         4128 points had an good linear update.
+                       967  of         4128 points had an bad linear update.
+          16  the maximum error:   1.88128279444765389E-003
+                    total error:   6.17473512215959905E-002
+            normalization error:   6.17473512215959905E-002
+                      3830  of         4128 points improved.
+                      2703  of         4128 points had an good linear update.
+                       968  of         4128 points had an bad linear update.
+          17  the maximum error:   1.88128285320225404E-003
+                    total error:   6.17473525538698234E-002
+            normalization error:   6.17473525145125421E-002
+                      3740  of         4128 points improved.
+                      2690  of         4128 points had an good linear update.
+                       936  of         4128 points had an bad linear update.
+          18  the maximum error:   1.88128271054144856E-003
+                    total error:   6.17473521007187304E-002
+            normalization error:   6.17473521007187304E-002
+                      3673  of         4128 points improved.
+                      2692  of         4128 points had an good linear update.
+                       874  of         4128 points had an bad linear update.
+          19  the maximum error:   1.88128241554194608E-003
+                    total error:   6.17473518431630106E-002
+            normalization error:   6.17473518408190800E-002
+                      3644  of         4128 points improved.
+                      2437  of         4128 points had an good linear update.
+                       878  of         4128 points had an bad linear update.
+ ......resetting trust radii.......
+          20  the maximum error:   1.88128274217058407E-003
+                    total error:   6.17473515581075730E-002
+            normalization error:   6.17473515581075730E-002
+                      3553  of         4128 points improved.
+                      2296  of         4128 points had an good linear update.
+                       811  of         4128 points had an bad linear update.
+          21  the maximum error:   1.88128251118218509E-003
+                    total error:   6.17473529393579024E-002
+            normalization error:   6.17473529392204568E-002
+                      3579  of         4128 points improved.
+                      2117  of         4128 points had an good linear update.
+                       890  of         4128 points had an bad linear update.
+          22  the maximum error:   1.88128265212286782E-003
+                    total error:   6.17473507778660766E-002
+            normalization error:   6.17473507778660766E-002
+                      3481  of         4128 points improved.
+                      1650  of         4128 points had an good linear update.
+                       851  of         4128 points had an bad linear update.
+          23  the maximum error:   1.88128280407260859E-003
+                    total error:   6.17473501641091285E-002
+            normalization error:   6.17473501641019953E-002
+                      3278  of         4128 points improved.
+                      1066  of         4128 points had an good linear update.
+                       897  of         4128 points had an bad linear update.
+          24  the maximum error:   1.88128278525070687E-003
+                    total error:   6.17473555834186921E-002
+            normalization error:   6.17473555834186782E-002
+                      2921  of         4128 points improved.
+                       867  of         4128 points had an good linear update.
+                       793  of         4128 points had an bad linear update.
+          25  the maximum error:   1.88128245037840467E-003
+                    total error:   6.17473489374927714E-002
+            normalization error:   6.17473489374924592E-002
+                      2563  of         4128 points improved.
+                       624  of         4128 points had an good linear update.
+                       805  of         4128 points had an bad linear update.
+          26  the maximum error:   1.88128260106628655E-003
+                    total error:   6.17473511864698177E-002
+            normalization error:   6.17473511864697414E-002
+                      1974  of         4128 points improved.
+                       382  of         4128 points had an good linear update.
+                       808  of         4128 points had an bad linear update.
+          27  the maximum error:   1.88128288270407559E-003
+                    total error:   6.17473512489666240E-002
+            normalization error:   6.17473512489664991E-002
+                      1682  of         4128 points improved.
+                       315  of         4128 points had an good linear update.
+                       817  of         4128 points had an bad linear update.
+          28  the maximum error:   1.88128254089524804E-003
+                    total error:   6.17473524335648491E-002
+            normalization error:   6.17473524335647658E-002
+                      1451  of         4128 points improved.
+                       277  of         4128 points had an good linear update.
+                       777  of         4128 points had an bad linear update.
+          29  the maximum error:   1.88128260764237366E-003
+                    total error:   6.17473524552178202E-002
+            normalization error:   6.17473524552176953E-002
+                      1358  of         4128 points improved.
+                       240  of         4128 points had an good linear update.
+                       780  of         4128 points had an bad linear update.
+          30  the maximum error:   1.88128256979289295E-003
+                    total error:   6.17473505625271354E-002
+            normalization error:   6.17473505625270244E-002
+                      1320  of         4128 points improved.
+                       234  of         4128 points had an good linear update.
+                       773  of         4128 points had an bad linear update.
+          31  the maximum error:   1.88128279421248220E-003
+                    total error:   6.17473496021904086E-002
+            normalization error:   6.17473496021903115E-002
+                      1249  of         4128 points improved.
+                       235  of         4128 points had an good linear update.
+                       738  of         4128 points had an bad linear update.
+          32  the maximum error:   1.88128244693752840E-003
+                    total error:   6.17473499999054640E-002
+            normalization error:   6.17473499999053529E-002
+                      1262  of         4128 points improved.
+                       240  of         4128 points had an good linear update.
+                       726  of         4128 points had an bad linear update.
+          33  the maximum error:   1.88128263924108299E-003
+                    total error:   6.17473517519800258E-002
+            normalization error:   6.17473517519798801E-002
+                      1168  of         4128 points improved.
+                       222  of         4128 points had an good linear update.
+                       674  of         4128 points had an bad linear update.
+          34  the maximum error:   1.88128283440641740E-003
+                    total error:   6.17473516389188751E-002
+            normalization error:   6.17473516389186947E-002
+                      1194  of         4128 points improved.
+                       226  of         4128 points had an good linear update.
+                       708  of         4128 points had an bad linear update.
+          35  the maximum error:   1.88128255683410982E-003
+                    total error:   6.17473500333851344E-002
+            normalization error:   6.17473500333849817E-002
+                      1158  of         4128 points improved.
+                       224  of         4128 points had an good linear update.
+                       690  of         4128 points had an bad linear update.
+          36  the maximum error:   1.88128262901339429E-003
+                    total error:   6.17473516234301814E-002
+            normalization error:   6.17473516234300357E-002
+                      1169  of         4128 points improved.
+                       216  of         4128 points had an good linear update.
+                       693  of         4128 points had an bad linear update.
+          37  the maximum error:   1.88128264906194846E-003
+                    total error:   6.17473521609852583E-002
+            normalization error:   6.17473521609851056E-002
+                      1119  of         4128 points improved.
+                       218  of         4128 points had an good linear update.
+                       659  of         4128 points had an bad linear update.
+          38  the maximum error:   1.88128249345150119E-003
+                    total error:   6.17473504467825271E-002
+            normalization error:   6.17473504467824300E-002
+                      1134  of         4128 points improved.
+                       205  of         4128 points had an good linear update.
+                       684  of         4128 points had an bad linear update.
+          39  the maximum error:   1.88128262499730019E-003
+                    total error:   6.17473512754588491E-002
+            normalization error:   6.17473512754587520E-002
+                      1129  of         4128 points improved.
+                       222  of         4128 points had an good linear update.
+                       665  of         4128 points had an bad linear update.
+ ......resetting trust radii.......
+          40  the maximum error:   1.88128257485739472E-003
+                    total error:   6.17473520067395101E-002
+            normalization error:   6.17473520067393714E-002
+                      1094  of         4128 points improved.
+                       199  of         4128 points had an good linear update.
+                       662  of         4128 points had an bad linear update.
+          41  the maximum error:   1.88128261046660041E-003
+                    total error:   6.17473532992696902E-002
+            normalization error:   6.17473532992696070E-002
+                      1313  of         4128 points improved.
+                       229  of         4128 points had an good linear update.
+                       828  of         4128 points had an bad linear update.
+          42  the maximum error:   1.88128234500100624E-003
+                    total error:   6.17473508529432363E-002
+            normalization error:   6.17473508529431531E-002
+                      1234  of         4128 points improved.
+                       218  of         4128 points had an good linear update.
+                       777  of         4128 points had an bad linear update.
+          43  the maximum error:   1.88128280269866510E-003
+                    total error:   6.17473526867396358E-002
+            normalization error:   6.17473526867395109E-002
+                      1225  of         4128 points improved.
+                       187  of         4128 points had an good linear update.
+                       795  of         4128 points had an bad linear update.
+          44  the maximum error:   1.88128257445202823E-003
+                    total error:   6.17473515919944108E-002
+            normalization error:   6.17473515919943275E-002
+                      1254  of         4128 points improved.
+                       212  of         4128 points had an good linear update.
+                       814  of         4128 points had an bad linear update.
+          45  the maximum error:   1.88128264599213345E-003
+                    total error:   6.17473503657613096E-002
+            normalization error:   6.17473503657612124E-002
+                      1233  of         4128 points improved.
+                       189  of         4128 points had an good linear update.
+                       794  of         4128 points had an bad linear update.
+          46  the maximum error:   1.88128270223051632E-003
+                    total error:   6.17473498854744784E-002
+            normalization error:   6.17473498854743952E-002
+                      1203  of         4128 points improved.
+                       193  of         4128 points had an good linear update.
+                       791  of         4128 points had an bad linear update.
+          47  the maximum error:   1.88128269861173830E-003
+                    total error:   6.17473516063217626E-002
+            normalization error:   6.17473516063216932E-002
+                      1186  of         4128 points improved.
+                       200  of         4128 points had an good linear update.
+                       770  of         4128 points had an bad linear update.
+          48  the maximum error:   1.88128266876489824E-003
+                    total error:   6.17473498984438610E-002
+            normalization error:   6.17473498984437777E-002
+                      1198  of         4128 points improved.
+                       196  of         4128 points had an good linear update.
+                       771  of         4128 points had an bad linear update.
+          49  the maximum error:   1.88128275288657531E-003
+                    total error:   6.17473509197020987E-002
+            normalization error:   6.17473509197019738E-002
+                      1199  of         4128 points improved.
+                       195  of         4128 points had an good linear update.
+                       768  of         4128 points had an bad linear update.
+          50  the maximum error:   1.88128267586530075E-003
+                    total error:   6.17473514143834570E-002
+            normalization error:   6.17473514143833113E-002
+                      1170  of         4128 points improved.
+                       210  of         4128 points had an good linear update.
+                       764  of         4128 points had an bad linear update.
+ WARNING:  Failure to converge the normalization constraint.
+ This is usually because your integration grid is not accurate
+ enough. The program will continue but you should be careful 
+ about interpreting the results.
+ Program failed in solving full-grid Newton method.
+ Consider printing debug info.
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          6.9201279016257153     
+ LDA-based k.e. from hole       14.333606910471708     
+ one-point normalization KE     8.2249651011382774     
+ two-point normalization KE     8.1403946200857948     
+ exact k.e. from wfn file       7.7029920471438142     
+  
+  
+ For normalization using the following number of points:           0
+ The normalization test gives:    1.3033306907910218     
+ The exchange energy is:  -0.92984701015145732     
+  
+  
+ For normalization using the following number of points:           1
+ The normalization test gives:    3.3610074406469570     
+ The exchange energy is:   -1.9041853866201448     
+  
+  
+ For normalization using the following number of points:           2
+ The normalization test gives:    3.8765168719299243     
+ The exchange energy is:   -1.9626815557643156     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:    16.000000000000000     
+  
+  
+ For            1  point normalization.
+ Number of electrons,    2.0000057871515384     
+ Iteration info:
+           1  the maximum error:    5.0677684697672820     
+                    total error:   0.94211606426065275     
+            normalization error:   0.73508983068154077     
+                      4128  of         4128 points improved.
+                      4128  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           2  the maximum error:    3.9506051830995781     
+                    total error:   0.41731601255771111     
+            normalization error:   0.30336565882590882     
+                      3837  of         4128 points improved.
+                      1659  of         4128 points had an good linear update.
+                         8  of         4128 points had an bad linear update.
+           3  the maximum error:    1.8855770849446640     
+                    total error:   0.11457290586664355     
+            normalization error:   2.30575261632928151E-002
+                      3812  of         4128 points improved.
+                      1900  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           4  the maximum error:   0.38846707902908345     
+                    total error:   2.65765358989102328E-002
+            normalization error:   2.65704516646206208E-002
+                      3809  of         4128 points improved.
+                      3189  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           5  the maximum error:   5.88996878719607875E-002
+                    total error:   4.34139564148103545E-003
+            normalization error:   4.34139564148022621E-003
+                      3806  of         4128 points improved.
+                      3773  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           6  the maximum error:   1.94602079166273311E-003
+                    total error:   1.37245889274424009E-003
+            normalization error:   1.37245889274335278E-003
+                      3731  of         4128 points improved.
+                      3539  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           7  the maximum error:   2.26957334178505852E-006
+                    total error:   8.56839625008537303E-004
+            normalization error:   8.56839625007272689E-004
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    2.0000057871515384     
+ Iteration info:
+           1  the maximum error:   0.12893326202051791     
+                    total error:   0.39932894502812405     
+            normalization error:   0.36934694074267249     
+                      4128  of         4128 points improved.
+                      4128  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           2  the maximum error:   1.22254516923341917E-002
+                    total error:   0.18645069147107690     
+            normalization error:   0.17564022701944898     
+                      3974  of         4128 points improved.
+                      1883  of         4128 points had an good linear update.
+                      1011  of         4128 points had an bad linear update.
+           3  the maximum error:   3.27436251009184491E-003
+                    total error:   8.93702016921077425E-002
+            normalization error:   8.50241105751445569E-002
+                      3933  of         4128 points improved.
+                      2289  of         4128 points had an good linear update.
+                       899  of         4128 points had an bad linear update.
+           4  the maximum error:   2.29793457439586611E-003
+                    total error:   6.85654068844230580E-002
+            normalization error:   6.84919876845341002E-002
+                      3949  of         4128 points improved.
+                      1580  of         4128 points had an good linear update.
+                       818  of         4128 points had an bad linear update.
+           5  the maximum error:   2.03144468487787347E-003
+                    total error:   6.26855451727059282E-002
+            normalization error:   6.23342671319705513E-002
+                      4034  of         4128 points improved.
+                      2791  of         4128 points had an good linear update.
+                       826  of         4128 points had an bad linear update.
+           6  the maximum error:   1.97630356617476419E-003
+                    total error:   6.16228078568030052E-002
+            normalization error:   6.16228078568030052E-002
+                      4029  of         4128 points improved.
+                      2890  of         4128 points had an good linear update.
+                       774  of         4128 points had an bad linear update.
+           7  the maximum error:   1.96025166833894288E-003
+                    total error:   6.13090489756155030E-002
+            normalization error:   6.12953788943399261E-002
+                      4042  of         4128 points improved.
+                      3014  of         4128 points had an good linear update.
+                       802  of         4128 points had an bad linear update.
+           8  the maximum error:   1.95676071271148498E-003
+                    total error:   6.12468856847564885E-002
+            normalization error:   6.12468856847564885E-002
+                      4042  of         4128 points improved.
+                      2951  of         4128 points had an good linear update.
+                       774  of         4128 points had an bad linear update.
+           9  the maximum error:   1.95579773206902563E-003
+                    total error:   6.12293438544615418E-002
+            normalization error:   6.12289679989667032E-002
+                      4042  of         4128 points improved.
+                      2989  of         4128 points had an good linear update.
+                       802  of         4128 points had an bad linear update.
+          10  the maximum error:   1.95557209327285346E-003
+                    total error:   6.12254564442039836E-002
+            normalization error:   6.12254564442039836E-002
+                      4042  of         4128 points improved.
+                      2967  of         4128 points had an good linear update.
+                       782  of         4128 points had an bad linear update.
+          11  the maximum error:   1.95551331408624516E-003
+                    total error:   6.12244354330807247E-002
+            normalization error:   6.12244267779795126E-002
+                      4042  of         4128 points improved.
+                      2969  of         4128 points had an good linear update.
+                       802  of         4128 points had an bad linear update.
+          12  the maximum error:   1.95549898601846215E-003
+                    total error:   6.12241924611846636E-002
+            normalization error:   6.12241924611846636E-002
+                      4042  of         4128 points improved.
+                      2964  of         4128 points had an good linear update.
+                       782  of         4128 points had an bad linear update.
+          13  the maximum error:   1.95549530450141520E-003
+                    total error:   6.12241305954351334E-002
+            normalization error:   6.12241304083216697E-002
+                      4042  of         4128 points improved.
+                      2969  of         4128 points had an good linear update.
+                       798  of         4128 points had an bad linear update.
+          14  the maximum error:   1.95549441771457160E-003
+                    total error:   6.12241154190704198E-002
+            normalization error:   6.12241154190704198E-002
+                      4042  of         4128 points improved.
+                      2957  of         4128 points had an good linear update.
+                       794  of         4128 points had an bad linear update.
+          15  the maximum error:   1.95549518148509368E-003
+                    total error:   6.12241110984141981E-002
+            normalization error:   6.12241110944472047E-002
+                      4019  of         4128 points improved.
+                      2890  of         4128 points had an good linear update.
+                       808  of         4128 points had an bad linear update.
+          16  the maximum error:   1.95549411656836510E-003
+                    total error:   6.12241120638040703E-002
+            normalization error:   6.12241120638040703E-002
+                      3775  of         4128 points improved.
+                      2608  of         4128 points had an good linear update.
+                       827  of         4128 points had an bad linear update.
+          17  the maximum error:   1.95549471385666812E-003
+                    total error:   6.12241113723212479E-002
+            normalization error:   6.12241113722381061E-002
+                      3587  of         4128 points improved.
+                      2227  of         4128 points had an good linear update.
+                       847  of         4128 points had an bad linear update.
+          18  the maximum error:   1.95549387530193205E-003
+                    total error:   6.12241134391528080E-002
+            normalization error:   6.12241134391527803E-002
+                      3242  of         4128 points improved.
+                      1989  of         4128 points had an good linear update.
+                       728  of         4128 points had an bad linear update.
+          19  the maximum error:   1.95549399022879999E-003
+                    total error:   6.12241099848645637E-002
+            normalization error:   6.12241099848634604E-002
+                      3047  of         4128 points improved.
+                      1571  of         4128 points had an good linear update.
+                       691  of         4128 points had an bad linear update.
+ ......resetting trust radii.......
+          20  the maximum error:   1.95549427419011148E-003
+                    total error:   6.12241113292537886E-002
+            normalization error:   6.12241113292536915E-002
+                      2502  of         4128 points improved.
+                       773  of         4128 points had an good linear update.
+                       695  of         4128 points had an bad linear update.
+          21  the maximum error:   1.95549514606555355E-003
+                    total error:   6.12241105414133707E-002
+            normalization error:   6.12241105414130654E-002
+                      1903  of         4128 points improved.
+                       538  of         4128 points had an good linear update.
+                       677  of         4128 points had an bad linear update.
+          22  the maximum error:   1.95549399077489701E-003
+                    total error:   6.12241114398521802E-002
+            normalization error:   6.12241114398519165E-002
+                      1614  of         4128 points improved.
+                       455  of         4128 points had an good linear update.
+                       661  of         4128 points had an bad linear update.
+          23  the maximum error:   1.95549398648589947E-003
+                    total error:   6.12241119395690453E-002
+            normalization error:   6.12241119395688788E-002
+                      1486  of         4128 points improved.
+                       430  of         4128 points had an good linear update.
+                       676  of         4128 points had an bad linear update.
+          24  the maximum error:   1.95549400428431282E-003
+                    total error:   6.12241114079843315E-002
+            normalization error:   6.12241114079841095E-002
+                      1394  of         4128 points improved.
+                       410  of         4128 points had an good linear update.
+                       643  of         4128 points had an bad linear update.
+          25  the maximum error:   1.95549436218293805E-003
+                    total error:   6.12241121579602601E-002
+            normalization error:   6.12241121579601144E-002
+                      1299  of         4128 points improved.
+                       392  of         4128 points had an good linear update.
+                       614  of         4128 points had an bad linear update.
+          26  the maximum error:   1.95549483290708868E-003
+                    total error:   6.12241106734815743E-002
+            normalization error:   6.12241106734814078E-002
+                      1249  of         4128 points improved.
+                       385  of         4128 points had an good linear update.
+                       604  of         4128 points had an bad linear update.
+          27  the maximum error:   1.95549382694441181E-003
+                    total error:   6.12241112677469820E-002
+            normalization error:   6.12241112677467947E-002
+                      1250  of         4128 points improved.
+                       384  of         4128 points had an good linear update.
+                       610  of         4128 points had an bad linear update.
+          28  the maximum error:   1.95549419660374186E-003
+                    total error:   6.12241119237469378E-002
+            normalization error:   6.12241119237467574E-002
+                      1184  of         4128 points improved.
+                       366  of         4128 points had an good linear update.
+                       579  of         4128 points had an bad linear update.
+          29  the maximum error:   1.95549404022606586E-003
+                    total error:   6.12241106300994362E-002
+            normalization error:   6.12241106300992557E-002
+                      1112  of         4128 points improved.
+                       365  of         4128 points had an good linear update.
+                       531  of         4128 points had an bad linear update.
+          30  the maximum error:   1.95549381874206979E-003
+                    total error:   6.12241112646618457E-002
+            normalization error:   6.12241112646616861E-002
+                      1110  of         4128 points improved.
+                       342  of         4128 points had an good linear update.
+                       540  of         4128 points had an bad linear update.
+          31  the maximum error:   1.95549439305360041E-003
+                    total error:   6.12241117304057059E-002
+            normalization error:   6.12241117304055324E-002
+                      1071  of         4128 points improved.
+                       356  of         4128 points had an good linear update.
+                       507  of         4128 points had an bad linear update.
+          32  the maximum error:   1.95549413805316818E-003
+                    total error:   6.12241128971965365E-002
+            normalization error:   6.12241128971964046E-002
+                      1083  of         4128 points improved.
+                       358  of         4128 points had an good linear update.
+                       518  of         4128 points had an bad linear update.
+          33  the maximum error:   1.95549453730217530E-003
+                    total error:   6.12241122671601593E-002
+            normalization error:   6.12241122671599927E-002
+                      1066  of         4128 points improved.
+                       348  of         4128 points had an good linear update.
+                       515  of         4128 points had an bad linear update.
+          34  the maximum error:   1.95549416171020545E-003
+                    total error:   6.12241115780427919E-002
+            normalization error:   6.12241115780426670E-002
+                      1103  of         4128 points improved.
+                       340  of         4128 points had an good linear update.
+                       536  of         4128 points had an bad linear update.
+          35  the maximum error:   1.95549396702602522E-003
+                    total error:   6.12241121528346519E-002
+            normalization error:   6.12241121528344021E-002
+                      1129  of         4128 points improved.
+                       366  of         4128 points had an good linear update.
+                       527  of         4128 points had an bad linear update.
+          36  the maximum error:   1.95549412250869753E-003
+                    total error:   6.12241115741733871E-002
+            normalization error:   6.12241115741731790E-002
+                      1081  of         4128 points improved.
+                       356  of         4128 points had an good linear update.
+                       506  of         4128 points had an bad linear update.
+          37  the maximum error:   1.95549393899751515E-003
+                    total error:   6.12241121321745671E-002
+            normalization error:   6.12241121321744422E-002
+                      1019  of         4128 points improved.
+                       363  of         4128 points had an good linear update.
+                       460  of         4128 points had an bad linear update.
+          38  the maximum error:   1.95549418288138571E-003
+                    total error:   6.12241112620571307E-002
+            normalization error:   6.12241112620569919E-002
+                      1064  of         4128 points improved.
+                       366  of         4128 points had an good linear update.
+                       505  of         4128 points had an bad linear update.
+          39  the maximum error:   1.95549389166865166E-003
+                    total error:   6.12241120879225414E-002
+            normalization error:   6.12241120879224096E-002
+                       980  of         4128 points improved.
+                       339  of         4128 points had an good linear update.
+                       445  of         4128 points had an bad linear update.
+ ......resetting trust radii.......
+          40  the maximum error:   1.95549444442839025E-003
+                    total error:   6.12241125871505684E-002
+            normalization error:   6.12241125871504019E-002
+                       969  of         4128 points improved.
+                       347  of         4128 points had an good linear update.
+                       464  of         4128 points had an bad linear update.
+          41  the maximum error:   1.95549441774755042E-003
+                    total error:   6.12241122856579459E-002
+            normalization error:   6.12241122856577655E-002
+                      1169  of         4128 points improved.
+                       358  of         4128 points had an good linear update.
+                       599  of         4128 points had an bad linear update.
+          42  the maximum error:   1.95549396125471774E-003
+                    total error:   6.12241117109580402E-002
+            normalization error:   6.12241117109578736E-002
+                      1170  of         4128 points improved.
+                       353  of         4128 points had an good linear update.
+                       608  of         4128 points had an bad linear update.
+          43  the maximum error:   1.95549484491022154E-003
+                    total error:   6.12241112907093918E-002
+            normalization error:   6.12241112907091767E-002
+                      1162  of         4128 points improved.
+                       341  of         4128 points had an good linear update.
+                       606  of         4128 points had an bad linear update.
+          44  the maximum error:   1.95549441316076504E-003
+                    total error:   6.12241122950816299E-002
+            normalization error:   6.12241122950814634E-002
+                      1101  of         4128 points improved.
+                       325  of         4128 points had an good linear update.
+                       584  of         4128 points had an bad linear update.
+          45  the maximum error:   1.95549388620259957E-003
+                    total error:   6.12241120375711378E-002
+            normalization error:   6.12241120375709852E-002
+                      1080  of         4128 points improved.
+                       328  of         4128 points had an good linear update.
+                       577  of         4128 points had an bad linear update.
+          46  the maximum error:   1.95549396474914644E-003
+                    total error:   6.12241121817901565E-002
+            normalization error:   6.12241121817900039E-002
+                      1087  of         4128 points improved.
+                       328  of         4128 points had an good linear update.
+                       577  of         4128 points had an bad linear update.
+          47  the maximum error:   1.95549409328801263E-003
+                    total error:   6.12241116747741787E-002
+            normalization error:   6.12241116747739844E-002
+                      1053  of         4128 points improved.
+                       330  of         4128 points had an good linear update.
+                       556  of         4128 points had an bad linear update.
+          48  the maximum error:   1.95549411035013951E-003
+                    total error:   6.12241121196330923E-002
+            normalization error:   6.12241121196329743E-002
+                      1087  of         4128 points improved.
+                       327  of         4128 points had an good linear update.
+                       588  of         4128 points had an bad linear update.
+          49  the maximum error:   1.95549439734835941E-003
+                    total error:   6.12241119032179010E-002
+            normalization error:   6.12241119032177969E-002
+                      1074  of         4128 points improved.
+                       336  of         4128 points had an good linear update.
+                       549  of         4128 points had an bad linear update.
+          50  the maximum error:   1.95549452614526397E-003
+                    total error:   6.12241118854983946E-002
+            normalization error:   6.12241118854981864E-002
+                      1044  of         4128 points improved.
+                       335  of         4128 points had an good linear update.
+                       537  of         4128 points had an bad linear update.
+ WARNING:  Failure to converge the normalization constraint.
+ This is usually because your integration grid is not accurate
+ enough. The program will continue but you should be careful 
+ about interpreting the results.
+ Program failed in solving full-grid Newton method.
+ Consider printing debug info.
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          6.9201279016257153     
+ LDA-based k.e. from hole       14.333606910471708     
+ one-point normalization KE     8.2249651011382774     
+ two-point normalization KE     8.0917353755581658     
+ exact k.e. from wfn file       7.7029920471438142     
+  
+  
+ For normalization using the following number of points:           0
+ The normalization test gives:    1.2294070221630473     
+ The exchange energy is:  -0.89535466898787686     
+  
+  
+ For normalization using the following number of points:           1
+ The normalization test gives:    3.2613176927872711     
+ The exchange energy is:   -1.8844266593712087     
+  
+  
+ For normalization using the following number of points:           2
+ The normalization test gives:    3.8775633492741308     
+ The exchange energy is:   -1.9661366705138927     
+  
+ -------------------------------------------------------------------
+ p value for generalized p-mean:    32.000000000000000     
+  
+  
+ For            1  point normalization.
+ Number of electrons,    2.0000057871515384     
+ Iteration info:
+           1  the maximum error:    5.0677684697672820     
+                    total error:   0.94211606426065275     
+            normalization error:   0.73508983068154077     
+                      4128  of         4128 points improved.
+                      4128  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           2  the maximum error:    3.9506051830995781     
+                    total error:   0.41731601255771111     
+            normalization error:   0.30336565882590882     
+                      3837  of         4128 points improved.
+                      1659  of         4128 points had an good linear update.
+                         8  of         4128 points had an bad linear update.
+           3  the maximum error:    1.8855770849446640     
+                    total error:   0.11457290586664355     
+            normalization error:   2.30575261632928151E-002
+                      3812  of         4128 points improved.
+                      1900  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           4  the maximum error:   0.38846707902908345     
+                    total error:   2.65765358989102328E-002
+            normalization error:   2.65704516646206208E-002
+                      3809  of         4128 points improved.
+                      3189  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           5  the maximum error:   5.88996878719607875E-002
+                    total error:   4.34139564148103545E-003
+            normalization error:   4.34139564148022621E-003
+                      3806  of         4128 points improved.
+                      3773  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           6  the maximum error:   1.94602079166273311E-003
+                    total error:   1.37245889274424009E-003
+            normalization error:   1.37245889274335278E-003
+                      3731  of         4128 points improved.
+                      3539  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           7  the maximum error:   2.26957334178505852E-006
+                    total error:   8.56839625008537303E-004
+            normalization error:   8.56839625007272689E-004
+           1 -point hole normalization converged.
+  
+  
+ For            2  point normalization.
+ Number of electrons,    2.0000057871515384     
+ Iteration info:
+           1  the maximum error:   6.58721424648339854E-002
+                    total error:   0.41251625852152352     
+            normalization error:   0.39953882237206884     
+                      4128  of         4128 points improved.
+                      4128  of         4128 points had an good linear update.
+                         0  of         4128 points had an bad linear update.
+           2  the maximum error:   1.24693143628748469E-002
+                    total error:   0.18974708956348571     
+            normalization error:   0.17256437835956664     
+                      3992  of         4128 points improved.
+                      1264  of         4128 points had an good linear update.
+                      1032  of         4128 points had an bad linear update.
+           3  the maximum error:   3.44932769500520472E-003
+                    total error:   9.23100902716563892E-002
+            normalization error:   8.95283506052043654E-002
+                      3980  of         4128 points improved.
+                      2516  of         4128 points had an good linear update.
+                       900  of         4128 points had an bad linear update.
+           4  the maximum error:   2.31057973631379780E-003
+                    total error:   6.78858556372894661E-002
+            normalization error:   6.77229339353478954E-002
+                      4002  of         4128 points improved.
+                      2746  of         4128 points had an good linear update.
+                       830  of         4128 points had an bad linear update.
+           5  the maximum error:   2.05325425150235975E-003
+                    total error:   6.25306367826027609E-002
+            normalization error:   6.24076523404033384E-002
+                      3982  of         4128 points improved.
+                      2667  of         4128 points had an good linear update.
+                       822  of         4128 points had an bad linear update.
+           6  the maximum error:   1.99179456577338720E-003
+                    total error:   6.13834771131084658E-002
+            normalization error:   6.13834771131084658E-002
+                      4041  of         4128 points improved.
+                      2081  of         4128 points had an good linear update.
+                       806  of         4128 points had an bad linear update.
+           7  the maximum error:   1.97569627832014415E-003
+                    total error:   6.10905923301446746E-002
+            normalization error:   6.10866757685411821E-002
+                      4042  of         4128 points improved.
+                      2943  of         4128 points had an good linear update.
+                       802  of         4128 points had an bad linear update.
+           8  the maximum error:   1.97186866586271988E-003
+                    total error:   6.10245636027896762E-002
+            normalization error:   6.10245636027896762E-002
+                      4038  of         4128 points improved.
+                      2939  of         4128 points had an good linear update.
+                       802  of         4128 points had an bad linear update.
+           9  the maximum error:   1.97089654129956049E-003
+                    total error:   6.10078611286940936E-002
+            normalization error:   6.10077847513272320E-002
+                      4042  of         4128 points improved.
+                      2959  of         4128 points had an good linear update.
+                       802  of         4128 points had an bad linear update.
+          10  the maximum error:   1.97065692046546849E-003
+                    total error:   6.10038142821042600E-002
+            normalization error:   6.10038142821042600E-002
+                      4042  of         4128 points improved.
+                      2943  of         4128 points had an good linear update.
+                       802  of         4128 points had an bad linear update.
+          11  the maximum error:   1.97059658144095292E-003
+                    total error:   6.10027948406100459E-002
+            normalization error:   6.10027939465464797E-002
+                      4042  of         4128 points improved.
+                      2947  of         4128 points had an good linear update.
+                       802  of         4128 points had an bad linear update.
+          12  the maximum error:   1.97058156191502395E-003
+                    total error:   6.10025419015361586E-002
+            normalization error:   6.10025419015361586E-002
+                      4042  of         4128 points improved.
+                      2935  of         4128 points had an good linear update.
+                       802  of         4128 points had an bad linear update.
+          13  the maximum error:   1.97057779732201944E-003
+                    total error:   6.10024785784504392E-002
+            normalization error:   6.10024785701602512E-002
+                      3916  of         4128 points improved.
+                      2542  of         4128 points had an good linear update.
+                       806  of         4128 points had an bad linear update.
+          14  the maximum error:   1.97057672368628617E-003
+                    total error:   6.10024628811046063E-002
+            normalization error:   6.10024628811045647E-002
+                      3684  of         4128 points improved.
+                      2289  of         4128 points had an good linear update.
+                       806  of         4128 points had an bad linear update.
+          15  the maximum error:   1.97057612177705538E-003
+                    total error:   6.10024583892782787E-002
+            normalization error:   6.10024583892109645E-002
+                      3478  of         4128 points improved.
+                      2034  of         4128 points had an good linear update.
+                       820  of         4128 points had an bad linear update.
+          16  the maximum error:   1.97057666670610605E-003
+                    total error:   6.10024587823833481E-002
+            normalization error:   6.10024587823833203E-002
+                      3172  of         4128 points improved.
+                      1817  of         4128 points had an good linear update.
+                       891  of         4128 points had an bad linear update.
+          17  the maximum error:   1.97057751095637904E-003
+                    total error:   6.10024598722996303E-002
+            normalization error:   6.10024598722988948E-002
+                      2766  of         4128 points improved.
+                      1025  of         4128 points had an good linear update.
+                       799  of         4128 points had an bad linear update.
+          18  the maximum error:   1.97057787686875799E-003
+                    total error:   6.10024591581325021E-002
+            normalization error:   6.10024591581314751E-002
+                      2037  of         4128 points improved.
+                       538  of         4128 points had an good linear update.
+                       739  of         4128 points had an bad linear update.
+          19  the maximum error:   1.97057638124353710E-003
+                    total error:   6.10024629969892762E-002
+            normalization error:   6.10024629969881799E-002
+                      1734  of         4128 points improved.
+                       461  of         4128 points had an good linear update.
+                       722  of         4128 points had an bad linear update.
+ ......resetting trust radii.......
+          20  the maximum error:   1.97057696985341452E-003
+                    total error:   6.10024635971822410E-002
+            normalization error:   6.10024635971809365E-002
+                      1478  of         4128 points improved.
+                       405  of         4128 points had an good linear update.
+                       671  of         4128 points had an bad linear update.
+          21  the maximum error:   1.97057624030316011E-003
+                    total error:   6.10024641779418481E-002
+            normalization error:   6.10024641779410987E-002
+                      1429  of         4128 points improved.
+                       400  of         4128 points had an good linear update.
+                       701  of         4128 points had an bad linear update.
+          22  the maximum error:   1.97057659217597572E-003
+                    total error:   6.10024623232122074E-002
+            normalization error:   6.10024623232115898E-002
+                      1328  of         4128 points improved.
+                       361  of         4128 points had an good linear update.
+                       667  of         4128 points had an bad linear update.
+          23  the maximum error:   1.97057648913238209E-003
+                    total error:   6.10024634484804817E-002
+            normalization error:   6.10024634484799960E-002
+                      1270  of         4128 points improved.
+                       349  of         4128 points had an good linear update.
+                       658  of         4128 points had an bad linear update.
+          24  the maximum error:   1.97057643656796963E-003
+                    total error:   6.10024621302732092E-002
+            normalization error:   6.10024621302727235E-002
+                      1231  of         4128 points improved.
+                       363  of         4128 points had an good linear update.
+                       652  of         4128 points had an bad linear update.
+          25  the maximum error:   1.97057729973389379E-003
+                    total error:   6.10024626223273150E-002
+            normalization error:   6.10024626223268640E-002
+                      1184  of         4128 points improved.
+                       349  of         4128 points had an good linear update.
+                       639  of         4128 points had an bad linear update.
+          26  the maximum error:   1.97057713869385094E-003
+                    total error:   6.10024636959663191E-002
+            normalization error:   6.10024636959658612E-002
+                      1183  of         4128 points improved.
+                       343  of         4128 points had an good linear update.
+                       636  of         4128 points had an bad linear update.
+          27  the maximum error:   1.97057664393137733E-003
+                    total error:   6.10024624796317305E-002
+            normalization error:   6.10024624796315015E-002
+                      1138  of         4128 points improved.
+                       316  of         4128 points had an good linear update.
+                       610  of         4128 points had an bad linear update.
+          28  the maximum error:   1.97057667353710449E-003
+                    total error:   6.10024618706580743E-002
+            normalization error:   6.10024618706574359E-002
+                      1111  of         4128 points improved.
+                       332  of         4128 points had an good linear update.
+                       584  of         4128 points had an bad linear update.
+          29  the maximum error:   1.97057601312749771E-003
+                    total error:   6.10024614548763180E-002
+            normalization error:   6.10024614548755964E-002
+                      1117  of         4128 points improved.
+                       317  of         4128 points had an good linear update.
+                       600  of         4128 points had an bad linear update.
+          30  the maximum error:   1.97057713654512226E-003
+                    total error:   6.10024626775434245E-002
+            normalization error:   6.10024626775429457E-002
+                      1080  of         4128 points improved.
+                       328  of         4128 points had an good linear update.
+                       563  of         4128 points had an bad linear update.
+          31  the maximum error:   1.97057663860276868E-003
+                    total error:   6.10024613768137963E-002
+            normalization error:   6.10024613768131718E-002
+                      1083  of         4128 points improved.
+                       338  of         4128 points had an good linear update.
+                       560  of         4128 points had an bad linear update.
+          32  the maximum error:   1.97057687502991087E-003
+                    total error:   6.10024597001551441E-002
+            normalization error:   6.10024597001545058E-002
+                      1048  of         4128 points improved.
+                       317  of         4128 points had an good linear update.
+                       530  of         4128 points had an bad linear update.
+          33  the maximum error:   1.97057727924676096E-003
+                    total error:   6.10024617825878010E-002
+            normalization error:   6.10024617825872736E-002
+                       983  of         4128 points improved.
+                       329  of         4128 points had an good linear update.
+                       468  of         4128 points had an bad linear update.
+          34  the maximum error:   1.97057569204379945E-003
+                    total error:   6.10024627177043338E-002
+            normalization error:   6.10024627177038342E-002
+                       989  of         4128 points improved.
+                       332  of         4128 points had an good linear update.
+                       496  of         4128 points had an bad linear update.
+          35  the maximum error:   1.97057649269264008E-003
+                    total error:   6.10024621651570828E-002
+            normalization error:   6.10024621651564722E-002
+                      1014  of         4128 points improved.
+                       320  of         4128 points had an good linear update.
+                       521  of         4128 points had an bad linear update.
+          36  the maximum error:   1.97057615562183349E-003
+                    total error:   6.10024635455897885E-002
+            normalization error:   6.10024635455892889E-002
+                       964  of         4128 points improved.
+                       316  of         4128 points had an good linear update.
+                       484  of         4128 points had an bad linear update.
+          37  the maximum error:   1.97057672144260220E-003
+                    total error:   6.10024604508738813E-002
+            normalization error:   6.10024604508733331E-002
+                       937  of         4128 points improved.
+                       317  of         4128 points had an good linear update.
+                       487  of         4128 points had an bad linear update.
+          38  the maximum error:   1.97057615144454823E-003
+                    total error:   6.10024599478383375E-002
+            normalization error:   6.10024599478378657E-002
+                       918  of         4128 points improved.
+                       323  of         4128 points had an good linear update.
+                       452  of         4128 points had an bad linear update.
+          39  the maximum error:   1.97057645720601820E-003
+                    total error:   6.10024611234717129E-002
+            normalization error:   6.10024611234712133E-002
+                       875  of         4128 points improved.
+                       301  of         4128 points had an good linear update.
+                       424  of         4128 points had an bad linear update.
+ ......resetting trust radii.......
+          40  the maximum error:   1.97057651964871461E-003
+                    total error:   6.10024630309602134E-002
+            normalization error:   6.10024630309599497E-002
+                       910  of         4128 points improved.
+                       307  of         4128 points had an good linear update.
+                       444  of         4128 points had an bad linear update.
+          41  the maximum error:   1.97057735759513476E-003
+                    total error:   6.10024616514597343E-002
+            normalization error:   6.10024616514594428E-002
+                      1126  of         4128 points improved.
+                       332  of         4128 points had an good linear update.
+                       611  of         4128 points had an bad linear update.
+          42  the maximum error:   1.97057617804857668E-003
+                    total error:   6.10024598021779232E-002
+            normalization error:   6.10024598021774375E-002
+                      1096  of         4128 points improved.
+                       311  of         4128 points had an good linear update.
+                       619  of         4128 points had an bad linear update.
+          43  the maximum error:   1.97057694078666421E-003
+                    total error:   6.10024639353955039E-002
+            normalization error:   6.10024639353949211E-002
+                      1065  of         4128 points improved.
+                       318  of         4128 points had an good linear update.
+                       590  of         4128 points had an bad linear update.
+          44  the maximum error:   1.97057727163591281E-003
+                    total error:   6.10024601906445155E-002
+            normalization error:   6.10024601906439465E-002
+                      1083  of         4128 points improved.
+                       318  of         4128 points had an good linear update.
+                       601  of         4128 points had an bad linear update.
+          45  the maximum error:   1.97057680911019413E-003
+                    total error:   6.10024602311893677E-002
+            normalization error:   6.10024602311885697E-002
+                      1040  of         4128 points improved.
+                       293  of         4128 points had an good linear update.
+                       601  of         4128 points had an bad linear update.
+          46  the maximum error:   1.97057654078606993E-003
+                    total error:   6.10024617692023902E-002
+            normalization error:   6.10024617692015991E-002
+                      1034  of         4128 points improved.
+                       298  of         4128 points had an good linear update.
+                       588  of         4128 points had an bad linear update.
+          47  the maximum error:   1.97057650092477381E-003
+                    total error:   6.10024614048715191E-002
+            normalization error:   6.10024614048710195E-002
+                      1021  of         4128 points improved.
+                       323  of         4128 points had an good linear update.
+                       554  of         4128 points had an bad linear update.
+          48  the maximum error:   1.97057595763680884E-003
+                    total error:   6.10024601731113045E-002
+            normalization error:   6.10024601731109159E-002
+                      1029  of         4128 points improved.
+                       320  of         4128 points had an good linear update.
+                       546  of         4128 points had an bad linear update.
+          49  the maximum error:   1.97057645955415377E-003
+                    total error:   6.10024613523105635E-002
+            normalization error:   6.10024613523101333E-002
+                      1000  of         4128 points improved.
+                       319  of         4128 points had an good linear update.
+                       538  of         4128 points had an bad linear update.
+          50  the maximum error:   1.97057645148107728E-003
+                    total error:   6.10024595521013527E-002
+            normalization error:   6.10024595521010196E-002
+                       968  of         4128 points improved.
+                       307  of         4128 points had an good linear update.
+                       512  of         4128 points had an bad linear update.
+ WARNING:  Failure to converge the normalization constraint.
+ This is usually because your integration grid is not accurate
+ enough. The program will continue but you should be careful 
+ about interpreting the results.
+ Program failed in solving full-grid Newton method.
+ Consider printing debug info.
+ for g"(0) = -3/5
+ Thomas-Fermi-ish k.e.          6.9201279016257153     
+ LDA-based k.e. from hole       14.333606910471708     
+ one-point normalization KE     8.2249651011382774     
+ two-point normalization KE     8.0661852966926890     
+ exact k.e. from wfn file       7.7029920471438142     
+  
+  
+ For normalization using the following number of points:           0
+ The normalization test gives:    1.1880008722494488     
+ The exchange energy is:  -0.87531953163723131     
+  
+  
+ For normalization using the following number of points:           1
+ The normalization test gives:    3.2009339295273720     
+ The exchange energy is:   -1.8713828005887487     
+  
+  
+ For normalization using the following number of points:           2
+ The normalization test gives:    3.8780066540547691     
+ The exchange energy is:   -1.9672940199602675     
+  
+dhcp-8-22:KEfromHole ayers$ 

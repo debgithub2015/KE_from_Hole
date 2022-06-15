@@ -1,0 +1,59 @@
+!
+!
+5  ! Nr = Permits to set the minimum number of points in the radial grid.
+!	   
+!	
+!   
+!
+!
+5.4 ! Rm = Parameter of radial grid. Atomic radius.  For the KE application you may
+!          want to use a larger number than this, as this is related to the maximum
+!          radial point.
+!        ! H -- 6.0
+!	 ! He -- 5.4
+!	 ! Li --  
+!	 ! Be -- 8.0
+!	 ! B
+!	 ! C 
+!	 ! N 
+!	 ! O 
+!	 ! F 
+!	 ! Ne -- 5.0
+!	 ! Mg -- 10.0
+!	 ! Ar -- 8.7	
+!
+38 ! Lebedev_order = Permits to set the Lebedev angular grid.
+!
+! 38 - Lebedev grid with 38 points
+! 50 - Lebedev grid with 50 points
+! 86 - Lebedev grid with 86 points
+! 110 - Lebedev grid with 110 points
+! 170 - Lebedev grid with 110 points
+! 350 - Lebedev grid with 110 points
+! 1202 - Lebedev grid with 110 points
+!
+!
+!
+2 ! Z_Atomic = Permits to choose among the list of atoms.
+!
+!	1 - H		
+!	2 - He	
+!	3 - Li	! Not coded yet
+!	4 - Be	
+!	5 - B	 ! Not coded yet 
+!	6 - C	! Not coded yet	
+!	7 - N	 ! Not coded yet
+!	8 - O	 ! Not coded yet
+!	9 - F	 ! Not coded yet
+!       10 - Ne
+!	12 - Mg
+!	18 - Ar	
+!
+.33 ! exp_step.  The step size for computing the derivatives
+!     on the grid is EPSILON**exp_step.  
+!     It is reasonable to choose exp_step as large as MAYBE
+!     .75.  .25, .33, .5, and .67 are imminently reasonable.
+!     If you suspect that your function is ill-conditioned, a
+!     smaller step size may give rise to giant round-off errors!!
+!
+!

@@ -1,0 +1,30 @@
+! If you change the values of the parameters, be sure to keep the same notation as the default value
+! (real/integer/scientific E notation/...)
+
+
+! The number of iterations in the Becke weight
+! Becke suggested three in his paper
+! DEFAULT: 3
+stepfunction iterations = 3
+
+! The number of points on the Lebedev grid
+! The following grids are provided: 6,14,26,38,50,74,86,110,146,170,194,230,266,302,350
+! 434,590,770,974,1202,1454,1730,2030,2354,2702,3074,3470,3890,4334,4802,5294,5810
+! Bigger grids offer a better integration precision, but also means slower calculations
+! DEFAULT: 170
+grid = 86
+
+! Factor to increase the number of radial points for all atoms.
+! The higher the number, the more radial integration points in the Gauss-Chebyshev of second order.
+! Setting this equal to 1, results in Becke's recommendations.
+! May need to be increased for troublesome integrations, but bigger means slower
+! DEFAULT: 1.0
+radfac = 0.70
+
+**********************************************************************
+Program based on the following articles:
+
+A multicenter numerical integration scheme for polyatomic molecules
+A.D. Becke
+J. Chem. Phys. 88, 4 (1988)
+**********************************************************************
